@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 3 gestartet - Kapitel IT und Zugriffe als
+eigene technische Regelungsebene ergaenzt
+
 Stand 02.04.2026: RSI-Schritt 2 gestartet - Kapitel Datenschutz und
 Vertraulichkeit als verbindliche Grundebene ergaenzt
 
@@ -44,6 +47,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [policy] RSI-Schritt 3: Kapitel IT und Zugriffe als V1 fuer das
+  Sammeldokument ausformulieren
 - [x] [P1] [policy] RSI-Schritt 2: Kapitel Datenschutz und Vertraulichkeit
   als V1 fuer das Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 1: Kapitel Mitarbeitenden-Handbuch als V1

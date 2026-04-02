@@ -2,6 +2,7 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 3: Kapitel IT und Zugriffe als V1 ergaenzt
 - RSI-Schritt 2: Kapitel Datenschutz und Vertraulichkeit als V1 ergaenzt
 - RSI-Schritt 1: Kapitel Mitarbeitenden-Handbuch als Einstiegsebene fuer das
   Sammeldokument ergaenzt

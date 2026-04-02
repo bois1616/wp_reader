@@ -22,10 +22,11 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 5. Sprach- und Kommunikationsleitfaden
 6. Mitarbeitenden-Handbuch
 7. Datenschutz und Vertraulichkeit
-8. Code of Conduct
-9. Technische Dienstanweisung Diensthandys
-10. Offene Punkte
-11. Hinweise zur finalen Auslieferung
+8. IT und Zugriffe
+9. Code of Conduct
+10. Technische Dienstanweisung Diensthandys
+11. Offene Punkte
+12. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -295,11 +296,89 @@ Dieses Kapitel wird ergaenzt durch:
 
 Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
 
-- welche konkreten Systeme und Datenablaegen genutzt werden
+- welche konkreten Systeme und Datenablagen genutzt werden
 - welche Melde- und Eskalationsschritte intern formal gelten
 - welche Datenbearbeitungen im kantonalen Auftrag erfolgen
 
-## 8. Code of Conduct
+## 8. IT und Zugriffe
+
+### 8.1 Zweck
+
+Dieses Kapitel regelt den Umgang mit Systemen, Geraeten, Konten, Zugriffsrechten
+und anderen technischen oder administrativen Zugangsmitteln.
+
+### 8.2 Grundsaetze
+
+Zugriffe werden nur im noetigen Umfang vergeben, genutzt und weitergefuehrt.
+
+Es gilt insbesondere:
+
+- keine Weitergabe von Passwoertern oder Zugangsdaten an unbefugte Personen
+- keine Ablage von Secrets in allgemeinen Readern oder breit geteilten Dateien
+- keine Nutzung von Konten ausserhalb des dienstlich noetigen Rahmens
+- technische Unklarheiten sind frueh zu klaeren, nicht improvisiert zu loesen
+
+### 8.3 Rollen und Freigaben
+
+Technische Zugriffe, Freigaben und Aenderungen an Konten oder Geraeten duerfen
+nur im abgestimmten Rahmen erfolgen.
+
+Je nach Thema braucht es die Zustimmung von:
+
+- Leitung
+- Bueroleitung
+- Administration
+
+Die genaue Zuteilung ist in einer spaeteren Rollen- und Entscheidungslogik zu
+praezisieren.
+
+### 8.4 Geheimhaltung von Zugangsmitteln
+
+Passwoerter, Schluesselcodes, Token, Zugangslinks und vergleichbare
+Zugangsmittel sind vertraulich zu behandeln.
+
+Sie gehoeren nicht:
+
+- in allgemeine Onboarding-Texte
+- in breit verteilte Sammeldokumente
+- in Kapitel, die fuer die finale Kundenfassung bestimmt sind
+
+### 8.5 Geraete und Konten
+
+Dienstliche Geraete und Konten sind ausschliesslich gemaess internen Regeln
+und dienstlichem Zweck zu nutzen.
+
+Das betrifft insbesondere:
+
+- Computer und mobile Geraete
+- E-Mail-Konten
+- Kalender und Buchungstools
+- Dateiablagen und geteilte Laufwerke
+
+### 8.6 Austritt, Wechsel und Entzug von Zugriffen
+
+Bei Austritt, Rollenwechsel oder geaenderter Verantwortung muessen Zugriffe
+geordnet angepasst, entzogen oder uebertragen werden.
+
+Offene oder verwaiste Zugriffe sind zu vermeiden.
+
+### 8.7 Bezug zu anderen Kapiteln
+
+Dieses Kapitel ergaenzt:
+
+- Datenschutz und Vertraulichkeit
+- technische Dienstanweisungen
+- Eintritt, Austritt und Rollenwechsel
+
+### 8.8 Noch offen
+
+Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+
+- welche Systeme aktuell kanonisch genutzt werden
+- wer technische Freigaben verbindlich erteilt
+- wie Secrets sicher gepflegt und uebergeben werden
+
+## 9. Code of Conduct
 
 ### 6.1 Grundhaltung
 
@@ -348,7 +427,7 @@ Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 9. Technische Dienstanweisung Diensthandys
+## 10. Technische Dienstanweisung Diensthandys
 
 ### 7.1 Grundsatz
 
@@ -385,7 +464,7 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
 Bueroleitung zu melden.
 
-## 10. Offene Punkte
+## 11. Offene Punkte
 
 ### 8.1 Inhaltlich noch fehlende Kapitel
 
@@ -417,7 +496,7 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
   Schluesselcodes aus der finalen Auslieferung
 
-## 11. Hinweise zur finalen Auslieferung
+## 12. Hinweise zur finalen Auslieferung
 
 ### 9.1 Logo
 
