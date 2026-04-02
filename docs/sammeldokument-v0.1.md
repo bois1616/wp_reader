@@ -853,9 +853,9 @@ Büroleitung zu melden.
 
 ## 15. Offene Punkte
 
-### 15.1 Inhaltlich noch fehlende oder auszubaünde Kapitel
+### 15.1 Inhaltlich noch fehlende oder auszubauende Kapitel
 
-Folgende Kapitel sind in dieser Version 0.1 noch auszubaün:
+Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 
 - Kapitel Datenschutz und Vertraulichkeit in präziserer Endfassung
 - Kapitel IT und Zugriffe in präziserer Endfassung
@@ -868,25 +868,25 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubaün:
 
 #### P1 Als Nächstes auszuarbeiten
 
-- Datenschutz und Vertraulichkeit präzisieren
-- IT und Zugriffe präzisieren
-- Rollen und Entscheidungen als Matrix ausarbeiten
+- Rollen und Entscheidungen organisationsspezifisch bestätigen
+- Fallarbeit und Dokumentation um verbindliche Vorlagenlogik ergänzen
+- Mitarbeitenden-Handbuch in Richtung tatsächlichem Onboarding schärfen
 
 #### P2 Danach sinnvoll
 
-- Mitarbeitenden-Handbuch mit konkreteren Onboarding-Elementen ergänzen
-- Fallarbeit und Dokumentation mit verbindlichen Standards vertiefen
-- Eintritt, Austritt und Rollenwechsel mit Checklistenlogik ergänzen
+- Eintritt, Austritt und Rollenwechsel operativ verankern
+- Corporate Design für Druck und Digital final differenzieren
+- finale Fusszeilenangaben bestätigen und integrieren
 
 #### P3 Später zu finalisieren
 
-- Corporate Design in auslieferungsreifer Form schärfen
-- finale Fusszeilenangaben nach Bestätigung ergänzen
 - formale Endredaktion und Gesamtglättung durchführen
+- Kapitelabfolge für die Kundenfassung final abstimmen
+- optional Kurzfassung oder Quick-Start-Ableitung ergänzen
 
 ### 15.3 Fachlich oder organisatorisch zu klärende Punkte
 
-- Welche bestehenden Inhalte Primärqüllenstatus haben
+- Welche bestehenden Inhalte Primärquellenstatus haben
 - Welche Regeln bereits verbindlich in Arbeitsverträgen oder Weisungen stehen
 - Welche allgemeine Telefonnummer offiziell verwendet werden soll
 - Welche allgemeine E-Mail-Adresse offiziell verwendet werden soll
@@ -897,7 +897,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubaün:
 ### 15.4 Rechtlich und sicherheitsbezogen zu prüfende Punkte
 
 - Endabgleich von Arbeitszeit-, Überstunden- und Ferienregeln mit den
-  Primärqüllen
+  Primärquellen
 - Endabgleich der Datenschutz- und Vertraulichkeitsregeln mit dem effektiven
   Datenfluss
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwörter und
@@ -909,8 +909,18 @@ Vor einer finalen Version müssen mindestens diese Punkte bestätigt sein:
 
 - allgemeine Telefonnummer
 - allgemeine E-Mail-Adresse
-- verbindliche Primärqüllen für arbeitsrechtlich sensible Regeln
+- verbindliche Primärquellen für arbeitsrechtlich sensible Regeln
 - Freigabelogik für Datenschutz, IT und Rollenfragen
+
+### 15.6 Zielbild für Version 0.2
+
+Version 0.2 sollte mindestens erreichen:
+
+- alle Kernkapitel in belastbarer Arbeitsfassung
+- deutlich weniger offene Punkte in P1
+- konsistente Nummerierung und Sprache im ganzen Sammeldokument
+- klare Trennung zwischen Kundenfassung und internen Secret- oder
+  Zugriffsinformationen
 
 ## 16. Hinweise zur finalen Auslieferung
 
@@ -924,7 +934,7 @@ Bevorzugt wird die Nutzung der Vektorversion:
 
 Die finale Fassung soll eine konsistente Fusszeile tragen.
 
-Aktüll sicher belegt sind:
+Aktuell sicher belegt sind:
 
 - Wegpiraten GmbH
 - Hauptstrasse 47, 3800 Unterseen

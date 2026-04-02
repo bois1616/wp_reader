@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 20 gestartet – offene Punkte auf v0.2-Zielbild
+und Endredaktion hin neu priorisiert
+
 Stand 02.04.2026: RSI-Schritt 19 gestartet – Corporate Design enger auf die
 reale Auslieferung des Sammeldokuments bezogen
 
@@ -95,6 +98,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [process] RSI-Schritt 20: offene Punkte auf v0.2-Zielbild und
+  Endredaktion hin neu priorisieren
 - [x] [P1] [style] RSI-Schritt 19: Corporate Design enger auf die reale
   Auslieferung beziehen
 - [x] [P1] [quality] RSI-Schritt 18: untere Kapitel des Sammeldokuments

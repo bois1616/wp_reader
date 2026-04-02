@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 20: offene Punkte auf v0.2-Zielbild und Endredaktion hin neu
+  priorisiert
 - RSI-Schritt 19: Corporate Design enger auf die reale Auslieferung bezogen
 - RSI-Schritt 18: untere Kapitel des Sammeldokuments strukturell und
   sprachlich geglättet
