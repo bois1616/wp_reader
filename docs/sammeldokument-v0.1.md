@@ -712,31 +712,64 @@ Bueroleitung zu melden.
 
 ## 15. Offene Punkte
 
-### 8.1 Inhaltlich noch fehlende Kapitel
+### 15.1 Inhaltlich noch fehlende oder auszubauende Kapitel
 
-Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
+Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 
-- Kapitel Mitarbeitenden-Handbuch
-- Kapitel IT und Zugriffe
-- Kapitel Eintritt, Austritt und Rollenwechsel
-### 8.2 Fachlich oder organisatorisch zu klaerende Punkte
+- Kapitel Datenschutz und Vertraulichkeit in präziserer Endfassung
+- Kapitel IT und Zugriffe in präziserer Endfassung
+- Kapitel Rollen und Entscheidungen als klare Matrix
+- Kapitel Mitarbeitenden-Handbuch mit konkreteren Onboarding-Elementen
+- Kapitel Fallarbeit und Dokumentation mit verbindlichen Standards
+- Kapitel Eintritt, Austritt und Rollenwechsel mit Checklistenlogik
 
-- Welche bestehenden Inhalte Primarquellenstatus haben
-- Welche Regeln bereits verbindlich in Arbeitsvertraegen oder Weisungen stehen
+### 15.2 Priorisierung der nächsten Arbeitsblöcke
+
+#### P1 Als Nächstes auszuarbeiten
+
+- Datenschutz und Vertraulichkeit präzisieren
+- IT und Zugriffe präzisieren
+- Rollen und Entscheidungen als Matrix ausarbeiten
+
+#### P2 Danach sinnvoll
+
+- Mitarbeitenden-Handbuch mit konkreteren Onboarding-Elementen ergänzen
+- Fallarbeit und Dokumentation mit verbindlichen Standards vertiefen
+- Eintritt, Austritt und Rollenwechsel mit Checklistenlogik ergänzen
+
+#### P3 Später zu finalisieren
+
+- Corporate Design in auslieferungsreifer Form schärfen
+- finale Fusszeilenangaben nach Bestätigung ergänzen
+- formale Endredaktion und Gesamtglättung durchführen
+
+### 15.3 Fachlich oder organisatorisch zu klärende Punkte
+
+- Welche bestehenden Inhalte Primärquellenstatus haben
+- Welche Regeln bereits verbindlich in Arbeitsverträgen oder Weisungen stehen
 - Welche allgemeine Telefonnummer offiziell verwendet werden soll
 - Welche allgemeine E-Mail-Adresse offiziell verwendet werden soll
-- Ob beide Standorte vollstaendig in die Fusszeile gehoeren
-- Welche Kapitel fuer alle Mitarbeitenden gelten und welche nur fuer
+- Ob beide Standorte vollständig in die Fusszeile gehören
+- Welche Kapitel für alle Mitarbeitenden gelten und welche nur für
   bestimmte Rollen
 
-### 8.3 Rechtlich und sicherheitsbezogen zu pruefende Punkte
+### 15.4 Rechtlich und sicherheitsbezogen zu prüfende Punkte
 
-- Endabgleich von Arbeitszeit-, Ueberstunden- und Ferienregeln mit den
-  Primarquellen
+- Endabgleich von Arbeitszeit-, Überstunden- und Ferienregeln mit den
+  Primärquellen
 - Endabgleich der Datenschutz- und Vertraulichkeitsregeln mit dem effektiven
   Datenfluss
-- Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
-  Schluesselcodes aus der finalen Auslieferung
+- Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwörter und
+  Schlüsselcodes aus der finalen Auslieferung
+
+### 15.5 Entscheidung vor einer finalen Kundenfassung
+
+Vor einer finalen Version müssen mindestens diese Punkte bestätigt sein:
+
+- allgemeine Telefonnummer
+- allgemeine E-Mail-Adresse
+- verbindliche Primärquellen für arbeitsrechtlich sensible Regeln
+- Freigabelogik für Datenschutz, IT und Rollenfragen
 
 ## 16. Hinweise zur finalen Auslieferung
 
