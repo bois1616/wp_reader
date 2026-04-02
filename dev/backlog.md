@@ -1,5 +1,11 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 1 gestartet - Kapitel Mitarbeitenden-Handbuch
+als tragende Einstiegsebene fuer das Sammeldokument ergaenzt
+
+Stand 02.04.2026: Sammeldokument Version 0.1 als zusammengefuehrte
+Arbeitsfassung aufgenommen
+
 Stand 02.04.2026: Sammeldokument-Logik, Kapitel-Sprache sowie Anforderungen
 an Logo und Fusszeile fuer die finale Auslieferung aufgenommen
 
@@ -35,6 +41,10 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] RSI-Schritt 1: Kapitel Mitarbeitenden-Handbuch als V1
+  fuer das Sammeldokument ausformulieren
+- [x] [P1] [docs] Sammeldokument Version 0.1 mit klarer Kapitelstruktur und
+  offenen Punkten erstellen
 - [x] [P1] [structure] Zielarchitektur auf Kapitel und Abschnitte eines
   finalen Sammeldokuments umstellen
 - [x] [P1] [docs] Firmen-Verfassung als V1 ausformulieren

@@ -2,6 +2,9 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 1: Kapitel Mitarbeitenden-Handbuch als Einstiegsebene fuer das
+  Sammeldokument ergaenzt
+- Sammeldokument Version 0.1 als zusammengefuehrte Arbeitsfassung erstellt
 - Firmen-Verfassung und Sprach- und Kommunikationsleitfaden als V1 ergänzt
 - Sammeldokument-Logik mit Kapitel-Sprache sowie Anforderungen an Logo und
   Fusszeile dokumentiert
