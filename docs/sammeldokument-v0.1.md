@@ -26,10 +26,11 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 9. Rollen und Entscheidungen
 10. Fallarbeit und Dokumentation
 11. Eintritt, Austritt und Rollenwechsel
-12. Code of Conduct
-13. Technische Dienstanweisung Diensthandys
-14. Offene Punkte
-15. Hinweise zur finalen Auslieferung
+12. Corporate Design
+13. Code of Conduct
+14. Technische Dienstanweisung Diensthandys
+15. Offene Punkte
+16. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -550,7 +551,70 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 - welche Checklisten intern genutzt werden sollen
 - wie die formale Übergabe bei Rollenwechseln festgehalten wird
 
-## 12. Code of Conduct
+## 12. Corporate Design
+
+### 12.1 Zweck
+
+Dieses Kapitel beschreibt die gestalterischen Grundlinien für die finale
+Auslieferung des Sammeldokuments und für zugehörige Dokumente von Wegpiraten.
+
+### 12.2 Grundcharakter
+
+Die visuelle Ausgestaltung soll:
+
+- hochwertig
+- klar
+- professionell
+- ruhig
+- markentypisch
+
+wirken.
+
+### 12.3 Bezug zum bestehenden Briefing
+
+Aus dem vorhandenen Briefing ergeben sich insbesondere folgende Leitlinien:
+
+- maritimer und naturbezogener Charakter
+- klare, wertschätzende und nicht kitschige Wirkung
+- hochwertige statt verspielte Gestaltung
+
+### 12.4 Farben
+
+Die bisher bekannten Farbcodes aus dem Briefing sind:
+
+- Blau: `#abccc7`
+- dunkles Grün: `#4f7951`
+- helles Grün: `#9fbc99`
+- Grau Kompass: `#a8a6a6`
+- Grau Schrift: `#999999`
+
+### 12.5 Logo
+
+Das Wegpiraten-Logo ist in der finalen Auslieferung sichtbar zu verwenden.
+
+Bevorzugt wird die Nutzung der Vektorversion:
+
+- `documents/external/wegpiraten_logo.svg`
+
+### 12.6 Layout-Grundsätze
+
+Für die finale Fassung gilt:
+
+- klares Inhaltsverzeichnis
+- saubere Kapitel- und Abschnittsstruktur
+- zurückhaltende, professionelle Gestaltung
+- konsistente Fusszeile mit Firmendaten
+- keine Überladung durch dekorative Elemente
+
+### 12.7 Noch offen
+
+Vor der finalen Fassung dieses Kapitels sind noch zu klären:
+
+- finale Schriftwahl
+- genaue Positionierung von Logo und Fusszeile
+- ob für unterschiedliche Auslieferungsformate Varianten nötig sind
+
+## 13. Code of Conduct
 
 ### 6.1 Grundhaltung
 
@@ -599,7 +663,7 @@ Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 13. Technische Dienstanweisung Diensthandys
+## 14. Technische Dienstanweisung Diensthandys
 
 ### 7.1 Grundsatz
 
@@ -636,7 +700,7 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
 Bueroleitung zu melden.
 
-## 14. Offene Punkte
+## 15. Offene Punkte
 
 ### 8.1 Inhaltlich noch fehlende Kapitel
 
@@ -645,8 +709,6 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Kapitel Mitarbeitenden-Handbuch
 - Kapitel IT und Zugriffe
 - Kapitel Eintritt, Austritt und Rollenwechsel
-- Kapitel Corporate Design
-
 ### 8.2 Fachlich oder organisatorisch zu klaerende Punkte
 
 - Welche bestehenden Inhalte Primarquellenstatus haben
@@ -666,7 +728,7 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
   Schluesselcodes aus der finalen Auslieferung
 
-## 15. Hinweise zur finalen Auslieferung
+## 16. Hinweise zur finalen Auslieferung
 
 ### 9.1 Logo
 

@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 7 gestartet – Kapitel Corporate Design für die
+visuelle Auslieferungslogik ergänzt
+
 Stand 02.04.2026: RSI-Schritt 6 gestartet – Kapitel Eintritt, Austritt und
 Rollenwechsel ergänzt und Umlaute im Sammeldokument bewusst weitergeführt
 
@@ -56,6 +59,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [style] RSI-Schritt 7: Kapitel Corporate Design als V1 für das
+  Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 6: Kapitel Eintritt, Austritt und
   Rollenwechsel als V1 für das Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 5: Kapitel Fallarbeit und Dokumentation als V1
