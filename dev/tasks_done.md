@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 18: untere Kapitel des Sammeldokuments strukturell und
+  sprachlich geglättet
 - RSI-Schritt 17: Kapitel Eintritt, Austritt und Rollenwechsel um
   Checklistenlogik ergänzt
 - RSI-Schritt 16: Kapitel Fallarbeit und Dokumentation um verbindlichere

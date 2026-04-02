@@ -699,7 +699,7 @@ Auslieferung des Sammeldokuments und für zugehörige Dokumente von Wegpiraten.
 
 ### 12.2 Grundcharakter
 
-Die visülle Ausgestaltung soll:
+Die visuelle Ausgestaltung soll:
 
 - hochwertig
 - klar
@@ -750,19 +750,19 @@ Für die finale Fassung gilt:
 Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
 - finale Schriftwahl
-- genaü Positionierung von Logo und Fusszeile
+- genaue Positionierung von Logo und Fusszeile
 - ob für unterschiedliche Auslieferungsformate Varianten nötig sind
 
 ## 13. Code of Conduct
 
-### 6.1 Grundhaltung
+### 13.1 Grundhaltung
 
 Wir begegnen Klientinnen und Klienten, Familien, Fachstellen, Behörden und
 einander mit Respekt, Klarheit und professioneller Verbindlichkeit.
 
 Wir arbeiten auf Augenhöhe, ohne Verantwortung zu relativieren.
 
-### 6.2 Verhalten im Team
+### 13.2 Verhalten im Team
 
 Von allen Mitarbeitenden wird erwartet, dass sie:
 
@@ -773,7 +773,7 @@ Von allen Mitarbeitenden wird erwartet, dass sie:
 - Informationen nicht bewusst zurückhalten, wenn sie für die Arbeit
   relevant sind
 
-### 6.3 Verhalten gegenüber Klientinnen und Klienten
+### 13.3 Verhalten gegenüber Klientinnen und Klienten
 
 Wir handeln professionell, zugewandt und rollenklar.
 
@@ -781,11 +781,11 @@ Das bedeutet insbesondere:
 
 - keine herablassende oder demütigende Kommunikation
 - keine abwertenden Kommentare über Familien, Kinder oder Fachstellen
-- kein Ausnutzen von Abhängigkeiten oder Vertraünsverhältnissen
+- kein Ausnutzen von Abhängigkeiten oder Vertrauensverhältnissen
 - keine Grenzverletzungen in Sprache, Nähe oder Verhalten
 - klares, ruhiges und nachvollziehbares Handeln auch in belasteten Situationen
 
-### 6.4 Auftreten und Kleidung
+### 13.4 Auftreten und Kleidung
 
 In dienstlichen Settings wird ein gepflegtes, professionelles und der
 Situation angemessenes Auftreten erwartet.
@@ -804,21 +804,21 @@ gepflegt, funktional und professionell.
 
 ## 14. Technische Dienstanweisung Diensthandys
 
-### 7.1 Grundsatz
+### 14.1 Grundsatz
 
 Diensthandys dienen ausschliesslich dienstlichen Zwecken.
 
 Eine private Nutzung ist nicht erlaubt, sofern nicht ausdrücklich etwas
 anderes schriftlich oder nachvollziehbar freigegeben wurde.
 
-### 7.2 Geographische Nutzung
+### 14.2 Geographische Nutzung
 
 Diensthandys dürfen nur innerhalb der Schweiz genutzt werden.
 
 Jede Nutzung ausserhalb der Schweiz ist nur mit expliziter Zustimmung der
 Leitung oder Büroleitung zulässig.
 
-### 7.3 Ausnahmen
+### 14.3 Ausnahmen
 
 Abweichungen von diesen Regeln brauchen vorab eine explizite Zustimmung der
 Leitung oder Büroleitung.
@@ -830,7 +830,7 @@ Das gilt insbesondere für:
 - Weitergabe an Dritte
 - besondere technische Konfigurationen oder Zusatzdienste
 
-### 7.4 Sicherheitsbezug
+### 14.4 Sicherheitsbezug
 
 Diensthandys sind sorgfältig zu behandeln und vor unbefugtem Zugriff zu
 schützen.

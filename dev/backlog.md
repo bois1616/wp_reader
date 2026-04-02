@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 18 gestartet – untere Kapitel des
+Sammeldokuments strukturell und sprachlich geglättet
+
 Stand 02.04.2026: RSI-Schritt 17 gestartet – Kapitel Eintritt, Austritt und
 Rollenwechsel um Checklistenlogik ergänzt
 
@@ -89,6 +92,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [quality] RSI-Schritt 18: untere Kapitel des Sammeldokuments
+  strukturell und sprachlich glätten
 - [x] [P1] [docs] RSI-Schritt 17: Eintritt, Austritt und Rollenwechsel um
   Checklistenlogik ergänzen
 - [x] [P1] [docs] RSI-Schritt 16: Fallarbeit und Dokumentation um
