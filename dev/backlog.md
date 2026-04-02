@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: Sammeldokument-Logik, Kapitel-Sprache sowie Anforderungen
+an Logo und Fusszeile fuer die finale Auslieferung aufgenommen
+
 Stand 02.04.2026: Erste V1-Zieldokumente fuer Identitaet, Verhalten und
 technische Regeln in Markdown aufgenommen
 
@@ -32,6 +35,12 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [structure] Zielarchitektur auf Kapitel und Abschnitte eines
+  finalen Sammeldokuments umstellen
+- [x] [P1] [docs] Firmen-Verfassung als V1 ausformulieren
+- [x] [P1] [docs] Sprach- und Kommunikationsleitfaden als V1 ausformulieren
+- [x] [P1] [style] Anforderungen an finale Auslieferung mit Logo und
+  Fusszeile dokumentieren
 - [x] [P1] [docs] Erste V1 fuer `Vision und Mission` ausformulieren
 - [x] [P1] [docs] Erste V1 fuer `Werte und Haltungsprinzipien`
   ausformulieren

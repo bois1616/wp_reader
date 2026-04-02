@@ -1,4 +1,4 @@
-# Identitaetslinie und Zieldokumente
+# Identitaetslinie und Zielkapitel
 
 ## Zweck
 
@@ -20,9 +20,9 @@ Die Trennung ist besonders nuetzlich, weil:
 - Corporate Design und Sprache nicht mit Datenschutz, Arbeitszeit oder
   Fallfuehrung vermischt werden
 
-## Empfohlene Dokumente der Identitaetslinie
+## Empfohlene Kapitel der Identitaetslinie
 
-### 1. Firmen-Verfassung
+### 1. Kapitel Firmen-Verfassung
 
 Zweck:
 Uebergeordnetes Selbstverstaendnis der Organisation.
@@ -38,7 +38,7 @@ Inhalt:
 Hinweis:
 Dieses Dokument ist identitaetsstiftend, nicht operativ-detailregulierend.
 
-### 2. Vision und Mission
+### 2. Kapitel Vision und Mission
 
 Zweck:
 Kurze, praegnante Orientierung fuer innen und aussen.
@@ -53,7 +53,7 @@ Inhalt:
 Hinweis:
 Soll deutlich kuerzer sein als die Firmen-Verfassung.
 
-### 3. Werte und Haltungsprinzipien
+### 3. Kapitel Werte und Haltungsprinzipien
 
 Zweck:
 Verdichtete Beschreibung des gelebten Wie.
@@ -72,7 +72,7 @@ Inhalt:
 Hinweis:
 Kann stark aus dem bestehenden Reader und dem Briefing abgeleitet werden.
 
-### 4. Corporate-Design-Leitfaden
+### 4. Kapitel Corporate Design
 
 Zweck:
 Einheitliches visuelles Erscheinungsbild.
@@ -88,7 +88,7 @@ Inhalt:
 Hinweis:
 Das Material aus `Briefing_Reader.pdf` ist hierfuer direkt relevant.
 
-### 5. Sprach- und Kommunikationsleitfaden
+### 5. Kapitel Sprache und Kommunikation
 
 Zweck:
 Einheitliche Sprache in internen und externen Dokumenten.
@@ -159,7 +159,7 @@ nicht in die Identitaetslinie.
 
 ## Ergebnis fuer die Gesamtarchitektur
 
-Empfohlen wird damit ein Dokumentensystem mit zwei klaren Linien:
+Empfohlen wird damit ein Kapitel- und Abschnittssystem mit zwei klaren Linien:
 
 - Identitaetslinie:
   Firmen-Verfassung, Vision und Mission, Werte, Sprache, Corporate Design

@@ -24,3 +24,5 @@ _lokal/
 # Sensible / nicht öffentliche Inhalte
 _intern/
 _vertraulich/
+
+.codex

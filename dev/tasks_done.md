@@ -2,6 +2,9 @@
 
 ## 2026-04-02
 
+- Firmen-Verfassung und Sprach- und Kommunikationsleitfaden als V1 ergänzt
+- Sammeldokument-Logik mit Kapitel-Sprache sowie Anforderungen an Logo und
+  Fusszeile dokumentiert
 - Erste V1 fuer Vision und Mission, Werte und Haltungsprinzipien, Code of
   Conduct und technische Dienstanweisung zu Diensthandys angelegt
 - Zweilinien-Modell mit Identitaetslinie und Compliance-Operations-Linie

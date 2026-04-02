@@ -1,10 +1,10 @@
-# Soll-Dokumentensatz fuer Wegpiraten
+# Soll-Struktur fuer das finale Sammeldokument von Wegpiraten
 
 ## Zweck
 
-Dieses Dokument beschreibt den empfohlenen kuenftigen Satz an Dokumenten fuer
-Wegpiraten. Ziel ist ein kleines, klares und im Alltag nutzbares
-Dokumentensystem mit moeglichst wenig Doppelungen.
+Dieses Dokument beschreibt die empfohlene Struktur des finalen
+Sammeldokuments fuer Wegpiraten. Ziel ist ein kleines, klares und im Alltag
+nutzbares Kapitel- und Abschnittssystem mit moeglichst wenig Doppelungen.
 
 ## Leitgedanke
 
@@ -27,7 +27,7 @@ Operations-Stack untergehen.
 
 Diese Linie erklaert das Warum und das Selbstverstaendnis.
 
-Empfohlene Dokumente:
+Empfohlene Kapitel:
 
 - Firmen-Verfassung
 - Vision und Mission
@@ -41,7 +41,7 @@ Diese Linie regelt das verbindliche Was und Wie im Arbeitsalltag.
 
 ## Empfohlene Zielarchitektur
 
-### 1. Mitarbeitenden-Handbuch
+### 1. Kapitel Mitarbeitenden-Handbuch
 
 Zweck:
 Zentraler Einstieg fuer neue und bestehende Mitarbeitende.
@@ -60,7 +60,7 @@ Inhalt:
 Hinweis:
 Dieses Dokument soll erklaeren, nicht alles verbindlich im Detail regeln.
 
-### 2. Code of Conduct
+### 2. Kapitel Code of Conduct
 
 Zweck:
 Verbindliche Grundregeln fuer Verhalten, Zusammenarbeit und Umgangston.
@@ -80,7 +80,7 @@ Inhalt:
 Hinweis:
 Dieses Dokument sollte kurz, klar und verbindlich sein.
 
-### 3. Datenschutz- und Vertraulichkeitspolicy
+### 3. Kapitel Datenschutz und Vertraulichkeit
 
 Zweck:
 Klare, organisationsweite Regeln fuer den Umgang mit sensiblen Daten.
@@ -100,7 +100,7 @@ Inhalt:
 Hinweis:
 Besonders wichtig wegen der Arbeit mit Familien, Behoerden und Fachstellen.
 
-### 4. IT- und Zugriffs-Policy
+### 4. Kapitel IT und Zugriffe
 
 Zweck:
 Verbindliche Regeln fuer Systeme, Konten, Geraete und Berechtigungen.
@@ -122,7 +122,7 @@ Hinweis:
 Kann eng mit der Datenschutz- und Vertraulichkeitspolicy abgestimmt werden,
 solange die Trennung fuer Nutzende klar bleibt.
 
-### 5. Arbeitsanweisung Fallarbeit und Dokumentation
+### 5. Kapitel Fallarbeit und Dokumentation
 
 Zweck:
 Konkrete Vorgaben fuer die klientennahe Arbeit.
@@ -141,7 +141,7 @@ Inhalt:
 Hinweis:
 Dies ist eher eine Arbeitsanweisung als eine Grundsatzpolicy.
 
-### 6. Arbeitsanweisung Eintritt, Austritt und Rollenwechsel
+### 6. Kapitel Eintritt, Austritt und Rollenwechsel
 
 Zweck:
 Einheitlicher Ablauf fuer organisatorische Uebergaenge.
@@ -160,7 +160,7 @@ Inhalt:
 Hinweis:
 Hilft stark bei kleinen Teams, weil Wissen sonst leicht personengebunden bleibt.
 
-### 7. Rollen- und Entscheidmatrix
+### 7. Kapitel Rollen und Entscheidungen
 
 Zweck:
 Knappe, uebersichtliche Klarstellung von Verantwortlichkeiten.
@@ -179,9 +179,9 @@ Inhalt:
 Hinweis:
 Kann als kurze Matrix statt langem Fliesstext gepflegt werden.
 
-## Optionale Dokumente
+## Optionale Kapitel
 
-Diese Dokumente sind sinnvoll, aber nicht zwingend fuer einen ersten
+Diese Kapitel sind sinnvoll, aber nicht zwingend fuer einen ersten
 funktionsfaehigen Zielzustand:
 
 - Kommunikationsleitfaden fuer externe und sensible Kommunikation
@@ -189,7 +189,7 @@ funktionsfaehigen Zielzustand:
 - Notfall- oder Eskalationsblatt fuer akute Situationen
 - Vorlagenpaket fuer Reviews, Fallnotizen oder Freigaben
 
-## Was bewusst nicht als eigenes Dokument empfohlen wird
+## Was bewusst nicht als eigenes Kapitel empfohlen wird
 
 - separates Grossreglement fuer jede Kleinigkeit
 - lange Mischdokumente, die Handbuch, Policy und Arbeitsanweisung vermengen
@@ -231,7 +231,7 @@ Die bisher bekannten Informationen beantworten bereits einige Punkte:
 - Es gibt klar unterscheidbare Zielgruppen:
   alle Mitarbeitenden, klientennahe Rollen, Administration sowie Leitung und
   Bueroleitung.
-- Nicht alle Dokumente muessen fuer alle gleich detailliert sein.
+- Nicht alle Kapitel muessen fuer alle gleich detailliert sein.
 - Wegen Doppelrollen von Leitung und Bueroleitung braucht es rollenklaren,
   aber nicht zwingend getrennten Dokumentenaufbau.
 - Eine Mischung aus organisationsweiten Policies und rollenspezifischen
@@ -252,7 +252,7 @@ Vor der finalen Ausarbeitung bleiben besonders diese Fragen offen:
 ## Empfehlung für den nächsten Schritt
 
 Als nächstes sollten die vorhandenen Ausgangsdokumente aus
-`documents/external/` gegen diesen Soll-Dokumentensatz gespiegelt werden:
+`documents/external/` gegen diese Soll-Struktur gespiegelt werden:
 
 - Welche Teile lassen sich übernehmen?
 - Welche Teile fehlen?
