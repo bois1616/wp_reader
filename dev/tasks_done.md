@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 9: Titelseite und Fusszeilenlogik des Sammeldokuments
+  konkretisiert
 - RSI-Schritt 8: Sammeldokument sprachlich auf Umlaute und konsistente
   Schweizer Orthographie bereinigt
 - RSI-Schritt 6: Kapitel Eintritt, Austritt und Rollenwechsel als V1 ergänzt

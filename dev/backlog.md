@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 9 gestartet – Titelseite und Fusszeilenlogik
+des Sammeldokuments konkretisiert
+
 Stand 02.04.2026: RSI-Schritt 8 gestartet – Sammeldokument sprachlich auf
 Schweizer Orthographie mit Umlauten bereinigt
 
@@ -62,6 +65,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [style] RSI-Schritt 9: Titelseite und Fusszeilenlogik des
+  Sammeldokuments konkretisieren
 - [x] [P1] [quality] RSI-Schritt 8: Sammeldokument sprachlich auf Umlaute und
   konsistente Schweizer Orthographie bereinigen
 - [x] [P1] [style] RSI-Schritt 7: Kapitel Corporate Design als V1 für das

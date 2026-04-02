@@ -5,13 +5,23 @@
 ## Sammeldokument Version 0.1
 
 Arbeitsstand: 02.04.2026
+Status: Arbeitsfassung zur inhaltlichen Abstimmung
 
-Dieses Sammeldokument ist eine erste zusammengefuehrte Arbeitsfassung.
-Es dient dazu, die kuenftige Gesamtstruktur, die Trennung der Themenbereiche
+Wegpiraten GmbH
+Hauptstrasse 47, 3800 Unterseen
+Maulbeerstrasse 10, 3011 Bern
+www.wegpiraten.ch
+
+Dieses Sammeldokument ist eine erste zusammengeführte Arbeitsfassung.
+Es dient dazu, die künftige Gesamtstruktur, die Trennung der Themenbereiche
 und die offenen Punkte sichtbar zu machen.
 
 Die finale Auslieferung soll aus inhaltlich abgestimmten Kapiteln bestehen,
 keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
+
+### Vorgesehenes Fusszeilen-Schema für die Endfassung
+
+`Wegpiraten GmbH | Hauptstrasse 47, 3800 Unterseen | Maulbeerstrasse 10, 3011 Bern | www.wegpiraten.ch | [Telefon offen] | [E-Mail offen]`
 
 ## Inhaltsverzeichnis
 
@@ -36,23 +46,23 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 
 ### 1.1 Zweck dieser Version 0.1
 
-Diese Version 0.1 macht die kuenftige Gesamtlogik sichtbar.
+Diese Version 0.1 macht die künftige Gesamtlogik sichtbar.
 
 Sie zeigt:
 
 - welche Kapitel bereits in erster Fassung vorliegen
-- wie Identitaetslinie und Compliance- beziehungsweise Operations-Linie
+- wie Identitätslinie und Compliance- beziehungsweise Operations-Linie
   getrennt sind
-- welche Inhalte noch fehlen oder bestaetigt werden muessen
+- welche Inhalte noch fehlen oder bestätigt werden müssen
 
 ### 1.2 Trennung der Bereiche
 
 Dieses Sammeldokument folgt zwei klar getrennten Linien:
 
-- Identitaet und Orientierung
+- Identität und Orientierung
 - Regeln, Verhalten und technische Weisungen
 
-Identitaetskapitel erklaeren das Warum.
+Identitätskapitel erklären das Warum.
 Regel- und Weisungskapitel regeln das Was und Wie.
 
 ## 2. Vision und Mission
@@ -730,13 +740,13 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 
 ## 16. Hinweise zur finalen Auslieferung
 
-### 9.1 Logo
+### 16.1 Logo
 
 Die finale Fassung soll das Wegpiraten-Logo enthalten.
 Bevorzugt wird die Nutzung der Vektorversion:
 `documents/external/wegpiraten_logo.svg`
 
-### 9.2 Fusszeile
+### 16.2 Fusszeile
 
 Die finale Fassung soll eine konsistente Fusszeile tragen.
 
@@ -747,13 +757,16 @@ Aktuell sicher belegt sind:
 - Maulbeerstrasse 10, 3011 Bern
 - www.wegpiraten.ch
 
-Noch zu bestaetigen sind:
+Noch zu bestätigen sind:
 
 - allgemeine Telefonnummer
 - allgemeine E-Mail-Adresse
 - finale Form der Standortangabe in der Fusszeile
 
-### 9.3 Sicherheitsregel
+Bis zur Bestätigung soll in Arbeitsfassungen klar markiert bleiben, welche
+Fusszeilenangaben noch offen sind.
 
-Die finale Auslieferung darf keine Zugangsdaten, Passwoerter, Schluesselcodes
+### 16.3 Sicherheitsregel
+
+Die finale Auslieferung darf keine Zugangsdaten, Passwörter, Schlüsselcodes
 oder andere sensible technische Informationen enthalten.
