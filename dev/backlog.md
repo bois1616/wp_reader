@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 2 gestartet - Kapitel Datenschutz und
+Vertraulichkeit als verbindliche Grundebene ergaenzt
+
 Stand 02.04.2026: RSI-Schritt 1 gestartet - Kapitel Mitarbeitenden-Handbuch
 als tragende Einstiegsebene fuer das Sammeldokument ergaenzt
 
@@ -41,6 +44,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [policy] RSI-Schritt 2: Kapitel Datenschutz und Vertraulichkeit
+  als V1 fuer das Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 1: Kapitel Mitarbeitenden-Handbuch als V1
   fuer das Sammeldokument ausformulieren
 - [x] [P1] [docs] Sammeldokument Version 0.1 mit klarer Kapitelstruktur und

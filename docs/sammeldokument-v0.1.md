@@ -21,10 +21,11 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 4. Firmen-Verfassung
 5. Sprach- und Kommunikationsleitfaden
 6. Mitarbeitenden-Handbuch
-7. Code of Conduct
-8. Technische Dienstanweisung Diensthandys
-9. Offene Punkte
-10. Hinweise zur finalen Auslieferung
+7. Datenschutz und Vertraulichkeit
+8. Code of Conduct
+9. Technische Dienstanweisung Diensthandys
+10. Offene Punkte
+11. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -229,7 +230,76 @@ Vor der finalen Fassung des Handbuch-Kapitels sind noch zu klaeren:
 - welche rollenbezogenen Hinweise im Handbuch stehen und welche besser in
   Spezialkapiteln bleiben
 
-## 7. Code of Conduct
+## 7. Datenschutz und Vertraulichkeit
+
+### 7.1 Grundsatz
+
+Personendaten, Klientendaten, Familiendaten und andere vertrauliche
+Informationen werden bei Wegpiraten nur im dienstlich noetigen Rahmen
+bearbeitet, weitergegeben und gespeichert.
+
+Es gilt der Grundsatz:
+so viel wie noetig, so wenig wie moeglich.
+
+### 7.2 Schweigepflicht und Vertraulichkeit
+
+Mitarbeitende behandeln alle Informationen aus ihrer beruflichen Taetigkeit
+vertraulich.
+
+Insbesondere gilt:
+
+- keine Weitergabe an unbefugte Dritte
+- keine informelle Besprechung sensibler Inhalte in ungeeigneten Settings
+- keine Einsicht fuer unberechtigte Personen
+- sorgfaeltiger Umgang mit Akten, Notizen, E-Mails, Dateien und mobilen
+  Geraeten
+
+### 7.3 Zulaessige Weitergabe
+
+Eine Weitergabe von Informationen erfolgt nur:
+
+- wenn sie fachlich und dienstlich notwendig ist
+- wenn sie rechtlich zulaessig oder vorgeschrieben ist
+- wenn eine zustaendige Freigabe oder klare Auftragssituation vorliegt
+
+Bei Unsicherheit ist vor einer Weitergabe Ruecksprache mit Leitung oder
+Bueroleitung notwendig.
+
+### 7.4 Schutz im Arbeitsalltag
+
+Im Arbeitsalltag gilt insbesondere:
+
+- vertrauliche Unterlagen nicht offen liegen lassen
+- sensible Inhalte nicht ueber ungeeignete Kanaele teilen
+- Bildschirme, mobile Geraete und Dokumente gegen unbefugte Einsicht schuetzen
+- Post, Ausdrucke und Akten geordnet und kontrolliert behandeln
+
+### 7.5 Datenschutzvorfaelle
+
+Verlust, Fehlversand, unbefugter Zugriff, versehentliche Offenlegung oder
+andere Datenschutzvorfaelle sind unverzueglich an Leitung oder Bueroleitung
+zu melden.
+
+Es darf nicht abgewartet werden, bis die Tragweite vollstaendig geklaert ist.
+Entscheidend ist die fruehe interne Meldung.
+
+### 7.6 Bezug zu weiteren Kapiteln
+
+Dieses Kapitel wird ergaenzt durch:
+
+- IT- und Zugriffsregeln
+- technische Dienstanweisungen
+- operative Kapitel zur Fallarbeit und Dokumentation
+
+### 7.7 Noch offen
+
+Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+
+- welche konkreten Systeme und Datenablaegen genutzt werden
+- welche Melde- und Eskalationsschritte intern formal gelten
+- welche Datenbearbeitungen im kantonalen Auftrag erfolgen
+
+## 8. Code of Conduct
 
 ### 6.1 Grundhaltung
 
@@ -278,7 +348,7 @@ Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 8. Technische Dienstanweisung Diensthandys
+## 9. Technische Dienstanweisung Diensthandys
 
 ### 7.1 Grundsatz
 
@@ -315,14 +385,13 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
 Bueroleitung zu melden.
 
-## 9. Offene Punkte
+## 10. Offene Punkte
 
 ### 8.1 Inhaltlich noch fehlende Kapitel
 
 Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 
 - Kapitel Mitarbeitenden-Handbuch
-- Kapitel Datenschutz und Vertraulichkeit
 - Kapitel IT und Zugriffe
 - Kapitel Rollen und Entscheidungen
 - Kapitel Fallarbeit und Dokumentation
@@ -348,7 +417,7 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
   Schluesselcodes aus der finalen Auslieferung
 
-## 10. Hinweise zur finalen Auslieferung
+## 11. Hinweise zur finalen Auslieferung
 
 ### 9.1 Logo
 
