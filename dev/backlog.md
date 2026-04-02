@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 8 gestartet – Sammeldokument sprachlich auf
+Schweizer Orthographie mit Umlauten bereinigt
+
 Stand 02.04.2026: RSI-Schritt 7 gestartet – Kapitel Corporate Design für die
 visuelle Auslieferungslogik ergänzt
 
@@ -59,6 +62,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [quality] RSI-Schritt 8: Sammeldokument sprachlich auf Umlaute und
+  konsistente Schweizer Orthographie bereinigen
 - [x] [P1] [style] RSI-Schritt 7: Kapitel Corporate Design als V1 für das
   Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 6: Kapitel Eintritt, Austritt und

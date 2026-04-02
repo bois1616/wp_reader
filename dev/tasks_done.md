@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 8: Sammeldokument sprachlich auf Umlaute und konsistente
+  Schweizer Orthographie bereinigt
 - RSI-Schritt 6: Kapitel Eintritt, Austritt und Rollenwechsel als V1 ergänzt
 - RSI-Schritt 5: Kapitel Fallarbeit und Dokumentation als V1 ergaenzt
 - RSI-Schritt 4: Kapitel Rollen und Entscheidungen als V1 ergaenzt
