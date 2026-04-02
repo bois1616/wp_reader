@@ -256,6 +256,14 @@ bearbeitet, weitergegeben und gespeichert.
 Es gilt der Grundsatz:
 so viel wie nötig, so wenig wie möglich.
 
+Besonders sorgfältig zu behandeln sind insbesondere:
+
+- Daten zu Kindern und Jugendlichen
+- Familiensituationen und Schutzthemen
+- Gesundheits- und Belastungsinformationen
+- Berichte, Fallnotizen und Entwicklungsdokumentation
+- Kontaktdaten, Termin- und Verlaufshinweise
+
 ### 7.2 Schweigepflicht und Vertraulichkeit
 
 Mitarbeitende behandeln alle Informationen aus ihrer beruflichen Tätigkeit
@@ -268,6 +276,7 @@ Insbesondere gilt:
 - keine Einsicht für unberechtigte Personen
 - sorgfältiger Umgang mit Akten, Notizen, E-Mails, Dateien und mobilen
   Geräten
+- keine neugierige oder nicht auftragsbezogene Einsicht in Fallinformationen
 
 ### 7.3 Zulässige Weitergabe
 
@@ -280,6 +289,8 @@ Eine Weitergabe von Informationen erfolgt nur:
 Bei Unsicherheit ist vor einer Weitergabe Rücksprache mit Leitung oder
 Büroleitung notwendig.
 
+Die Weitergabe soll sich dabei auf das fachlich Erforderliche beschränken.
+
 ### 7.4 Schutz im Arbeitsalltag
 
 Im Arbeitsalltag gilt insbesondere:
@@ -288,6 +299,11 @@ Im Arbeitsalltag gilt insbesondere:
 - sensible Inhalte nicht über ungeeignete Kanäle teilen
 - Bildschirme, mobile Geräte und Dokumente gegen unbefugte Einsicht schützen
 - Post, Ausdrucke und Akten geordnet und kontrolliert behandeln
+- Gespräche über sensible Themen nicht in frei zugänglichen oder ungeeigneten
+  Umgebungen führen
+
+Geeignete Kommunikationswege und Ablagen sind verbindlich zu nutzen.
+Improvisierte Umwege aus Bequemlichkeit sind zu vermeiden.
 
 ### 7.5 Datenschutzvorfälle
 
@@ -297,6 +313,13 @@ zu melden.
 
 Es darf nicht abgewartet werden, bis die Tragweite vollständig geklärt ist.
 Entscheidend ist die frühe interne Meldung.
+
+Bei einem Vorfall sind mindestens diese Punkte sofort festzuhalten:
+
+- was passiert ist
+- welche Daten oder Unterlagen betroffen sein könnten
+- wann der Vorfall bemerkt wurde
+- welche Sofortmassnahmen bereits erfolgt sind
 
 ### 7.6 Bezug zu weiteren Kapiteln
 
@@ -313,6 +336,7 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 - welche konkreten Systeme und Datenablagen genutzt werden
 - welche Melde- und Eskalationsschritte intern formal gelten
 - welche Datenbearbeitungen im kantonalen Auftrag erfolgen
+- welche Kommunikationskanäle für welche Datentypen verbindlich zulässig sind
 
 ## 8. IT und Zugriffe
 

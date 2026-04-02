@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 12 gestartet – Kapitel Datenschutz und
+Vertraulichkeit inhaltlich präzisiert
+
 Stand 02.04.2026: RSI-Schritt 11 gestartet – sprachliche Regressionen und
 uneinheitliche Abschnittsnummern im Sammeldokument bereinigt
 
@@ -71,6 +74,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [policy] RSI-Schritt 12: Kapitel Datenschutz und
+  Vertraulichkeit präzisieren
 - [x] [P1] [quality] RSI-Schritt 11: sprachliche Regressionen und
   Abschnittsnummern im Sammeldokument bereinigen
 - [x] [P1] [process] RSI-Schritt 10: offene Punkte im Sammeldokument
