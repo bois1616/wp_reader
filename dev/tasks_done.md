@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 15: Mitarbeitenden-Handbuch um konkrete Onboarding-Startlogik
+  ergänzt
 - RSI-Schritt 14: Kapitel Rollen und Entscheidungen als erste Matrixlogik
   geschärft
 - RSI-Schritt 13: Kapitel IT und Zugriffe inhaltlich präzisiert

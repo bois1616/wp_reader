@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 15 gestartet – Mitarbeitenden-Handbuch um
+konkrete Onboarding-Startlogik ergänzt
+
 Stand 02.04.2026: RSI-Schritt 14 gestartet – Kapitel Rollen und
 Entscheidungen als erste Matrixlogik geschärft
 
@@ -80,6 +83,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] RSI-Schritt 15: Mitarbeitenden-Handbuch um konkrete
+  Onboarding-Startlogik ergänzen
 - [x] [P1] [docs] RSI-Schritt 14: Kapitel Rollen und Entscheidungen als
   erste Matrixlogik schärfen
 - [x] [P1] [policy] RSI-Schritt 13: Kapitel IT und Zugriffe präzisieren

@@ -236,7 +236,28 @@ Das Sammeldokument ist aus Sicht der Mitarbeitenden in vier Ebenen zu lesen:
 - Datenschutz, IT und Administration
 - operative Arbeitsanweisungen
 
-### 6.7 Noch offen
+### 6.7 Startlogik für neue Mitarbeitende
+
+Für einen guten Einstieg sollen neue Mitarbeitende mindestens in dieser
+Reihenfolge orientiert werden:
+
+1. Vision, Mission und Grundhaltung verstehen
+2. Code of Conduct und Auftreten kennen
+3. Datenschutz, Vertraulichkeit und IT-Grundregeln verstehen
+4. eigene Rolle, Zuständigkeiten und Ansprechpersonen klären
+5. relevante operative Kapitel für die eigene Tätigkeit durcharbeiten
+
+### 6.8 Was beim Einstieg praktisch geklärt werden soll
+
+Beim Einstieg sollen mindestens diese Punkte ausdrücklich geklärt sein:
+
+- wer direkte Ansprechperson ist
+- welche Rolle die Person im Team hat
+- welche Kapitel für die Person verbindlich sind
+- welche Geräte, Zugriffe und Arbeitsmittel bereitgestellt werden
+- wann bei Unsicherheit Rücksprache zu nehmen ist
+
+### 6.9 Noch offen
 
 Vor der finalen Fassung des Handbuch-Kapitels sind noch zu klären:
 
