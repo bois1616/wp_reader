@@ -735,6 +735,9 @@ Bevorzugt wird die Nutzung der Vektorversion:
 
 - `documents/external/wegpiraten_logo.svg`
 
+Auf der Titelseite soll das Logo klar sichtbar, aber nicht dominant eingesetzt
+werden.
+
 ### 12.6 Layout-Grundsätze
 
 Für die finale Fassung gilt:
@@ -745,6 +748,13 @@ Für die finale Fassung gilt:
 - konsistente Fusszeile mit Firmendaten
 - keine Überladung durch dekorative Elemente
 
+Zusätzlich gilt:
+
+- identitätsstarke Gestaltung vor allem auf Titel- und Übergangsseiten
+- hohe Lesbarkeit in den Arbeitskapiteln
+- genügend Weissraum und klare Hierarchie
+- keine Gestaltungselemente, die Regeln oder Handlungsanweisungen verdecken
+
 ### 12.7 Noch offen
 
 Vor der finalen Fassung dieses Kapitels sind noch zu klären:
@@ -752,6 +762,8 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 - finale Schriftwahl
 - genaue Positionierung von Logo und Fusszeile
 - ob für unterschiedliche Auslieferungsformate Varianten nötig sind
+- ob eine reduzierte Druckfassung und eine digitale Fassung parallel gepflegt
+  werden sollen
 
 ## 13. Code of Conduct
 

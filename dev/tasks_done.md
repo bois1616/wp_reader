@@ -2,6 +2,7 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 19: Corporate Design enger auf die reale Auslieferung bezogen
 - RSI-Schritt 18: untere Kapitel des Sammeldokuments strukturell und
   sprachlich geglättet
 - RSI-Schritt 17: Kapitel Eintritt, Austritt und Rollenwechsel um
