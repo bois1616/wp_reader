@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 4 gestartet - Kapitel Rollen und
+Entscheidungen zur Klaerung von Verantwortung und Freigaben ergaenzt
+
 Stand 02.04.2026: RSI-Schritt 3 gestartet - Kapitel IT und Zugriffe als
 eigene technische Regelungsebene ergaenzt
 
@@ -47,6 +50,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] RSI-Schritt 4: Kapitel Rollen und Entscheidungen als V1
+  fuer das Sammeldokument ausformulieren
 - [x] [P1] [policy] RSI-Schritt 3: Kapitel IT und Zugriffe als V1 fuer das
   Sammeldokument ausformulieren
 - [x] [P1] [policy] RSI-Schritt 2: Kapitel Datenschutz und Vertraulichkeit

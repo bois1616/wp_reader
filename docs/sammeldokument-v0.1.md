@@ -23,10 +23,11 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 6. Mitarbeitenden-Handbuch
 7. Datenschutz und Vertraulichkeit
 8. IT und Zugriffe
-9. Code of Conduct
-10. Technische Dienstanweisung Diensthandys
-11. Offene Punkte
-12. Hinweise zur finalen Auslieferung
+9. Rollen und Entscheidungen
+10. Code of Conduct
+11. Technische Dienstanweisung Diensthandys
+12. Offene Punkte
+13. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -378,7 +379,67 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
 - wer technische Freigaben verbindlich erteilt
 - wie Secrets sicher gepflegt und uebergeben werden
 
-## 9. Code of Conduct
+## 9. Rollen und Entscheidungen
+
+### 9.1 Zweck
+
+Dieses Kapitel schafft eine erste Orientierung dazu, welche Rollen bei
+Wegpiraten welche Verantwortung tragen und wo Freigaben oder Ruecksprachen
+notwendig sind.
+
+### 9.2 Bekannte Rollen
+
+Aktuell bekannt sind:
+
+- Leitung
+- Bueroleitung
+- Administration
+- sozialpaedagogisches Team
+
+Leitung und Bueroleitung arbeiten teilweise selbst klientennah.
+Die Administration arbeitet nicht direkt mit Klientinnen und Klienten.
+
+### 9.3 Grundlogik der Verantwortung
+
+Die Verantwortung ist so zu verstehen:
+
+- Leitung traegt die uebergeordnete fachliche und organisatorische Verantwortung
+- Bueroleitung uebernimmt operative Fuehrungs- und Koordinationsaufgaben
+- Administration verantwortet administrative und technische Unterstuetzung
+- klientennahe Rollen tragen Verantwortung fuer fachlich saubere Ausfuehrung
+  im zugewiesenen Auftrag
+
+### 9.4 Themen mit typischem Freigabebedarf
+
+Ruecksprache oder Freigabe ist typischerweise notwendig bei:
+
+- heiklen Kommunikationssituationen
+- Datenschutzvorfaellen
+- technischen Ausnahmen oder Sonderfreigaben
+- Anschaffungen und Materialwuenschen
+- Ferien, Sonderurlaub oder Weiterbildungen
+- unklaren Rollen- oder Zustandswechseln
+
+### 9.5 Was noch genauer auszuarbeiten ist
+
+In der finalen Fassung soll dieses Kapitel um eine klarere Matrix ergaenzt
+werden, etwa zu:
+
+- wer entscheidet
+- wer vorbereitet
+- wer informiert wird
+- wer dokumentiert
+- wer Stellvertretung uebernimmt
+
+### 9.6 Noch offen
+
+Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+
+- genaue Abgrenzung zwischen Leitung und Bueroleitung
+- verbindliche Freigabelogik fuer einzelne Themen
+- formale Stellvertretungsregeln
+
+## 10. Code of Conduct
 
 ### 6.1 Grundhaltung
 
@@ -427,7 +488,7 @@ Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 10. Technische Dienstanweisung Diensthandys
+## 11. Technische Dienstanweisung Diensthandys
 
 ### 7.1 Grundsatz
 
@@ -464,7 +525,7 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
 Bueroleitung zu melden.
 
-## 11. Offene Punkte
+## 12. Offene Punkte
 
 ### 8.1 Inhaltlich noch fehlende Kapitel
 
@@ -472,7 +533,6 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 
 - Kapitel Mitarbeitenden-Handbuch
 - Kapitel IT und Zugriffe
-- Kapitel Rollen und Entscheidungen
 - Kapitel Fallarbeit und Dokumentation
 - Kapitel Eintritt, Austritt und Rollenwechsel
 - Kapitel Corporate Design
@@ -496,7 +556,7 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
   Schluesselcodes aus der finalen Auslieferung
 
-## 12. Hinweise zur finalen Auslieferung
+## 13. Hinweise zur finalen Auslieferung
 
 ### 9.1 Logo
 
