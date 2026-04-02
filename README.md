@@ -54,7 +54,7 @@ git push origin main
 
 ```bash
 # Einmalig nach Repo-Erstellung auf GitHub:
-git remote add origin https://github.com/DEIN-USER/wp_reader.git
+git remote add origin https://github.com/bois1616/wp_reader.git
 git push -u origin main
 ```
 
