@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 14: Kapitel Rollen und Entscheidungen als erste Matrixlogik
+  geschärft
 - RSI-Schritt 13: Kapitel IT und Zugriffe inhaltlich präzisiert
 - RSI-Schritt 12: Kapitel Datenschutz und Vertraulichkeit inhaltlich
   präzisiert

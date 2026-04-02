@@ -481,7 +481,7 @@ Rücksprache oder Freigabe ist typischerweise notwendig bei:
 - Ferien, Sonderurlaub oder Weiterbildungen
 - unklaren Rollen- oder Zustandswechseln
 
-### 9.5 Was noch genaür auszuarbeiten ist
+### 9.5 Was noch genauer auszuarbeiten ist
 
 In der finalen Fassung soll dieses Kapitel um eine klarere Matrix ergänzt
 werden, etwa zu:
@@ -492,11 +492,24 @@ werden, etwa zu:
 - wer dokumentiert
 - wer Stellvertretung übernimmt
 
-### 9.6 Noch offen
+### 9.6 Erste Arbeitsmatrix
+
+| Thema | Entscheidung | Vorbereitung / Ausführung | Information / Rücksprache |
+|---|---|---|---|
+| heikle Kommunikation | Leitung oder Büroleitung | zuständige Rolle | betroffene Stellen gemäss Bedarf |
+| Datenschutzvorfall | Leitung oder Büroleitung | meldende Person | Administration falls technisch relevant |
+| technische Sonderfreigabe | Leitung, Büroleitung oder Administration je nach Thema | zuständige technische Stelle | betroffene Nutzende |
+| Material- oder Anschaffungswunsch | Leitung oder Büroleitung | anfragende Person | Administration falls Beschaffung folgt |
+| Rollenwechsel oder Zuständigkeitswechsel | Leitung oder Büroleitung | betroffene Rollen | Administration bei Zugriffsbezug |
+
+Diese Matrix ist eine erste Arbeitsfassung und muss vor der finalen Version
+noch organisationsspezifisch bestätigt werden.
+
+### 9.7 Noch offen
 
 Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
-- genaü Abgrenzung zwischen Leitung und Büroleitung
+- genaue Abgrenzung zwischen Leitung und Büroleitung
 - verbindliche Freigabelogik für einzelne Themen
 - formale Stellvertretungsregeln
 

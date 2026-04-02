@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 14 gestartet – Kapitel Rollen und
+Entscheidungen als erste Matrixlogik geschärft
+
 Stand 02.04.2026: RSI-Schritt 13 gestartet – Kapitel IT und Zugriffe
 inhaltlich präzisiert
 
@@ -77,6 +80,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] RSI-Schritt 14: Kapitel Rollen und Entscheidungen als
+  erste Matrixlogik schärfen
 - [x] [P1] [policy] RSI-Schritt 13: Kapitel IT und Zugriffe präzisieren
 - [x] [P1] [policy] RSI-Schritt 12: Kapitel Datenschutz und
   Vertraulichkeit präzisieren
