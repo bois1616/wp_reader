@@ -109,6 +109,17 @@ Alle Markdown-Dateien muessen:
 - deutschsprachige Inhalte mit korrekten Umlauten pflegen, sofern kein
   Technikzwang dagegenspricht
 
+## Sprachregel fuer Dokumente
+
+Fuer deutschsprachige Dokumente im Repository gilt:
+
+- Schweizer Orthographie verwenden
+- Umlaute (`ä`, `ö`, `ü`, `Ä`, `Ö`, `Ü`) beibehalten
+- `ss` statt `ß` verwenden
+
+Diese Regel gilt insbesondere fuer Policies, Arbeitsanweisungen,
+Handbuecher, Reviews und Vorlagen.
+
 ## Todo Tree Integration
 
 Zusaetzliche Marker sind erlaubt:
