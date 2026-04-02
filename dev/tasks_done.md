@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 16: Kapitel Fallarbeit und Dokumentation um verbindlichere
+  Arbeitsstandards ergänzt
 - RSI-Schritt 15: Mitarbeitenden-Handbuch um konkrete Onboarding-Startlogik
   ergänzt
 - RSI-Schritt 14: Kapitel Rollen und Entscheidungen als erste Matrixlogik

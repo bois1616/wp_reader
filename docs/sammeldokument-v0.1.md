@@ -563,6 +563,14 @@ Dokumentation soll:
 - zwischen Beobachtung, Einschätzung und Vereinbarung unterscheiden
 - für berechtigte interne und externe Stellen anschlussfähig sein
 
+Mindestens erkennbar sein sollen:
+
+- wer dokumentiert hat
+- auf welchen Kontakt oder Anlass sich der Eintrag bezieht
+- welche Beobachtungen gemacht wurden
+- welche Einschätzung daraus folgt
+- welche nächsten Schritte vereinbart oder notwendig sind
+
 ### 10.4 Entwicklungs- und Verlaufslogik
 
 Für die Fallarbeit sind insbesondere wichtig:
@@ -572,6 +580,12 @@ Für die Fallarbeit sind insbesondere wichtig:
 - beobachtete Entwicklungen
 - Risiken, Spannungen und Schutzaspekte
 - nächste fachliche Schritte
+
+Wo möglich, soll erkennbar bleiben:
+
+- was Ausgangslage war
+- was sich verändert hat
+- was noch offen oder ungeklärt ist
 
 ### 10.5 Kommunikation im Fallkontext
 
@@ -583,10 +597,20 @@ involvierten Stellen erfolgt:
 - datenschutzkonform
 - bezogen auf Auftrag, Verlauf und relevante Beobachtungen
 
+Persönliche Wertungen, unnötige Zuspitzungen oder unklare Vermischungen von
+Beobachtung und Interpretation sind zu vermeiden.
+
 ### 10.6 Grenzen und Eskalation
 
 Wenn Schutz, Auftrag, Kooperation oder Sicherheit unklar oder gefährdet sind,
 ist frühzeitig Rücksprache mit Leitung oder Büroleitung zu nehmen.
+
+Eine Eskalation ist insbesondere zu prüfen bei:
+
+- Gefährdung von Kindesschutz oder Integrität
+- massiver Unklarheit über Auftrag oder Zuständigkeit
+- schwerer Störung der Kooperation
+- datenschutz- oder sicherheitsrelevanten Vorfällen im Fallkontext
 
 ### 10.7 Noch offen
 
@@ -596,6 +620,7 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 - welche Dokumentationsstruktur für Entwicklungsberichte und Fallnotizen gilt
 - welche internen Standards für Freqünz, Ablage und Qualitätssicherung
   verbindlich werden
+- welche Minimalfristen für zeitnahe Dokumentation intern gelten sollen
 
 ## 11. Eintritt, Austritt und Rollenwechsel
 
