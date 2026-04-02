@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 6 gestartet – Kapitel Eintritt, Austritt und
+Rollenwechsel ergänzt und Umlaute im Sammeldokument bewusst weitergeführt
+
 Stand 02.04.2026: RSI-Schritt 5 gestartet - Kapitel Fallarbeit und
 Dokumentation als erster operativer Fachblock ergaenzt
 
@@ -53,6 +56,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] RSI-Schritt 6: Kapitel Eintritt, Austritt und
+  Rollenwechsel als V1 für das Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 5: Kapitel Fallarbeit und Dokumentation als V1
   fuer das Sammeldokument ausformulieren
 - [x] [P1] [docs] RSI-Schritt 4: Kapitel Rollen und Entscheidungen als V1

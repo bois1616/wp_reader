@@ -25,10 +25,11 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 8. IT und Zugriffe
 9. Rollen und Entscheidungen
 10. Fallarbeit und Dokumentation
-11. Code of Conduct
-12. Technische Dienstanweisung Diensthandys
-13. Offene Punkte
-14. Hinweise zur finalen Auslieferung
+11. Eintritt, Austritt und Rollenwechsel
+12. Code of Conduct
+13. Technische Dienstanweisung Diensthandys
+14. Offene Punkte
+15. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -503,7 +504,53 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
 - welche internen Standards fuer Frequenz, Ablage und Qualitaetssicherung
   verbindlich werden
 
-## 11. Code of Conduct
+## 11. Eintritt, Austritt und Rollenwechsel
+
+### 11.1 Zweck
+
+Dieses Kapitel beschreibt die organisatorischen Grundschritte bei Eintritt,
+Austritt und Rollenwechsel.
+
+Es richtet sich vor allem an Leitung, Büroleitung und Administration, enthält
+aber auch wichtige Orientierungspunkte für alle Mitarbeitenden.
+
+### 11.2 Eintritt
+
+Beim Eintritt neuer Mitarbeitender ist sicherzustellen, dass:
+
+- die relevanten Kapitel des Sammeldokuments zugänglich sind
+- Rollen, Zuständigkeiten und erste Ansprechpersonen geklärt sind
+- notwendige Arbeitsmittel und Zugriffe geordnet bereitgestellt werden
+- Verhaltens-, Datenschutz- und IT-Grundregeln bekannt sind
+
+### 11.3 Austritt
+
+Beim Austritt ist sicherzustellen, dass:
+
+- Arbeitsmittel vollständig zurückgegeben werden
+- Zugriffe geordnet entzogen oder beendet werden
+- offene Aufgaben, Informationen und Zuständigkeiten sauber übergeben werden
+- sensible Informationen nicht unkontrolliert bei austretenden Personen
+  verbleiben
+
+### 11.4 Rollenwechsel
+
+Bei Rollenwechseln ist früh zu klären:
+
+- welche Zuständigkeiten neu entstehen oder wegfallen
+- welche Zugriffe angepasst werden müssen
+- welche Kommunikationswege sich ändern
+- welche Stellvertretungen oder Übergaben nötig sind
+
+### 11.5 Noch offen
+
+Vor der finalen Fassung dieses Kapitels sind noch zu klären:
+
+- welche Eintritts- und Austrittsschritte verbindlich dokumentiert werden
+- welche Checklisten intern genutzt werden sollen
+- wie die formale Übergabe bei Rollenwechseln festgehalten wird
+
+## 12. Code of Conduct
 
 ### 6.1 Grundhaltung
 
@@ -552,7 +599,7 @@ Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 12. Technische Dienstanweisung Diensthandys
+## 13. Technische Dienstanweisung Diensthandys
 
 ### 7.1 Grundsatz
 
@@ -589,7 +636,7 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
 Bueroleitung zu melden.
 
-## 13. Offene Punkte
+## 14. Offene Punkte
 
 ### 8.1 Inhaltlich noch fehlende Kapitel
 
@@ -619,7 +666,7 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
   Schluesselcodes aus der finalen Auslieferung
 
-## 14. Hinweise zur finalen Auslieferung
+## 15. Hinweise zur finalen Auslieferung
 
 ### 9.1 Logo
 
