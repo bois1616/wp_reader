@@ -24,10 +24,11 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 7. Datenschutz und Vertraulichkeit
 8. IT und Zugriffe
 9. Rollen und Entscheidungen
-10. Code of Conduct
-11. Technische Dienstanweisung Diensthandys
-12. Offene Punkte
-13. Hinweise zur finalen Auslieferung
+10. Fallarbeit und Dokumentation
+11. Code of Conduct
+12. Technische Dienstanweisung Diensthandys
+13. Offene Punkte
+14. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -439,7 +440,70 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
 - verbindliche Freigabelogik fuer einzelne Themen
 - formale Stellvertretungsregeln
 
-## 10. Code of Conduct
+## 10. Fallarbeit und Dokumentation
+
+### 10.1 Zweck
+
+Dieses Kapitel beschreibt die Grundlogik fuer klientennahe Fallarbeit und
+deren nachvollziehbare Dokumentation.
+
+Es richtet sich vor allem an das sozialpaedagogische Team sowie an Leitung und
+Bueroleitung in ihrer operativen Rolle.
+
+### 10.2 Grundsaetze der Fallarbeit
+
+Klientennahe Arbeit erfolgt:
+
+- auftragsbezogen
+- kindeswohlorientiert
+- systemisch
+- ressourcenorientiert
+- dokumentiert und nachvollziehbar
+
+### 10.3 Dokumentation
+
+Dokumentation soll:
+
+- fachlich nachvollziehbar sein
+- zeitnah erfolgen
+- zwischen Beobachtung, Einschaetzung und Vereinbarung unterscheiden
+- fuer berechtigte interne und externe Stellen anschlussfaehig sein
+
+### 10.4 Entwicklungs- und Verlaufslogik
+
+Fuer die Fallarbeit sind insbesondere wichtig:
+
+- Ausgangslage und Auftrag
+- Ziele und vereinbarte Schritte
+- beobachtete Entwicklungen
+- Risiken, Spannungen und Schutzaspekte
+- naechste fachliche Schritte
+
+### 10.5 Kommunikation im Fallkontext
+
+Kommunikation mit Familien, Fachstellen, KESB, Gerichten oder anderen
+involvierten Stellen erfolgt:
+
+- sachlich
+- rollenklar
+- datenschutzkonform
+- bezogen auf Auftrag, Verlauf und relevante Beobachtungen
+
+### 10.6 Grenzen und Eskalation
+
+Wenn Schutz, Auftrag, Kooperation oder Sicherheit unklar oder gefaehrdet sind,
+ist fruehzeitig Ruecksprache mit Leitung oder Bueroleitung zu nehmen.
+
+### 10.7 Noch offen
+
+Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+
+- welche Vorlagen oder Formulare verbindlich genutzt werden
+- welche Dokumentationsstruktur fuer Entwicklungsberichte und Fallnotizen gilt
+- welche internen Standards fuer Frequenz, Ablage und Qualitaetssicherung
+  verbindlich werden
+
+## 11. Code of Conduct
 
 ### 6.1 Grundhaltung
 
@@ -488,7 +552,7 @@ Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 11. Technische Dienstanweisung Diensthandys
+## 12. Technische Dienstanweisung Diensthandys
 
 ### 7.1 Grundsatz
 
@@ -525,7 +589,7 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
 Bueroleitung zu melden.
 
-## 12. Offene Punkte
+## 13. Offene Punkte
 
 ### 8.1 Inhaltlich noch fehlende Kapitel
 
@@ -533,7 +597,6 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 
 - Kapitel Mitarbeitenden-Handbuch
 - Kapitel IT und Zugriffe
-- Kapitel Fallarbeit und Dokumentation
 - Kapitel Eintritt, Austritt und Rollenwechsel
 - Kapitel Corporate Design
 
@@ -556,7 +619,7 @@ Folgende Kapitel fehlen in dieser Version 0.1 noch ganz oder weitgehend:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwoerter und
   Schluesselcodes aus der finalen Auslieferung
 
-## 13. Hinweise zur finalen Auslieferung
+## 14. Hinweise zur finalen Auslieferung
 
 ### 9.1 Logo
 
