@@ -2,6 +2,9 @@
 
 ## 2026-04-02
 
+- Corporate-Design-Verortung in die README verschoben
+- Kapitel Corporate Design aus dem Sammeldokument entfernt und als separate
+  Gestaltungsfrage positioniert
 - RSI-Schritt 20: offene Punkte auf v0.2-Zielbild und Endredaktion hin neu
   priorisiert
 - RSI-Schritt 19: Corporate Design enger auf die reale Auslieferung bezogen

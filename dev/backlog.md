@@ -1,5 +1,11 @@
 # Backlog
 
+Stand 02.04.2026: Corporate-Design-Verortung in die README verschoben
+
+Stand 02.04.2026: Kapitel Corporate Design aus dem Sammeldokument entfernt
+und als separate Gestaltungsfrage ausserhalb der inhaltlichen Arbeitsgrundlage
+positioniert
+
 Stand 02.04.2026: RSI-Schritt 20 gestartet – offene Punkte auf v0.2-Zielbild
 und Endredaktion hin neu priorisiert
 

@@ -72,23 +72,7 @@ Inhalt:
 Hinweis:
 Kann stark aus dem bestehenden Reader und dem Briefing abgeleitet werden.
 
-### 4. Kapitel Corporate Design
-
-Zweck:
-Einheitliches visuelles Erscheinungsbild.
-
-Inhalt:
-
-- Farben
-- Typografie
-- Bildsprache
-- Layoutprinzipien
-- Einsatz von Logos und Gestaltungselementen
-
-Hinweis:
-Das Material aus `Briefing_Reader.pdf` ist hierfuer direkt relevant.
-
-### 5. Kapitel Sprache und Kommunikation
+### 4. Kapitel Sprache und Kommunikation
 
 Zweck:
 Einheitliche Sprache in internen und externen Dokumenten.
@@ -155,14 +139,13 @@ nicht in die Identitaetslinie.
 2. Werte und Haltungsprinzipien
 3. Firmen-Verfassung
 4. Sprach- und Kommunikationsleitfaden
-5. Corporate-Design-Leitfaden
 
 ## Ergebnis fuer die Gesamtarchitektur
 
 Empfohlen wird damit ein Kapitel- und Abschnittssystem mit zwei klaren Linien:
 
 - Identitaetslinie:
-  Firmen-Verfassung, Vision und Mission, Werte, Sprache, Corporate Design
+  Firmen-Verfassung, Vision und Mission, Werte und Sprache
 - Compliance- und Operations-Linie:
   Handbuch, Code of Conduct, Datenschutz, IT, Fallarbeit, Rollen,
   technische Dienstanweisungen

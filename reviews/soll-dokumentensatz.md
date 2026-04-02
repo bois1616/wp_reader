@@ -32,7 +32,6 @@ Empfohlene Kapitel:
 - Firmen-Verfassung
 - Vision und Mission
 - Werte und Haltungsprinzipien
-- Corporate-Design-Leitfaden
 - Sprach- und Kommunikationsleitfaden
 
 ### Linie 2: Compliance und Operations
@@ -218,7 +217,6 @@ funktionsfaehigen Zielzustand:
 ### Prioritaet 3
 
 - Arbeitsanweisung Eintritt, Austritt und Rollenwechsel
-- Corporate-Design-Leitfaden
 - Quick Start oder Kurzfassung
 - weitere Spezialanweisungen nach Bedarf
 

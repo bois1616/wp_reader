@@ -51,9 +51,32 @@ wp_reader/
 - `CLAUDE.md` beschreibt den operativen AI-Arbeitsmodus
 - `RSI.md` definiert, wie wir Workflow, Vorlagen und Prioritaeten
   iterativ verbessern
+- Corporate-Design-Fragen werden repo-weit in der README und zugehoerigen
+  Referenzen gefuehrt, nicht als Kapitel des inhaltlichen Sammeldokuments
 
 Das Ziel ist nicht nur bessere Dokumente, sondern ein nachvollziehbarer,
 stabiler und wiederholbarer Verbesserungsprozess.
+
+---
+
+## Corporate Design
+
+Corporate Design ist fuer dieses Repository relevant, gehoert aber nicht als
+eigenes Kapitel in das inhaltliche Sammeldokument.
+
+Massgebliche gestalterische Referenzen liegen derzeit in:
+
+- `documents/external/Briefing_Reader.pdf`
+- `documents/external/wegpiraten_logo.svg`
+- `documents/external/wegpiraten_logo.png`
+- `documents/external/wegpiraten_logo.jpg`
+
+Fuer finale Auslieferungen gilt:
+
+- Logo verwenden, bevorzugt als SVG
+- Fusszeile mit bestaetigten Firmendaten fuehren
+- keine Zugangsdaten oder anderen sensitiven technischen Informationen
+  abdrucken
 
 ---
 

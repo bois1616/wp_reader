@@ -28,7 +28,6 @@ und nicht primär von einzelnen Dokumenten.
 - Kapitel Werte und Haltungsprinzipien
 - Kapitel Firmen-Verfassung
 - Kapitel Sprach- und Kommunikationsgrundsätze
-- optional Kapitel Corporate Design
 
 ### Teil 2: Zusammenarbeit und Verhalten
 
@@ -57,6 +56,9 @@ Die finale Auslieferung sollte:
 - ein klares Inhaltsverzeichnis haben
 - Kapitel und Abschnitte sauber nummerieren
 - keine Zugangsdaten oder andere sensible Secrets enthalten
+
+Corporate-Design-Überlegungen können separat geführt werden, gehören aber
+nicht in das inhaltliche Sammeldokument selbst.
 
 ## Logo
 

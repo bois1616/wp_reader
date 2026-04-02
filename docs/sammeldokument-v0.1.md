@@ -36,11 +36,10 @@ keine Zugangsdaten enthalten und mit konsistenter Fusszeile versehen werden.
 9. Rollen und Entscheidungen
 10. Fallarbeit und Dokumentation
 11. Eintritt, Austritt und Rollenwechsel
-12. Corporate Design
-13. Code of Conduct
-14. Technische Dienstanweisung Diensthandys
-15. Offene Punkte
-16. Hinweise zur finalen Auslieferung
+12. Code of Conduct
+13. Technische Dienstanweisung Diensthandys
+14. Offene Punkte
+15. Hinweise zur finalen Auslieferung
 
 ## 1. Einordnung und Status
 
@@ -690,91 +689,16 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 - wie die formale Übergabe bei Rollenwechseln festgehalten wird
 - wo diese Checklisten operativ gepflegt und versioniert werden
 
-## 12. Corporate Design
+## 12. Code of Conduct
 
-### 12.1 Zweck
-
-Dieses Kapitel beschreibt die gestalterischen Grundlinien für die finale
-Auslieferung des Sammeldokuments und für zugehörige Dokumente von Wegpiraten.
-
-### 12.2 Grundcharakter
-
-Die visuelle Ausgestaltung soll:
-
-- hochwertig
-- klar
-- professionell
-- ruhig
-- markentypisch
-
-wirken.
-
-### 12.3 Bezug zum bestehenden Briefing
-
-Aus dem vorhandenen Briefing ergeben sich insbesondere folgende Leitlinien:
-
-- maritimer und naturbezogener Charakter
-- klare, wertschätzende und nicht kitschige Wirkung
-- hochwertige statt verspielte Gestaltung
-
-### 12.4 Farben
-
-Die bisher bekannten Farbcodes aus dem Briefing sind:
-
-- Blau: `#abccc7`
-- dunkles Grün: `#4f7951`
-- helles Grün: `#9fbc99`
-- Grau Kompass: `#a8a6a6`
-- Grau Schrift: `#999999`
-
-### 12.5 Logo
-
-Das Wegpiraten-Logo ist in der finalen Auslieferung sichtbar zu verwenden.
-
-Bevorzugt wird die Nutzung der Vektorversion:
-
-- `documents/external/wegpiraten_logo.svg`
-
-Auf der Titelseite soll das Logo klar sichtbar, aber nicht dominant eingesetzt
-werden.
-
-### 12.6 Layout-Grundsätze
-
-Für die finale Fassung gilt:
-
-- klares Inhaltsverzeichnis
-- saubere Kapitel- und Abschnittsstruktur
-- zurückhaltende, professionelle Gestaltung
-- konsistente Fusszeile mit Firmendaten
-- keine Überladung durch dekorative Elemente
-
-Zusätzlich gilt:
-
-- identitätsstarke Gestaltung vor allem auf Titel- und Übergangsseiten
-- hohe Lesbarkeit in den Arbeitskapiteln
-- genügend Weissraum und klare Hierarchie
-- keine Gestaltungselemente, die Regeln oder Handlungsanweisungen verdecken
-
-### 12.7 Noch offen
-
-Vor der finalen Fassung dieses Kapitels sind noch zu klären:
-
-- finale Schriftwahl
-- genaue Positionierung von Logo und Fusszeile
-- ob für unterschiedliche Auslieferungsformate Varianten nötig sind
-- ob eine reduzierte Druckfassung und eine digitale Fassung parallel gepflegt
-  werden sollen
-
-## 13. Code of Conduct
-
-### 13.1 Grundhaltung
+### 12.1 Grundhaltung
 
 Wir begegnen Klientinnen und Klienten, Familien, Fachstellen, Behörden und
 einander mit Respekt, Klarheit und professioneller Verbindlichkeit.
 
 Wir arbeiten auf Augenhöhe, ohne Verantwortung zu relativieren.
 
-### 13.2 Verhalten im Team
+### 12.2 Verhalten im Team
 
 Von allen Mitarbeitenden wird erwartet, dass sie:
 
@@ -785,7 +709,7 @@ Von allen Mitarbeitenden wird erwartet, dass sie:
 - Informationen nicht bewusst zurückhalten, wenn sie für die Arbeit
   relevant sind
 
-### 13.3 Verhalten gegenüber Klientinnen und Klienten
+### 12.3 Verhalten gegenüber Klientinnen und Klienten
 
 Wir handeln professionell, zugewandt und rollenklar.
 
@@ -797,7 +721,7 @@ Das bedeutet insbesondere:
 - keine Grenzverletzungen in Sprache, Nähe oder Verhalten
 - klares, ruhiges und nachvollziehbares Handeln auch in belasteten Situationen
 
-### 13.4 Auftreten und Kleidung
+### 12.4 Auftreten und Kleidung
 
 In dienstlichen Settings wird ein gepflegtes, professionelles und der
 Situation angemessenes Auftreten erwartet.
@@ -814,23 +738,23 @@ Praktische oder bewegungsgeeignete Kleidung ist dort möglich, wo sie für den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
-## 14. Technische Dienstanweisung Diensthandys
+## 13. Technische Dienstanweisung Diensthandys
 
-### 14.1 Grundsatz
+### 13.1 Grundsatz
 
 Diensthandys dienen ausschliesslich dienstlichen Zwecken.
 
 Eine private Nutzung ist nicht erlaubt, sofern nicht ausdrücklich etwas
 anderes schriftlich oder nachvollziehbar freigegeben wurde.
 
-### 14.2 Geographische Nutzung
+### 13.2 Geographische Nutzung
 
 Diensthandys dürfen nur innerhalb der Schweiz genutzt werden.
 
 Jede Nutzung ausserhalb der Schweiz ist nur mit expliziter Zustimmung der
 Leitung oder Büroleitung zulässig.
 
-### 14.3 Ausnahmen
+### 13.3 Ausnahmen
 
 Abweichungen von diesen Regeln brauchen vorab eine explizite Zustimmung der
 Leitung oder Büroleitung.
@@ -842,7 +766,7 @@ Das gilt insbesondere für:
 - Weitergabe an Dritte
 - besondere technische Konfigurationen oder Zusatzdienste
 
-### 14.4 Sicherheitsbezug
+### 13.4 Sicherheitsbezug
 
 Diensthandys sind sorgfältig zu behandeln und vor unbefugtem Zugriff zu
 schützen.
@@ -851,9 +775,9 @@ Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
 sicherheitsrelevante Vorfälle sind unverzüglich der Leitung oder
 Büroleitung zu melden.
 
-## 15. Offene Punkte
+## 14. Offene Punkte
 
-### 15.1 Inhaltlich noch fehlende oder auszubauende Kapitel
+### 14.1 Inhaltlich noch fehlende oder auszubauende Kapitel
 
 Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 
@@ -864,7 +788,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 - Kapitel Fallarbeit und Dokumentation mit verbindlichen Standards
 - Kapitel Eintritt, Austritt und Rollenwechsel mit Checklistenlogik
 
-### 15.2 Priorisierung der nächsten Arbeitsblöcke
+### 14.2 Priorisierung der nächsten Arbeitsblöcke
 
 #### P1 Als Nächstes auszuarbeiten
 
@@ -884,7 +808,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 - Kapitelabfolge für die Kundenfassung final abstimmen
 - optional Kurzfassung oder Quick-Start-Ableitung ergänzen
 
-### 15.3 Fachlich oder organisatorisch zu klärende Punkte
+### 14.3 Fachlich oder organisatorisch zu klärende Punkte
 
 - Welche bestehenden Inhalte Primärquellenstatus haben
 - Welche Regeln bereits verbindlich in Arbeitsverträgen oder Weisungen stehen
@@ -894,7 +818,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 - Welche Kapitel für alle Mitarbeitenden gelten und welche nur für
   bestimmte Rollen
 
-### 15.4 Rechtlich und sicherheitsbezogen zu prüfende Punkte
+### 14.4 Rechtlich und sicherheitsbezogen zu prüfende Punkte
 
 - Endabgleich von Arbeitszeit-, Überstunden- und Ferienregeln mit den
   Primärquellen
@@ -903,7 +827,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwörter und
   Schlüsselcodes aus der finalen Auslieferung
 
-### 15.5 Entscheidung vor einer finalen Kundenfassung
+### 14.5 Entscheidung vor einer finalen Kundenfassung
 
 Vor einer finalen Version müssen mindestens diese Punkte bestätigt sein:
 
@@ -912,7 +836,7 @@ Vor einer finalen Version müssen mindestens diese Punkte bestätigt sein:
 - verbindliche Primärquellen für arbeitsrechtlich sensible Regeln
 - Freigabelogik für Datenschutz, IT und Rollenfragen
 
-### 15.6 Zielbild für Version 0.2
+### 14.6 Zielbild für Version 0.2
 
 Version 0.2 sollte mindestens erreichen:
 
@@ -922,15 +846,15 @@ Version 0.2 sollte mindestens erreichen:
 - klare Trennung zwischen Kundenfassung und internen Secret- oder
   Zugriffsinformationen
 
-## 16. Hinweise zur finalen Auslieferung
+## 15. Hinweise zur finalen Auslieferung
 
-### 16.1 Logo
+### 15.1 Logo
 
 Die finale Fassung soll das Wegpiraten-Logo enthalten.
 Bevorzugt wird die Nutzung der Vektorversion:
 `documents/external/wegpiraten_logo.svg`
 
-### 16.2 Fusszeile
+### 15.2 Fusszeile
 
 Die finale Fassung soll eine konsistente Fusszeile tragen.
 
@@ -950,7 +874,7 @@ Noch zu bestätigen sind:
 Bis zur Bestätigung soll in Arbeitsfassungen klar markiert bleiben, welche
 Fusszeilenangaben noch offen sind.
 
-### 16.3 Sicherheitsregel
+### 15.3 Sicherheitsregel
 
 Die finale Auslieferung darf keine Zugangsdaten, Passwörter, Schlüsselcodes
 oder andere sensible technische Informationen enthalten.
