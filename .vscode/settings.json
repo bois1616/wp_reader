@@ -1,0 +1,28 @@
+{
+  "editor.wordWrap": "on",
+  "editor.rulers": [100],
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true,
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "markdown.preview.breaks": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on"
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.sortOrder": "type",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "cSpell.language": "de,en",
+  "cSpell.words": [
+    "Wegpiraten",
+    "Onboarding",
+    "Reglementierung",
+    "DSGVO",
+    "Vorstand",
+    "Mitglieder"
+  ]
+}

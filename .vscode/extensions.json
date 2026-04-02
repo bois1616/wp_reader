@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    "DavidAnson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-german",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "bierner.markdown-mermaid",
+    "redhat.vscode-yaml"
+  ]
+}

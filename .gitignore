@@ -1,0 +1,26 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*~
+*.swp
+
+# Office-Temp
+~$*.docx
+~$*.xlsx
+~$*.odt
+
+# Persönliche VSCode-Einstellungen
+.vscode/launch.json
+
+# Entwürfe / lokale Notizen (nicht versionieren)
+_drafts/
+_lokal/
+
+# Sensible / nicht öffentliche Inhalte
+_intern/
+_vertraulich/
