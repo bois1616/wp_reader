@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 11 gestartet – sprachliche Regressionen und
+uneinheitliche Abschnittsnummern im Sammeldokument bereinigt
+
 Stand 02.04.2026: RSI-Schritt 10 gestartet – offene Punkte des
 Sammeldokuments priorisiert und als nächste Arbeitsblöcke geschärft
 
@@ -68,6 +71,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [quality] RSI-Schritt 11: sprachliche Regressionen und
+  Abschnittsnummern im Sammeldokument bereinigen
 - [x] [P1] [process] RSI-Schritt 10: offene Punkte im Sammeldokument
   priorisieren und in nächste Arbeitsblöcke überführen
 - [x] [P1] [style] RSI-Schritt 9: Titelseite und Fusszeilenlogik des

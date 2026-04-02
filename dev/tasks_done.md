@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 11: sprachliche Regressionen und Abschnittsnummern im
+  Sammeldokument bereinigt
 - RSI-Schritt 10: offene Punkte des Sammeldokuments priorisiert und in
   nächste Arbeitsblöcke überführt
 - RSI-Schritt 9: Titelseite und Fusszeilenlogik des Sammeldokuments

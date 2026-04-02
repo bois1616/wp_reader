@@ -70,32 +70,32 @@ Regel- und Weisungskapitel regeln das Was und Wie.
 ### 2.1 Vision
 
 Wegpiraten ist ein Ort, an dem Familien in komplexen Situationen klare,
-tragfaehige und menschenwuerdige Unterstuetzung erhalten.
+tragfähige und menschenwürdige Unterstützung erhalten.
 
-Wir wollen dazu beitragen, dass Kinder geschuetzt aufwachsen koennen, Eltern
-in ihrer Verantwortung gestaerkt werden und Veraenderung im Alltag konkret
-spuerbar wird.
+Wir wollen dazu beitragen, dass Kinder geschützt aufwachsen können, Eltern
+in ihrer Verantwortung gestärkt werden und Veränderung im Alltag konkret
+spürbar wird.
 
-Unsere Arbeit soll fachlich verlaesslich, menschlich zugewandt und im Kontakt
-mit Familien, Fachstellen und Behoerden nachvollziehbar sein.
+Unsere Arbeit soll fachlich verlässlich, menschlich zugewandt und im Kontakt
+mit Familien, Fachstellen und Behörden nachvollziehbar sein.
 
 ### 2.2 Mission
 
 Wegpiraten begleitet Familien, Kinder und Bezugspersonen in anspruchsvollen
-Lebenslagen mit sozialpaedagogischer, systemischer und alltagsnaher Arbeit.
+Lebenslagen mit sozialpädagogischer, systemischer und alltagsnaher Arbeit.
 
-Wir arbeiten dort, wo Entwicklung tatsaechlich stattfindet:
+Wir arbeiten dort, wo Entwicklung tatsächlich stattfindet:
 im Lebensalltag, im Sozialraum, in Beziehungen und in belasteten
-Uebergangssituationen.
+Übergangssituationen.
 
 Wir verbinden klare Auftragsorientierung mit echter Beziehungsarbeit.
-Dabei handeln wir verlaesslich, ressourcenorientiert, allparteilich und mit
+Dabei handeln wir verlässlich, ressourcenorientiert, allparteilich und mit
 klarem Fokus auf das Kindeswohl.
 
 ### 2.3 Unser Auftrag in einem Satz
 
 Wir helfen Menschen nicht, in ein starres Schema zu passen, sondern ihren
-eigenen naechsten tragfaehigen Schritt zu finden.
+eigenen nächsten tragfähigen Schritt zu finden.
 
 ## 3. Werte und Haltungsprinzipien
 
@@ -104,19 +104,19 @@ eigenen naechsten tragfaehigen Schritt zu finden.
 Die Arbeit von Wegpiraten baut auf folgenden Haltungsprinzipien auf:
 
 - Kindeswohl zuerst
-- Hilfe, die im Alltag traegt
+- Hilfe, die im Alltag trägt
 - Begleiten statt bevormunden
 - Allparteilichkeit und Fairness
-- Verlaesslichkeit und Verbindlichkeit
+- Verlässlichkeit und Verbindlichkeit
 - Ressourcenorientierung
 - professionelle Beziehung und gesunde Abgrenzung
-- Bewegung, Kreativitaet und Mut
+- Bewegung, Kreativität und Mut
 - Team und gemeinsame Verantwortung
 - Klarheit vor Kompliziertheit
 
-### 3.2 Bedeutung fuer die Arbeit
+### 3.2 Bedeutung für die Arbeit
 
-Diese Haltungsprinzipien begruenden, wie Wegpiraten mit Familien, Kindern,
+Diese Haltungsprinzipien begründen, wie Wegpiraten mit Familien, Kindern,
 Fachstellen und im Team arbeitet.
 
 Sie ersetzen keine Weisungen oder Policies, geben ihnen aber den gemeinsamen
@@ -124,25 +124,25 @@ Sinnrahmen.
 
 ## 4. Firmen-Verfassung
 
-### 4.1 Selbstverstaendnis
+### 4.1 Selbstverständnis
 
 Wegpiraten ist eine fachlich verbindliche, menschlich zugewandte und
 alltagsnahe Organisation.
 
 Wir begleiten Familien und Bezugspersonen in komplexen Situationen mit dem
-Anspruch, Entwicklung moeglich zu machen, Schutz zu sichern und Orientierung
+Anspruch, Entwicklung möglich zu machen, Schutz zu sichern und Orientierung
 im Alltag herzustellen.
 
 ### 4.2 Verantwortung
 
-Wir uebernehmen Verantwortung klar und verbindlich.
+Wir übernehmen Verantwortung klar und verbindlich.
 
 Das bedeutet:
 
 - wir benennen Risiken und Probleme offen
 - wir handeln nicht beliebig, sondern auftrags- und situationsbezogen
 - wir bleiben auch in schwierigen Lagen respektvoll und professionell
-- wir uebernehmen Schutzverantwortung, ohne Menschen klein zu machen
+- wir übernehmen Schutzverantwortung, ohne Menschen klein zu machen
 
 ### 4.3 Arbeitsweise
 
@@ -152,7 +152,7 @@ Wir arbeiten:
 - ressourcenorientiert
 - allparteilich
 - beweglich und kreativ
-- verlaesslich und dokumentationsstark
+- verlässlich und dokumentationsstark
 
 ## 5. Sprach- und Kommunikationsleitfaden
 
@@ -161,69 +161,69 @@ Wir arbeiten:
 Unsere Sprache ist:
 
 - klar
-- verstaendlich
-- wertschaetzend
+- verständlich
+- wertschätzend
 - professionell
 - konkret
 
-### 5.2 Tonalitaet
+### 5.2 Tonalität
 
 Wegpiraten kommuniziert:
 
 - warm, aber nicht kitschig
 - professionell, aber nicht steif
 - klar, aber nicht hart
-- zugewandt, aber nicht unpraezise
+- zugewandt, aber nicht unpräzise
 
 ## 6. Mitarbeitenden-Handbuch
 
 ### 6.1 Zweck
 
-Das Mitarbeitenden-Handbuch dient als alltagsnahe Einstiegsebene fuer alle
+Das Mitarbeitenden-Handbuch dient als alltagsnahe Einstiegsebene für alle
 Mitarbeitenden.
 
-Es erklaert die wichtigsten Zusammenhaenge, verweist auf verbindliche
-Kapitel und soll neue Mitarbeitende schnell arbeitsfaehig machen.
+Es erklärt die wichtigsten Zusammenhänge, verweist auf verbindliche
+Kapitel und soll neue Mitarbeitende schnell arbeitsfähig machen.
 
-### 6.2 Fuer wen dieses Kapitel gilt
+### 6.2 Für wen dieses Kapitel gilt
 
-Dieses Kapitel gilt fuer alle Mitarbeitenden.
+Dieses Kapitel gilt für alle Mitarbeitenden.
 
-Je nach Rolle gelten zusaetzlich weitere Kapitel, insbesondere fuer:
+Je nach Rolle gelten zusätzlich weitere Kapitel, insbesondere für:
 
-- klientennahe sozialpaedagogische Arbeit
+- klientennahe sozialpädagogische Arbeit
 - Administration
-- Leitung und Bueroleitung
+- Leitung und Büroleitung
 
 ### 6.3 Was neue Mitarbeitende zuerst verstehen sollen
 
 Neue Mitarbeitende sollen in kurzer Zeit verstehen:
 
-- wofuer Wegpiraten steht
+- wofür Wegpiraten steht
 - wie die Organisation aufgebaut ist
-- welche Grundregeln fuer Zusammenarbeit und Auftreten gelten
+- welche Grundregeln für Zusammenarbeit und Auftreten gelten
 - wo verbindliche Regeln im Sammeldokument zu finden sind
-- bei welchen Themen Ruecksprache notwendig ist
+- bei welchen Themen Rücksprache notwendig ist
 
-### 6.4 Rollenueberblick
+### 6.4 Rollenüberblick
 
 Aktuell bekannte Rollen sind:
 
 - Leitung
 - Administration
-- Bueroleitung
-- sozialpaedagogisches Team
+- Büroleitung
+- sozialpädagogisches Team
 
-Leitung und Bueroleitung arbeiten teilweise auch direkt mit Klientinnen und
+Leitung und Büroleitung arbeiten teilweise auch direkt mit Klientinnen und
 Klienten. Die Administration arbeitet nicht direkt klientennah.
 
-### 6.5 Grundorientierung fuer den Arbeitsalltag
+### 6.5 Grundorientierung für den Arbeitsalltag
 
-Fuer den Arbeitsalltag gelten folgende Grundsaetze:
+Für den Arbeitsalltag gelten folgende Grundsätze:
 
 - Kindesschutz und professionelle Verantwortung gehen vor Bequemlichkeit
-- sensible Informationen werden sorgfaeltig behandelt
-- Unklarheiten werden frueh mit Leitung oder Bueroleitung geklaert
+- sensible Informationen werden sorgfältig behandelt
+- Unklarheiten werden früh mit Leitung oder Büroleitung geklärt
 - Regeln zu Verhalten, Datenschutz, IT und Technik stehen in eigenen Kapiteln
 - operative Arbeit braucht saubere Dokumentation und Rollenklarheit
 
@@ -231,17 +231,17 @@ Fuer den Arbeitsalltag gelten folgende Grundsaetze:
 
 Das Sammeldokument ist aus Sicht der Mitarbeitenden in vier Ebenen zu lesen:
 
-- Identitaet und Orientierung
+- Identität und Orientierung
 - Zusammenarbeit und Verhalten
 - Datenschutz, IT und Administration
 - operative Arbeitsanweisungen
 
 ### 6.7 Noch offen
 
-Vor der finalen Fassung des Handbuch-Kapitels sind noch zu klaeren:
+Vor der finalen Fassung des Handbuch-Kapitels sind noch zu klären:
 
 - welche Inhalte aus dem bisherigen Reader hier als Kurzorientierung bleiben
-- welche Onboarding-Schritte verbindlich in dieses Kapitel gehoeren
+- welche Onboarding-Schritte verbindlich in dieses Kapitel gehören
 - welche rollenbezogenen Hinweise im Handbuch stehen und welche besser in
   Spezialkapiteln bleiben
 
@@ -250,57 +250,57 @@ Vor der finalen Fassung des Handbuch-Kapitels sind noch zu klaeren:
 ### 7.1 Grundsatz
 
 Personendaten, Klientendaten, Familiendaten und andere vertrauliche
-Informationen werden bei Wegpiraten nur im dienstlich noetigen Rahmen
+Informationen werden bei Wegpiraten nur im dienstlich nötigen Rahmen
 bearbeitet, weitergegeben und gespeichert.
 
 Es gilt der Grundsatz:
-so viel wie noetig, so wenig wie moeglich.
+so viel wie nötig, so wenig wie möglich.
 
 ### 7.2 Schweigepflicht und Vertraulichkeit
 
-Mitarbeitende behandeln alle Informationen aus ihrer beruflichen Taetigkeit
+Mitarbeitende behandeln alle Informationen aus ihrer beruflichen Tätigkeit
 vertraulich.
 
 Insbesondere gilt:
 
 - keine Weitergabe an unbefugte Dritte
 - keine informelle Besprechung sensibler Inhalte in ungeeigneten Settings
-- keine Einsicht fuer unberechtigte Personen
-- sorgfaeltiger Umgang mit Akten, Notizen, E-Mails, Dateien und mobilen
-  Geraeten
+- keine Einsicht für unberechtigte Personen
+- sorgfältiger Umgang mit Akten, Notizen, E-Mails, Dateien und mobilen
+  Geräten
 
-### 7.3 Zulaessige Weitergabe
+### 7.3 Zulässige Weitergabe
 
 Eine Weitergabe von Informationen erfolgt nur:
 
 - wenn sie fachlich und dienstlich notwendig ist
-- wenn sie rechtlich zulaessig oder vorgeschrieben ist
-- wenn eine zustaendige Freigabe oder klare Auftragssituation vorliegt
+- wenn sie rechtlich zulässig oder vorgeschrieben ist
+- wenn eine zuständige Freigabe oder klare Auftragssituation vorliegt
 
-Bei Unsicherheit ist vor einer Weitergabe Ruecksprache mit Leitung oder
-Bueroleitung notwendig.
+Bei Unsicherheit ist vor einer Weitergabe Rücksprache mit Leitung oder
+Büroleitung notwendig.
 
 ### 7.4 Schutz im Arbeitsalltag
 
 Im Arbeitsalltag gilt insbesondere:
 
 - vertrauliche Unterlagen nicht offen liegen lassen
-- sensible Inhalte nicht ueber ungeeignete Kanaele teilen
-- Bildschirme, mobile Geraete und Dokumente gegen unbefugte Einsicht schuetzen
+- sensible Inhalte nicht über ungeeignete Kanäle teilen
+- Bildschirme, mobile Geräte und Dokumente gegen unbefugte Einsicht schützen
 - Post, Ausdrucke und Akten geordnet und kontrolliert behandeln
 
-### 7.5 Datenschutzvorfaelle
+### 7.5 Datenschutzvorfälle
 
 Verlust, Fehlversand, unbefugter Zugriff, versehentliche Offenlegung oder
-andere Datenschutzvorfaelle sind unverzueglich an Leitung oder Bueroleitung
+andere Datenschutzvorfälle sind unverzüglich an Leitung oder Büroleitung
 zu melden.
 
-Es darf nicht abgewartet werden, bis die Tragweite vollstaendig geklaert ist.
-Entscheidend ist die fruehe interne Meldung.
+Es darf nicht abgewartet werden, bis die Tragweite vollständig geklärt ist.
+Entscheidend ist die frühe interne Meldung.
 
 ### 7.6 Bezug zu weiteren Kapiteln
 
-Dieses Kapitel wird ergaenzt durch:
+Dieses Kapitel wird ergänzt durch:
 
 - IT- und Zugriffsregeln
 - technische Dienstanweisungen
@@ -308,7 +308,7 @@ Dieses Kapitel wird ergaenzt durch:
 
 ### 7.7 Noch offen
 
-Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
 - welche konkreten Systeme und Datenablagen genutzt werden
 - welche Melde- und Eskalationsschritte intern formal gelten
@@ -318,67 +318,67 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
 
 ### 8.1 Zweck
 
-Dieses Kapitel regelt den Umgang mit Systemen, Geraeten, Konten, Zugriffsrechten
+Dieses Kapitel regelt den Umgang mit Systemen, Geräten, Konten, Zugriffsrechten
 und anderen technischen oder administrativen Zugangsmitteln.
 
-### 8.2 Grundsaetze
+### 8.2 Grundsätze
 
-Zugriffe werden nur im noetigen Umfang vergeben, genutzt und weitergefuehrt.
+Zugriffe werden nur im nötigen Umfang vergeben, genutzt und weitergeführt.
 
 Es gilt insbesondere:
 
-- keine Weitergabe von Passwoertern oder Zugangsdaten an unbefugte Personen
+- keine Weitergabe von Passwörtern oder Zugangsdaten an unbefugte Personen
 - keine Ablage von Secrets in allgemeinen Readern oder breit geteilten Dateien
-- keine Nutzung von Konten ausserhalb des dienstlich noetigen Rahmens
-- technische Unklarheiten sind frueh zu klaeren, nicht improvisiert zu loesen
+- keine Nutzung von Konten ausserhalb des dienstlich nötigen Rahmens
+- technische Unklarheiten sind früh zu klären, nicht improvisiert zu lösen
 
 ### 8.3 Rollen und Freigaben
 
-Technische Zugriffe, Freigaben und Aenderungen an Konten oder Geraeten duerfen
+Technische Zugriffe, Freigaben und Änderungen an Konten oder Geräten dürfen
 nur im abgestimmten Rahmen erfolgen.
 
 Je nach Thema braucht es die Zustimmung von:
 
 - Leitung
-- Bueroleitung
+- Büroleitung
 - Administration
 
-Die genaue Zuteilung ist in einer spaeteren Rollen- und Entscheidungslogik zu
-praezisieren.
+Die genaü Zuteilung ist in einer späteren Rollen- und Entscheidungslogik zu
+präzisieren.
 
 ### 8.4 Geheimhaltung von Zugangsmitteln
 
-Passwoerter, Schluesselcodes, Token, Zugangslinks und vergleichbare
+Passwörter, Schlüsselcodes, Token, Zugangslinks und vergleichbare
 Zugangsmittel sind vertraulich zu behandeln.
 
-Sie gehoeren nicht:
+Sie gehören nicht:
 
 - in allgemeine Onboarding-Texte
 - in breit verteilte Sammeldokumente
-- in Kapitel, die fuer die finale Kundenfassung bestimmt sind
+- in Kapitel, die für die finale Kundenfassung bestimmt sind
 
-### 8.5 Geraete und Konten
+### 8.5 Geräte und Konten
 
-Dienstliche Geraete und Konten sind ausschliesslich gemaess internen Regeln
+Dienstliche Geräte und Konten sind ausschließlich gemäss internen Regeln
 und dienstlichem Zweck zu nutzen.
 
 Das betrifft insbesondere:
 
-- Computer und mobile Geraete
+- Computer und mobile Geräte
 - E-Mail-Konten
 - Kalender und Buchungstools
 - Dateiablagen und geteilte Laufwerke
 
 ### 8.6 Austritt, Wechsel und Entzug von Zugriffen
 
-Bei Austritt, Rollenwechsel oder geaenderter Verantwortung muessen Zugriffe
-geordnet angepasst, entzogen oder uebertragen werden.
+Bei Austritt, Rollenwechsel oder geänderter Verantwortung müssen Zugriffe
+geordnet angepasst, entzogen oder übertragen werden.
 
 Offene oder verwaiste Zugriffe sind zu vermeiden.
 
 ### 8.7 Bezug zu anderen Kapiteln
 
-Dieses Kapitel ergaenzt:
+Dieses Kapitel ergänzt:
 
 - Datenschutz und Vertraulichkeit
 - technische Dienstanweisungen
@@ -386,83 +386,83 @@ Dieses Kapitel ergaenzt:
 
 ### 8.8 Noch offen
 
-Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
-- welche Systeme aktuell kanonisch genutzt werden
+- welche Systeme aktüll kanonisch genutzt werden
 - wer technische Freigaben verbindlich erteilt
-- wie Secrets sicher gepflegt und uebergeben werden
+- wie Secrets sicher gepflegt und übergeben werden
 
 ## 9. Rollen und Entscheidungen
 
 ### 9.1 Zweck
 
 Dieses Kapitel schafft eine erste Orientierung dazu, welche Rollen bei
-Wegpiraten welche Verantwortung tragen und wo Freigaben oder Ruecksprachen
+Wegpiraten welche Verantwortung tragen und wo Freigaben oder Rücksprachen
 notwendig sind.
 
 ### 9.2 Bekannte Rollen
 
-Aktuell bekannt sind:
+Aktüll bekannt sind:
 
 - Leitung
-- Bueroleitung
+- Büroleitung
 - Administration
-- sozialpaedagogisches Team
+- sozialpädagogisches Team
 
-Leitung und Bueroleitung arbeiten teilweise selbst klientennah.
+Leitung und Büroleitung arbeiten teilweise selbst klientennah.
 Die Administration arbeitet nicht direkt mit Klientinnen und Klienten.
 
 ### 9.3 Grundlogik der Verantwortung
 
 Die Verantwortung ist so zu verstehen:
 
-- Leitung traegt die uebergeordnete fachliche und organisatorische Verantwortung
-- Bueroleitung uebernimmt operative Fuehrungs- und Koordinationsaufgaben
-- Administration verantwortet administrative und technische Unterstuetzung
-- klientennahe Rollen tragen Verantwortung fuer fachlich saubere Ausfuehrung
+- Leitung trägt die übergeordnete fachliche und organisatorische Verantwortung
+- Büroleitung übernimmt operative Führungs- und Koordinationsaufgaben
+- Administration verantwortet administrative und technische Unterstützung
+- klientennahe Rollen tragen Verantwortung für fachlich saubere Ausführung
   im zugewiesenen Auftrag
 
 ### 9.4 Themen mit typischem Freigabebedarf
 
-Ruecksprache oder Freigabe ist typischerweise notwendig bei:
+Rücksprache oder Freigabe ist typischerweise notwendig bei:
 
 - heiklen Kommunikationssituationen
-- Datenschutzvorfaellen
+- Datenschutzvorfällen
 - technischen Ausnahmen oder Sonderfreigaben
-- Anschaffungen und Materialwuenschen
+- Anschaffungen und Materialwünschen
 - Ferien, Sonderurlaub oder Weiterbildungen
 - unklaren Rollen- oder Zustandswechseln
 
-### 9.5 Was noch genauer auszuarbeiten ist
+### 9.5 Was noch genaür auszuarbeiten ist
 
-In der finalen Fassung soll dieses Kapitel um eine klarere Matrix ergaenzt
+In der finalen Fassung soll dieses Kapitel um eine klarere Matrix ergänzt
 werden, etwa zu:
 
 - wer entscheidet
 - wer vorbereitet
 - wer informiert wird
 - wer dokumentiert
-- wer Stellvertretung uebernimmt
+- wer Stellvertretung übernimmt
 
 ### 9.6 Noch offen
 
-Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
-- genaue Abgrenzung zwischen Leitung und Bueroleitung
-- verbindliche Freigabelogik fuer einzelne Themen
+- genaü Abgrenzung zwischen Leitung und Büroleitung
+- verbindliche Freigabelogik für einzelne Themen
 - formale Stellvertretungsregeln
 
 ## 10. Fallarbeit und Dokumentation
 
 ### 10.1 Zweck
 
-Dieses Kapitel beschreibt die Grundlogik fuer klientennahe Fallarbeit und
+Dieses Kapitel beschreibt die Grundlogik für klientennahe Fallarbeit und
 deren nachvollziehbare Dokumentation.
 
-Es richtet sich vor allem an das sozialpaedagogische Team sowie an Leitung und
-Bueroleitung in ihrer operativen Rolle.
+Es richtet sich vor allem an das sozialpädagogische Team sowie an Leitung und
+Büroleitung in ihrer operativen Rolle.
 
-### 10.2 Grundsaetze der Fallarbeit
+### 10.2 Grundsätze der Fallarbeit
 
 Klientennahe Arbeit erfolgt:
 
@@ -478,18 +478,18 @@ Dokumentation soll:
 
 - fachlich nachvollziehbar sein
 - zeitnah erfolgen
-- zwischen Beobachtung, Einschaetzung und Vereinbarung unterscheiden
-- fuer berechtigte interne und externe Stellen anschlussfaehig sein
+- zwischen Beobachtung, Einschätzung und Vereinbarung unterscheiden
+- für berechtigte interne und externe Stellen anschlussfähig sein
 
 ### 10.4 Entwicklungs- und Verlaufslogik
 
-Fuer die Fallarbeit sind insbesondere wichtig:
+Für die Fallarbeit sind insbesondere wichtig:
 
 - Ausgangslage und Auftrag
 - Ziele und vereinbarte Schritte
 - beobachtete Entwicklungen
 - Risiken, Spannungen und Schutzaspekte
-- naechste fachliche Schritte
+- nächste fachliche Schritte
 
 ### 10.5 Kommunikation im Fallkontext
 
@@ -503,16 +503,16 @@ involvierten Stellen erfolgt:
 
 ### 10.6 Grenzen und Eskalation
 
-Wenn Schutz, Auftrag, Kooperation oder Sicherheit unklar oder gefaehrdet sind,
-ist fruehzeitig Ruecksprache mit Leitung oder Bueroleitung zu nehmen.
+Wenn Schutz, Auftrag, Kooperation oder Sicherheit unklar oder gefährdet sind,
+ist frühzeitig Rücksprache mit Leitung oder Büroleitung zu nehmen.
 
 ### 10.7 Noch offen
 
-Vor der finalen Fassung dieses Kapitels sind noch zu klaeren:
+Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
 - welche Vorlagen oder Formulare verbindlich genutzt werden
-- welche Dokumentationsstruktur fuer Entwicklungsberichte und Fallnotizen gilt
-- welche internen Standards fuer Frequenz, Ablage und Qualitaetssicherung
+- welche Dokumentationsstruktur für Entwicklungsberichte und Fallnotizen gilt
+- welche internen Standards für Freqünz, Ablage und Qualitätssicherung
   verbindlich werden
 
 ## 11. Eintritt, Austritt und Rollenwechsel
@@ -527,7 +527,7 @@ aber auch wichtige Orientierungspunkte für alle Mitarbeitenden.
 
 ### 11.2 Eintritt
 
-Beim Eintritt neuer Mitarbeitender ist sicherzustellen, dass:
+Beim Eintritt neür Mitarbeitender ist sicherzustellen, dass:
 
 - die relevanten Kapitel des Sammeldokuments zugänglich sind
 - Rollen, Zuständigkeiten und erste Ansprechpersonen geklärt sind
@@ -570,7 +570,7 @@ Auslieferung des Sammeldokuments und für zugehörige Dokumente von Wegpiraten.
 
 ### 12.2 Grundcharakter
 
-Die visuelle Ausgestaltung soll:
+Die visülle Ausgestaltung soll:
 
 - hochwertig
 - klar
@@ -621,39 +621,39 @@ Für die finale Fassung gilt:
 Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
 - finale Schriftwahl
-- genaue Positionierung von Logo und Fusszeile
+- genaü Positionierung von Logo und Fusszeile
 - ob für unterschiedliche Auslieferungsformate Varianten nötig sind
 
 ## 13. Code of Conduct
 
 ### 6.1 Grundhaltung
 
-Wir begegnen Klientinnen und Klienten, Familien, Fachstellen, Behoerden und
+Wir begegnen Klientinnen und Klienten, Familien, Fachstellen, Behörden und
 einander mit Respekt, Klarheit und professioneller Verbindlichkeit.
 
-Wir arbeiten auf Augenhoehe, ohne Verantwortung zu relativieren.
+Wir arbeiten auf Augenhöhe, ohne Verantwortung zu relativieren.
 
 ### 6.2 Verhalten im Team
 
 Von allen Mitarbeitenden wird erwartet, dass sie:
 
 - respektvoll kommunizieren
-- Rueckmeldungen sachlich und konstruktiv geben
+- Rückmeldungen sachlich und konstruktiv geben
 - Konflikte direkt, professionell und ohne Abwertung ansprechen
-- Absprachen einhalten oder Abweichungen fruehzeitig melden
-- Informationen nicht bewusst zurueckhalten, wenn sie fuer die Arbeit
+- Absprachen einhalten oder Abweichungen frühzeitig melden
+- Informationen nicht bewusst zurückhalten, wenn sie für die Arbeit
   relevant sind
 
-### 6.3 Verhalten gegenueber Klientinnen und Klienten
+### 6.3 Verhalten gegenüber Klientinnen und Klienten
 
 Wir handeln professionell, zugewandt und rollenklar.
 
 Das bedeutet insbesondere:
 
-- keine herablassende oder demuetigende Kommunikation
-- keine abwertenden Kommentare ueber Familien, Kinder oder Fachstellen
-- kein Ausnutzen von Abhaengigkeiten oder Vertrauensverhaeltnissen
-- keine Grenzverletzungen in Sprache, Naehe oder Verhalten
+- keine herablassende oder demütigende Kommunikation
+- keine abwertenden Kommentare über Familien, Kinder oder Fachstellen
+- kein Ausnutzen von Abhängigkeiten oder Vertraünsverhältnissen
+- keine Grenzverletzungen in Sprache, Nähe oder Verhalten
 - klares, ruhiges und nachvollziehbares Handeln auch in belasteten Situationen
 
 ### 6.4 Auftreten und Kleidung
@@ -664,12 +664,12 @@ Situation angemessenes Auftreten erwartet.
 Nicht angemessen sind insbesondere:
 
 - bauchfreie Tops
-- stark freizeitbetonte oder demonstrativ nachlaessige Kleidung in
+- stark freizeitbetonte oder demonstrativ nachlässige Kleidung in
   dienstlichen Settings
 - bewusst unpassende Kombinationen wie Hawaii-Hemden mit Sandalen bei
   professionellen Terminen
 
-Praktische oder bewegungsgeeignete Kleidung ist dort moeglich, wo sie fuer den
+Praktische oder bewegungsgeeignete Kleidung ist dort möglich, wo sie für den
 Einsatz sinnvoll ist. Auch dann gilt:
 gepflegt, funktional und professionell.
 
@@ -679,22 +679,22 @@ gepflegt, funktional und professionell.
 
 Diensthandys dienen ausschliesslich dienstlichen Zwecken.
 
-Eine private Nutzung ist nicht erlaubt, sofern nicht ausdruecklich etwas
+Eine private Nutzung ist nicht erlaubt, sofern nicht ausdrücklich etwas
 anderes schriftlich oder nachvollziehbar freigegeben wurde.
 
 ### 7.2 Geographische Nutzung
 
-Diensthandys duerfen nur innerhalb der Schweiz genutzt werden.
+Diensthandys dürfen nur innerhalb der Schweiz genutzt werden.
 
 Jede Nutzung ausserhalb der Schweiz ist nur mit expliziter Zustimmung der
-Leitung oder Bueroleitung zulaessig.
+Leitung oder Büroleitung zulässig.
 
 ### 7.3 Ausnahmen
 
 Abweichungen von diesen Regeln brauchen vorab eine explizite Zustimmung der
-Leitung oder Bueroleitung.
+Leitung oder Büroleitung.
 
-Das gilt insbesondere fuer:
+Das gilt insbesondere für:
 
 - Nutzung im Ausland
 - private Nutzung
@@ -703,18 +703,18 @@ Das gilt insbesondere fuer:
 
 ### 7.4 Sicherheitsbezug
 
-Diensthandys sind sorgfaeltig zu behandeln und vor unbefugtem Zugriff zu
-schuetzen.
+Diensthandys sind sorgfältig zu behandeln und vor unbefugtem Zugriff zu
+schützen.
 
 Verlust, Diebstahl, Fehlversand, Verdacht auf Missbrauch oder andere
-sicherheitsrelevante Vorfaelle sind unverzueglich der Leitung oder
-Bueroleitung zu melden.
+sicherheitsrelevante Vorfälle sind unverzüglich der Leitung oder
+Büroleitung zu melden.
 
 ## 15. Offene Punkte
 
-### 15.1 Inhaltlich noch fehlende oder auszubauende Kapitel
+### 15.1 Inhaltlich noch fehlende oder auszubaünde Kapitel
 
-Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
+Folgende Kapitel sind in dieser Version 0.1 noch auszubaün:
 
 - Kapitel Datenschutz und Vertraulichkeit in präziserer Endfassung
 - Kapitel IT und Zugriffe in präziserer Endfassung
@@ -745,7 +745,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 
 ### 15.3 Fachlich oder organisatorisch zu klärende Punkte
 
-- Welche bestehenden Inhalte Primärquellenstatus haben
+- Welche bestehenden Inhalte Primärqüllenstatus haben
 - Welche Regeln bereits verbindlich in Arbeitsverträgen oder Weisungen stehen
 - Welche allgemeine Telefonnummer offiziell verwendet werden soll
 - Welche allgemeine E-Mail-Adresse offiziell verwendet werden soll
@@ -756,7 +756,7 @@ Folgende Kapitel sind in dieser Version 0.1 noch auszubauen:
 ### 15.4 Rechtlich und sicherheitsbezogen zu prüfende Punkte
 
 - Endabgleich von Arbeitszeit-, Überstunden- und Ferienregeln mit den
-  Primärquellen
+  Primärqüllen
 - Endabgleich der Datenschutz- und Vertraulichkeitsregeln mit dem effektiven
   Datenfluss
 - Entfernung beziehungsweise Ausschluss aller Zugangsdaten, Passwörter und
@@ -768,7 +768,7 @@ Vor einer finalen Version müssen mindestens diese Punkte bestätigt sein:
 
 - allgemeine Telefonnummer
 - allgemeine E-Mail-Adresse
-- verbindliche Primärquellen für arbeitsrechtlich sensible Regeln
+- verbindliche Primärqüllen für arbeitsrechtlich sensible Regeln
 - Freigabelogik für Datenschutz, IT und Rollenfragen
 
 ## 16. Hinweise zur finalen Auslieferung
@@ -783,7 +783,7 @@ Bevorzugt wird die Nutzung der Vektorversion:
 
 Die finale Fassung soll eine konsistente Fusszeile tragen.
 
-Aktuell sicher belegt sind:
+Aktüll sicher belegt sind:
 
 - Wegpiraten GmbH
 - Hauptstrasse 47, 3800 Unterseen
