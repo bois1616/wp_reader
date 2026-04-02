@@ -3,6 +3,11 @@
 Dieses Repository dient der strukturierten Analyse, Überarbeitung und
 Qualitätssicherung organisationsinterner Dokumente der Wegpiraten (wegpiraten.ch).
 
+Der operative Arbeitsmodus ist agentengesteuert und backlog-basiert.
+Verbindliche Regeln stehen in `AGENTS.md`, `CLAUDE.md` und `RSI.md`.
+Offene Aufgaben werden in `dev/backlog.md` geführt, erledigte Arbeit in
+`dev/tasks_done.md`.
+
 ---
 
 ## Scope
@@ -32,10 +37,23 @@ wp_reader/
 
 ## Arbeitsweise
 
-1. Originaldokumente unter `documents/<kategorie>/` ablegen (als `.md` oder `.txt`)
-2. Analyse und Kommentare in `reviews/<dokumentname>-review.md` festhalten
-3. Überarbeitete Versionen im selben Ordner mit Suffix `-v2` oder `-überarbeitet`
-4. Änderungen regelmäßig committen mit aussagekräftigen Commit-Messages
+1. Neue Arbeit zuerst in `dev/backlog.md` eintragen
+2. Originaldokumente unter `documents/<kategorie>/` ablegen
+3. Analyse und Kommentare in `reviews/<dokumentname>-review.md` festhalten
+4. Überarbeitete Versionen nachvollziehbar ablegen
+5. Erledigte Aufgaben in `dev/tasks_done.md` dokumentieren
+
+---
+
+## Governance und RSI
+
+- `AGENTS.md` definiert die verbindlichen Arbeitsregeln fuer alle Agenten
+- `CLAUDE.md` beschreibt den operativen AI-Arbeitsmodus
+- `RSI.md` definiert, wie wir Workflow, Vorlagen und Prioritaeten
+  iterativ verbessern
+
+Das Ziel ist nicht nur bessere Dokumente, sondern ein nachvollziehbarer,
+stabiler und wiederholbarer Verbesserungsprozess.
 
 ---
 
