@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 17 gestartet – Kapitel Eintritt, Austritt und
+Rollenwechsel um Checklistenlogik ergänzt
+
 Stand 02.04.2026: RSI-Schritt 16 gestartet – Kapitel Fallarbeit und
 Dokumentation um verbindlichere Arbeitsstandards ergänzt
 
@@ -86,6 +89,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] RSI-Schritt 17: Eintritt, Austritt und Rollenwechsel um
+  Checklistenlogik ergänzen
 - [x] [P1] [docs] RSI-Schritt 16: Fallarbeit und Dokumentation um
   verbindlichere Arbeitsstandards ergänzen
 - [x] [P1] [docs] RSI-Schritt 15: Mitarbeitenden-Handbuch um konkrete

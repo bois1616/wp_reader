@@ -634,12 +634,19 @@ aber auch wichtige Orientierungspunkte für alle Mitarbeitenden.
 
 ### 11.2 Eintritt
 
-Beim Eintritt neür Mitarbeitender ist sicherzustellen, dass:
+Beim Eintritt neuer Mitarbeitender ist sicherzustellen, dass:
 
 - die relevanten Kapitel des Sammeldokuments zugänglich sind
 - Rollen, Zuständigkeiten und erste Ansprechpersonen geklärt sind
 - notwendige Arbeitsmittel und Zugriffe geordnet bereitgestellt werden
 - Verhaltens-, Datenschutz- und IT-Grundregeln bekannt sind
+
+Mini-Checkliste Eintritt:
+
+- Rolle und direkte Ansprechperson benennen
+- relevante Kapitel gemeinsam zuweisen
+- Arbeitsmittel und Zugriffe bereitstellen
+- Datenschutz-, IT- und Verhaltensgrundlagen bestätigen
 
 ### 11.3 Austritt
 
@@ -651,6 +658,13 @@ Beim Austritt ist sicherzustellen, dass:
 - sensible Informationen nicht unkontrolliert bei austretenden Personen
   verbleiben
 
+Mini-Checkliste Austritt:
+
+- Geräte, Schlüssel und Unterlagen zurücknehmen
+- Zugriffe beenden oder entziehen
+- offene Aufgaben und Übergaben dokumentieren
+- sensible Informationen und Ablagen kontrollieren
+
 ### 11.4 Rollenwechsel
 
 Bei Rollenwechseln ist früh zu klären:
@@ -660,6 +674,13 @@ Bei Rollenwechseln ist früh zu klären:
 - welche Kommunikationswege sich ändern
 - welche Stellvertretungen oder Übergaben nötig sind
 
+Mini-Checkliste Rollenwechsel:
+
+- neue Zuständigkeiten schriftlich klären
+- betroffene Zugriffe anpassen
+- relevante Stellen informieren
+- Übergabe- und Stellvertretungspunkte festhalten
+
 ### 11.5 Noch offen
 
 Vor der finalen Fassung dieses Kapitels sind noch zu klären:
@@ -667,6 +688,7 @@ Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 - welche Eintritts- und Austrittsschritte verbindlich dokumentiert werden
 - welche Checklisten intern genutzt werden sollen
 - wie die formale Übergabe bei Rollenwechseln festgehalten wird
+- wo diese Checklisten operativ gepflegt und versioniert werden
 
 ## 12. Corporate Design
 
