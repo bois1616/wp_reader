@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 02.04.2026: RSI-Schritt 13 gestartet – Kapitel IT und Zugriffe
+inhaltlich präzisiert
+
 Stand 02.04.2026: RSI-Schritt 12 gestartet – Kapitel Datenschutz und
 Vertraulichkeit inhaltlich präzisiert
 
@@ -74,6 +77,7 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [policy] RSI-Schritt 13: Kapitel IT und Zugriffe präzisieren
 - [x] [P1] [policy] RSI-Schritt 12: Kapitel Datenschutz und
   Vertraulichkeit präzisieren
 - [x] [P1] [quality] RSI-Schritt 11: sprachliche Regressionen und

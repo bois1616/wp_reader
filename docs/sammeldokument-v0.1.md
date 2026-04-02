@@ -349,12 +349,17 @@ und anderen technischen oder administrativen Zugangsmitteln.
 
 Zugriffe werden nur im nötigen Umfang vergeben, genutzt und weitergeführt.
 
+Es gilt das Prinzip:
+so viel Zugriff wie nötig, so wenig Zugriff wie möglich.
+
 Es gilt insbesondere:
 
 - keine Weitergabe von Passwörtern oder Zugangsdaten an unbefugte Personen
 - keine Ablage von Secrets in allgemeinen Readern oder breit geteilten Dateien
 - keine Nutzung von Konten ausserhalb des dienstlich nötigen Rahmens
 - technische Unklarheiten sind früh zu klären, nicht improvisiert zu lösen
+- keine Vermischung von privaten und dienstlichen Zugängen ohne ausdrückliche
+  Freigabe
 
 ### 8.3 Rollen und Freigaben
 
@@ -367,8 +372,11 @@ Je nach Thema braucht es die Zustimmung von:
 - Büroleitung
 - Administration
 
-Die genaü Zuteilung ist in einer späteren Rollen- und Entscheidungslogik zu
+Die genaue Zuteilung ist in einer späteren Rollen- und Entscheidungslogik zu
 präzisieren.
+
+Neue Zugriffe, geänderte Rechte oder Sonderfreigaben sind nachvollziehbar
+abzustimmen und nicht stillschweigend einzurichten.
 
 ### 8.4 Geheimhaltung von Zugangsmitteln
 
@@ -381,6 +389,9 @@ Sie gehören nicht:
 - in breit verteilte Sammeldokumente
 - in Kapitel, die für die finale Kundenfassung bestimmt sind
 
+Wenn Zugangsmittel dokumentiert oder übergeben werden müssen, hat dies über
+einen kontrollierten, intern zulässigen Weg zu erfolgen.
+
 ### 8.5 Geräte und Konten
 
 Dienstliche Geräte und Konten sind ausschließlich gemäss internen Regeln
@@ -392,6 +403,10 @@ Das betrifft insbesondere:
 - E-Mail-Konten
 - Kalender und Buchungstools
 - Dateiablagen und geteilte Laufwerke
+- Drucker, Scanner und sonstige gemeinsam genutzte Infrastruktur
+
+Geräte sind zu sperren, Sitzungen abzumelden und Unterlagen nach Nutzung nicht
+offen zurückzulassen.
 
 ### 8.6 Austritt, Wechsel und Entzug von Zugriffen
 
@@ -399,6 +414,13 @@ Bei Austritt, Rollenwechsel oder geänderter Verantwortung müssen Zugriffe
 geordnet angepasst, entzogen oder übertragen werden.
 
 Offene oder verwaiste Zugriffe sind zu vermeiden.
+
+Vor dem Abschluss eines Rollenwechsels oder Austritts ist zu prüfen:
+
+- welche Konten aktiv sind
+- welche Rechte entzogen werden müssen
+- welche Daten oder Geräte zurückzugeben sind
+- ob gemeinsame Postfächer, Kalender oder Ablagen betroffen sind
 
 ### 8.7 Bezug zu anderen Kapiteln
 
@@ -412,9 +434,11 @@ Dieses Kapitel ergänzt:
 
 Vor der finalen Fassung dieses Kapitels sind noch zu klären:
 
-- welche Systeme aktüll kanonisch genutzt werden
+- welche Systeme aktuell kanonisch genutzt werden
 - wer technische Freigaben verbindlich erteilt
 - wie Secrets sicher gepflegt und übergeben werden
+- welche Minimalstandards für Gerätesperre, Passwortschutz und Zugriffsprüfung
+  verbindlich gelten
 
 ## 9. Rollen und Entscheidungen
 
@@ -426,7 +450,7 @@ notwendig sind.
 
 ### 9.2 Bekannte Rollen
 
-Aktüll bekannt sind:
+Aktuell bekannt sind:
 
 - Leitung
 - Büroleitung

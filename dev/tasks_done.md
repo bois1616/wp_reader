@@ -2,6 +2,7 @@
 
 ## 2026-04-02
 
+- RSI-Schritt 13: Kapitel IT und Zugriffe inhaltlich präzisiert
 - RSI-Schritt 12: Kapitel Datenschutz und Vertraulichkeit inhaltlich
   präzisiert
 - RSI-Schritt 11: sprachliche Regressionen und Abschnittsnummern im
