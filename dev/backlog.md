@@ -1,5 +1,11 @@
 # Backlog
 
+Stand 03.04.2026: Abgrenzung von Firmen-Verfassung und Code of Conduct
+geschärft sowie kompakte RACI-Logik ergänzt
+
+Stand 02.04.2026: Vorzeigbare und LaTeX-taugliche Sammeldokument-Version 0.2
+erstellt
+
 Stand 02.04.2026: Corporate-Design-Verortung in die README verschoben
 
 Stand 02.04.2026: Kapitel Corporate Design aus dem Sammeldokument entfernt
@@ -104,6 +110,8 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] Sammeldokument Version 0.2 als vorzeigbare und
+  LaTeX-taugliche Kundenfassung erstellen
 - [x] [P1] [process] RSI-Schritt 20: offene Punkte auf v0.2-Zielbild und
   Endredaktion hin neu priorisieren
 - [x] [P1] [style] RSI-Schritt 19: Corporate Design enger auf die reale

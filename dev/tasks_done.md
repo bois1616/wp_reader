@@ -2,6 +2,8 @@
 
 ## 2026-04-02
 
+- Sammeldokument Version 0.2 als vorzeigbare und LaTeX-taugliche
+  Kundenfassung erstellt
 - Corporate-Design-Verortung in die README verschoben
 - Kapitel Corporate Design aus dem Sammeldokument entfernt und als separate
   Gestaltungsfrage positioniert
@@ -58,3 +60,9 @@
 - `dev/backlog.md` und `dev/tasks_done.md` als kanonische Steuerdateien
   eingefuehrt
 - README auf den neuen Governance- und Arbeitsmodus ausgerichtet
+
+## 2026-04-03
+
+- Abgrenzung von Firmen-Verfassung und Code of Conduct im Sammeldokument
+  geschärft
+- kompakte RACI-Logik im Kapitel Rollen und Entscheidungen ergänzt
