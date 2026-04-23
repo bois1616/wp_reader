@@ -1,5 +1,29 @@
 # Backlog
 
+Stand 23.04.2026: Wasserzeichen wieder entfernt und Wegweiser-Motiv auf der
+Titelseite anstelle des Bären gesetzt
+
+Stand 23.04.2026: PDF-stabile Titelseite mit Logo und Bär sowie Wasserzeichen
+ab Seite 2 für den Wegweiser umgesetzt
+
+Stand 23.04.2026: Willkommen-an-Bord-Wegweiser sprachlich gestrafft und
+redundante Passagen reduziert
+
+Stand 23.04.2026: Wegweiserstruktur nach Leserfuehrung geordnet, Ton
+zugewandter gemacht und Repräsentation um Kleidung ergänzt
+
+Stand 23.04.2026: Wegweiser um Budgetlogik aus Kostengutsprache sowie
+grafische Deckseite mit Wegweiser-Motiv ergänzt
+
+Stand 23.04.2026: Wegweiser sprachlich direkter formuliert sowie um
+Zeiterfassung, Arbeitszeitnachweis und Briefing-Abgleich ergänzt
+
+Stand 23.04.2026: Wegweiser-Fork um interne Selbstorientierung und
+zielgruppengerechten RSI-Gegencheck ergänzt
+
+Stand 23.04.2026: Fork fuer reduzierten Willkommen-an-Bord-Wegweiser nach
+Kundenruecksprache gestartet
+
 Stand 03.04.2026: Abgrenzung von Firmen-Verfassung und Code of Conduct
 geschärft sowie kompakte RACI-Logik ergänzt
 
@@ -110,6 +134,23 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] Willkommen-an-Bord-Wegweiser ohne Wasserzeichen, mit
+  Wegweiser-Motiv auf der Titelseite finalisieren
+- [x] [P1] [docs] Willkommen-an-Bord-Wegweiser PDF-stabil mit Titelbild und
+  Wasserzeichen ab Seite 2 aufbereiten
+- [x] [P1] [docs] Willkommen-an-Bord-Wegweiser ohne Sinnverlust um
+  redundante Passagen straffen
+- [x] [P1] [docs] Willkommen-an-Bord-Wegweiser mit fruehem praktischem
+  Einstieg, direkterer Ansprache und Kleidungshinweis nachschaerfen
+- [x] [P1] [docs] Willkommen-an-Bord-Wegweiser um Budgetlogik der
+  Kostengutsprache, direktere Leserfuehrung und grafische Deckseite ergänzen
+- [x] [P1] [docs] Willkommen-an-Bord-Wegweiser direkter formulieren und um
+  abrechnungsrelevante Orientierung zu Zeiterfassung und Spesen ergänzen
+- [x] [P1] [quality] Willkommen-an-Bord-Wegweiser im RSI-Sinn auf
+  Verstaendlichkeit, Innenorientierung und Wegpiraten-Aussenwirkung
+  nachschaerfen
+- [x] [P1] [docs] Reduzierten Willkommen-an-Bord-Wegweiser als freundliche,
+  bestimmte und originalnahe Fork-Fassung erstellen
 - [x] [P1] [docs] Sammeldokument Version 0.2 als vorzeigbare und
   LaTeX-taugliche Kundenfassung erstellen
 - [x] [P1] [process] RSI-Schritt 20: offene Punkte auf v0.2-Zielbild und

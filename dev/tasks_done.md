@@ -1,5 +1,24 @@
 # Tasks Done
 
+## 2026-04-23
+
+- Reduzierte Fork-Fassung `Willkommen an Bord` als freundlichen,
+  bestimmten und originalnaeheren Wegweiser erstellt
+- Wegweiser-Fork im RSI-Sinn auf Verstaendlichkeit, Innenorientierung und
+  Wegpiraten-Aussenwirkung nachgeschaerft
+- Wegweiser sprachlich direkter formuliert und um Orientierung zu
+  Zeiterfassung, Arbeitszeitnachweis, Spesen sowie Briefing-Abgleich ergänzt
+- Wegweiser um Budgetlogik aus Kostengutsprache, direkteren Einstieg fuer
+  Neuzugaenge und grafische Deckseite mit Wegweiser-Motiv ergänzt
+- Wegweiserstruktur mit fruehem praktischem Einstieg, direkter Ansprache und
+  Kleidungshinweis fuer die Wegpiraten-Repräsentation nachgeschaerft
+- Willkommen-an-Bord-Wegweiser ohne Sinnverlust gestrafft und redundante
+  Passagen reduziert
+- Willkommen-an-Bord-Wegweiser PDF-stabil auf LaTeX/Pandoc-Titelseite mit
+  Logo, Bär und Wasserzeichen ab Seite 2 umgestellt und PDF neu erzeugt
+- Wasserzeichen wieder entfernt und Wegweiser-Motiv auf der Titelseite an
+  Stelle des Bären gesetzt; PDF erneut sauber aus `docs/` erzeugt
+
 ## 2026-04-02
 
 - Sammeldokument Version 0.2 als vorzeigbare und LaTeX-taugliche
