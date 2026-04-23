@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 23.04.2026: Original-Reader als Markdown sichern und Übernahmen in den
+Wegweiser nachvollziehbar markieren
+
 Stand 23.04.2026: Wasserzeichen wieder entfernt und Wegweiser-Motiv auf der
 Titelseite anstelle des Bären gesetzt
 
@@ -134,6 +137,10 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [ ] [P1] [docs] Originales Willkommen-an-Bord-DOCX als Markdown-Fassung
+  sichern
+- [ ] [P1] [review] Übernommene Inhalte aus dem Original im Wegweiser-Bezug
+  in separater Markdown-Datei markieren
 - [x] [P1] [docs] Willkommen-an-Bord-Wegweiser ohne Wasserzeichen, mit
   Wegweiser-Motiv auf der Titelseite finalisieren
 - [x] [P1] [docs] Willkommen-an-Bord-Wegweiser PDF-stabil mit Titelbild und
