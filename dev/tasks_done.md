@@ -1,5 +1,26 @@
 # Tasks Done
 
+## 2026-04-24 (Fortsetzung 2)
+
+- Neufassung willkommen_an_bord_v2.md mit allen Review-Änderungen erstellt:
+  Illustrationen per wrapfig neben den Text gestellt (kein Caption),
+  Formulare inline (nicht im Anhang), alle Zugangsdaten/Codes in Anhang Z,
+  Kommentare als [Frage]-Blöcke direkt im Text, rechtlich kritische Stellen
+  markiert (Überstunden, Nacht-/Sonntagsarbeit, Probezeit, Kündigung),
+  Inhaltskorrekturen: Übertrag-Regel (max. 10 Tage bis 31.3.), Widerspruch
+  Überstunden bereinigt, Zahlen <10 als Wort, Vaterschaftsurlaub-Frage ergänzt,
+  NBUV-Kostenträger präzisiert, QR-Code-Platzhalter für Kalender-URLs,
+  D.4 Arbeitssicherheit als offene Frage markiert; Makefile für PDF-Build;
+  PDF kompiliert via xelatex (6.4 MB)
+
+## 2026-04-24 (Fortsetzung)
+
+- Neufassung willkommen_an_bord_v1.md erstellt (documents/onboarding/):
+  4-Gruppen-Struktur (A: Willkommen, B: Anstellungsverhältnis, C: Arbeiten,
+  D: Organisation), Swiss German, LaTeX-kompatibel, Formulare im Anhang,
+  Bilder pro Abschnitt (Original-Assets + wp_service-Header), assets-Ordner
+  mit 15 Bildern unter documents/onboarding/assets/ angelegt
+
 ## 2026-04-24
 
 - korrekturlesen_willkommen_an_bord.md via Claude Vision neu erzeugt (1172 Zeilen):

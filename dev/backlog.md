@@ -1,5 +1,9 @@
 # Backlog
 
+Stand 24.04.2026: Dokumentenvergleich abgeschlossen – korrekturlesen_willkommen_an_bord.md
+ist einzige Arbeitsgrundlage; rumpf hat keinen inhaltlichen Mehrwert (Kapitel 2–5 fehlen
+komplett); Strukturvorschlag für neues Inhaltsverzeichnis erstellt
+
 Stand 24.04.2026: Neuansatz auf Basis Kundenfeedback – Willkommen-an-Bord-Reader
 polishen statt neu schreiben; Quelldokumente inhaltsverzeichnis.md und
 rumpf_willkommen_an_bord_ueberarbeitet.pdf als Referenz eingestellt;
@@ -142,15 +146,20 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
-- [ ] [P1] [review] rumpf_willkommen_an_bord_ueberarbeitet.pdf auf Fehler,
-  Redundanzen und Strukturprobleme analysieren (als Anschauungsmaterial, nicht
-  als Vorbild)
-- [ ] [P1] [docs] Willkommen-an-Bord-Reader (29 Seiten Original) strukturieren,
-  Fehler beheben, Ton beibehalten – kein inhaltlicher Neuaufbau
+- [x] [P1] [review] Dokumentenvergleich rumpf vs. korrekturlesen: korrekturlesen
+  ist alleinige Arbeitsgrundlage; rumpf nur Anschauungsmaterial
+- [x] [P1] [docs] Abgleich: inhaltsverzeichnis.md gegen Original-Reader –
+  korrekturlesen deckt alle 5 Kapitel des IVZ vollstaendig ab
+- [x] [P1] [structure] Neues Inhaltsverzeichnis mit logischer Gruppierung und
+  Unterstrukturen zur Kundenfreigabe vorlegen
+- [x] [P1] [docs] Willkommen-an-Bord-Reader auf Basis korrekturlesen strukturieren,
+  Fehler beheben, Ton beibehalten – Neufassung v2 erstellt unter
+  documents/onboarding/willkommen_an_bord_v2.md (4-Gruppen-Struktur A–D,
+  Swiss German, LaTeX-kompatibel, Illustrationen neben Text via wrapfig,
+  Formulare inline, Zugangsdaten in Anhang Z, Kommentare als [Frage]-Blöcke,
+  Makefile für PDF-Build, PDF kompiliert auf 6.4 MB)
 - [ ] [P1] [review] Redundanzen im Original-Reader identifizieren und zur
   Kundenentscheidung kennzeichnen (nicht eigenmaechtig streichen)
-- [ ] [P1] [docs] Abgleich: inhaltsverzeichnis.md gegen Original-Reader –
-  Kapitelstruktur pruefen und Luecken benennen
 - [x] [P1] [docs] Originales Willkommen-an-Bord-DOCX als Markdown-Fassung
   sichern (via Claude Vision aus PDF; DOCX bleibt als Originalquelle)
 - [ ] [P1] [review] Übernommene Inhalte aus dem Original im Wegweiser-Bezug
