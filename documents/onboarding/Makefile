@@ -1,5 +1,5 @@
-PDF = willkommen_an_bord_v2.pdf
-SRC = willkommen_an_bord_v2.md
+PDF = willkommen_an_bord.pdf
+SRC = willkommen_an_bord.md
 
 $(PDF): $(SRC)
 	pandoc $(SRC) -o $(PDF) --pdf-engine=xelatex --wrap=none
