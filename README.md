@@ -21,7 +21,7 @@ Offene Aufgaben werden in `dev/backlog.md` geführt, erledigte Arbeit in
 
 ## Verzeichnisstruktur
 
-```
+```text
 wp_reader/
 ├── documents/
 │   ├── onboarding/          # Originaldokumente Onboarding
@@ -42,6 +42,17 @@ wp_reader/
 3. Analyse und Kommentare in `reviews/<dokumentname>-review.md` festhalten
 4. Überarbeitete Versionen nachvollziehbar ablegen
 5. Erledigte Aufgaben in `dev/tasks_done.md` dokumentieren
+
+### Leitprinzip: Polish-first
+
+Der primäre Arbeitsansatz für bestehende Kundendokumente ist **Polish-first**:
+
+- Inhalt und Ton des Originals bleiben erhalten
+- Fehler werden behoben, Struktur verbessert
+- Redundanzen werden identifiziert und zur Kundenentscheidung vorgelegt,
+  nicht eigenmaechtig gestrichen
+- Anschauungsmaterial (z. B. gestaltete Fremdfassungen) dient dem Abgleich,
+  nicht als Vorlage
 
 ---
 
@@ -70,6 +81,16 @@ Massgebliche gestalterische Referenzen liegen derzeit in:
 - `documents/external/wegpiraten_logo.svg`
 - `documents/external/wegpiraten_logo.png`
 - `documents/external/wegpiraten_logo.jpg`
+
+Kundendokumente als Arbeitsgrundlage (Polish-first):
+
+- `documents/external/inhaltsverzeichnis.md` – Kapitelstruktur des Originals
+- `documents/external/rumpf_willkommen_an_bord_ueberarbeitet.pdf` – gestaltete
+  Fremdfassung (Anschauungsmaterial, kein Vorbild; enthält Fehler und
+  unpassende Bilder)
+- `documents/external/Korrekturlesen Willkommen an Bord bei der Wegpiraten .pdf`
+  – Korrekturfassung des Originals
+- `documents/external/willkommen-an-bord-original.md` – Original als Markdown
 
 Fuer finale Auslieferungen gilt:
 

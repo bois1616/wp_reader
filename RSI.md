@@ -37,6 +37,8 @@ Jeder RSI-Durchlauf sollte pruefen:
 4. Welche Dokumenttypen brauchen unterschiedliche Bearbeitungslogiken?
 5. Welche Regeln helfen dem Projekt wirklich und welche koennen vereinfacht
    oder entfernt werden?
+6. Halten wir den Polish-first-Ansatz ein – Inhalt und Ton des Originals
+   erhalten, Redundanzen kennzeichnen statt eigenmaechtig streichen?
 
 ## Pflicht-Output jedes RSI-Durchlaufs
 
@@ -66,6 +68,8 @@ Ein RSI-Durchlauf ist besonders sinnvoll, wenn:
 - Vorlagen nicht mehr zu den Dokumenttypen passen
 - das Team Zeit in Prozess statt in sinnvolle Verbesserungen investiert
 - Governance-Dateien auseinanderlaufen
+- Kundenfeedback den Arbeitsansatz grundlegend verschiebt (z. B. von
+  Neuaufbau zu Polish-first)
 
 ## Minimaler RSI-Ablauf
 
