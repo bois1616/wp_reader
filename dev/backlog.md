@@ -1,5 +1,10 @@
 # Backlog
 
+Stand 24.04.2026: Neuansatz auf Basis Kundenfeedback – Willkommen-an-Bord-Reader
+polishen statt neu schreiben; Quelldokumente inhaltsverzeichnis.md und
+rumpf_willkommen_an_bord_ueberarbeitet.pdf als Referenz eingestellt;
+Steuerdateien auf Polish-first-Ansatz ausgerichtet
+
 Stand 23.04.2026: Original-Reader als Markdown sichern und Übernahmen in den
 Wegweiser nachvollziehbar markieren
 
@@ -137,8 +142,17 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
-- [ ] [P1] [docs] Originales Willkommen-an-Bord-DOCX als Markdown-Fassung
-  sichern
+- [ ] [P1] [review] rumpf_willkommen_an_bord_ueberarbeitet.pdf auf Fehler,
+  Redundanzen und Strukturprobleme analysieren (als Anschauungsmaterial, nicht
+  als Vorbild)
+- [ ] [P1] [docs] Willkommen-an-Bord-Reader (29 Seiten Original) strukturieren,
+  Fehler beheben, Ton beibehalten – kein inhaltlicher Neuaufbau
+- [ ] [P1] [review] Redundanzen im Original-Reader identifizieren und zur
+  Kundenentscheidung kennzeichnen (nicht eigenmaechtig streichen)
+- [ ] [P1] [docs] Abgleich: inhaltsverzeichnis.md gegen Original-Reader –
+  Kapitelstruktur pruefen und Luecken benennen
+- [x] [P1] [docs] Originales Willkommen-an-Bord-DOCX als Markdown-Fassung
+  sichern (via Claude Vision aus PDF; DOCX bleibt als Originalquelle)
 - [ ] [P1] [review] Übernommene Inhalte aus dem Original im Wegweiser-Bezug
   in separater Markdown-Datei markieren
 - [x] [P1] [docs] Willkommen-an-Bord-Wegweiser ohne Wasserzeichen, mit

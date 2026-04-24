@@ -26,3 +26,4 @@ _intern/
 _vertraulich/
 
 .codex
+.env

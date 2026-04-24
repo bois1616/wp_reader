@@ -1,5 +1,17 @@
 # Tasks Done
 
+## 2026-04-24
+
+- korrekturlesen_willkommen_an_bord.md via Claude Vision neu erzeugt (1172 Zeilen):
+  sauber strukturiert, keine Duplikate, Formularabschnitte korrekt
+- rumpf_willkommen_an_bord_ueberarbeitet.md via Claude Vision erzeugt (288 Zeilen)
+- Aufräumen: dev/pdf_to_md.py (PyMuPDF-Ansatz, überholt) und
+  willkommen-an-bord-original.md (Pandoc-Artefakte) entfernt
+- Steuerdateien README.md und RSI.md auf Polish-first-Ansatz ausgerichtet
+  (Kundenfeedback: Original erhalten, Fehler beheben, Redundanzen kennzeichnen)
+- Neue Quelldokumente in README.md als Referenz eingetragen
+- Backlog mit konkreten Folgeaufgaben für den Neuansatz ergänzt
+
 ## 2026-04-23
 
 - Reduzierte Fork-Fassung `Willkommen an Bord` als freundlichen,

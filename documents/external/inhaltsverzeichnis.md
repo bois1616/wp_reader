@@ -1,0 +1,32 @@
+- Inhaltsverzeichnis
+- Ziel und Zweck des Readers
+- Anstellungsgrundlagen
+- Grundhaltung der Wegpiraten GmbH
+- Form und Dauer des Arbeitsverhältnisses
+- Probezeit
+- Kündigungsfristen
+- Überstundenregelung
+- Aus-, Weiter- und Fortbildung
+- Arbeitszeitnachweis und Stundenerfassung
+- Leistungen und Abrechnung (SPF & Besuchsrecht)
+- Spesenregelung
+- Schweigepflicht
+- Stellenbeschreibung
+- Aufgaben und Selbstverständnis
+- Anforderungen an Mitarbeitende
+- Leistungen der Wegpiraten GmbH
+- Lohnsystem und Auszahlung
+- Monatslohn
+- Ferien und Urlaub
+- Überstunden und Kompensation
+- Dienstfreie Tage
+- Arztzeugnis und Absenzen
+- Mutter- und Vaterschaftsurlaub
+- Versicherungen
+- Mobiltelefonnutzung
+- Dresscode
+- Verhaltensregeln
+- Entwicklungsberichte
+- Logbuch und Dokumentation
+- Aufnahmegespräche
+- Interne Organisation (Büros, Infrastruktur, IT)
