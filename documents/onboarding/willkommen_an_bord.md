@@ -9,14 +9,16 @@ fontsize: 11pt
 header-includes:
   - \usepackage{graphicx}
   - \usepackage{wrapfig}
+  - \usepackage{xcolor}
+  - \usepackage{mdframed}
+  - \definecolor{commentbg}{RGB}{255,248,220}
+  - \definecolor{commentborder}{RGB}{200,160,0}
+  - \newmdenv[backgroundcolor=commentbg,linecolor=commentborder,linewidth=1.5pt,innerleftmargin=8pt,innerrightmargin=8pt,innertopmargin=6pt,innerbottommargin=6pt,skipabove=6pt,skipbelow=6pt]{commentbox}
 ---
 
-\begin{figure}[h]
-\centering
+\begin{center}
 \includegraphics[width=\linewidth]{assets/image1.jpeg}
-\end{figure}
-
-\newpage
+\end{center}
 
 # Ziel und Zweck dieses Readers
 
@@ -26,21 +28,20 @@ Die Bestimmungen gelten für sämtliche Mitarbeitenden der Wegpiraten GmbH. Als 
 
 Dieses Dokument enthält sensible Informationen, darunter interne Zugangsdaten und vertrauliche betriebliche Inhalte. Bitte entsprechend sorgfältig damit umgehen.
 
-\newpage
-
 # Abschnitt A — Willkommen & Orientierung
 
 ## A.1 Wer wir sind und was wir tun
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/image2.jpeg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[c]{0.56\textwidth}
 Wir sind die Wegpiraten GmbH — ein multiprofessionelles Team von Sozialpädagoginnen und Sozialpädagogen mit Standorten in Unterseen/Interlaken und Bern. Unsere Arbeit ist systemisch, erlebnispädagogisch und konsequent auf die Menschen ausgerichtet, mit denen wir arbeiten.
 
+\medskip
 Wir begleiten Familien in herausfordernden Lebenssituationen, stärken Erziehungskompetenzen und sichern den Kinderschutz. Dabei sind wir auf Augenhöhe, neugierig und verbindlich.
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.40\textwidth}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image2.jpeg}
+\end{minipage}
 
 - Wir kontrollieren die Sicherheit und die altersadäquate Umgebung der Kinder.
 - Wir sichern den Kinderschutz ab.
@@ -55,19 +56,23 @@ Wir begleiten Familien in herausfordernden Lebenssituationen, stärken Erziehung
 
 ## A.2 Unsere Grundhaltung
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/image3.jpeg}
-\vspace{-6pt}
-\end{wrapfigure}
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image3.jpeg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
+\begin{commentbox}
+\textbf{[Kommentar]} Hier ist eine unterschiedliche Tonalität. Von einerseits sehr professionell und sachlich, andererseits sehr persönlich und emotional.
+\end{commentbox}\end{minipage}
 
-- So wenig wie möglich, so viel wie nötig — Hilfe zur Selbsthilfe.
+- Hilfe zur Selbsthilfe — So wenig wie möglich, so viel wie nötig
 - Sich selber überflüssig machen.
-- Eltern machen es so gut sie können. Wir sensibilisieren auf die Lösung.
+- Eltern machen es so gut sie können. Wir sensibilisieren für eine Lösung.
 - Zukunftsfokus und konsequente Umsetzung der Abmachungen.
 - Ich bin verbindlich und verlässlich — und erwarte das auch vom Gegenüber.
-- Ich arbeite ressourcenorientiert und systemisch: alle Player werden involviert.
-- Allparteilichkeit — ich schlage mich auf keine Seite.
+- Ich arbeite **ressourcenorientiert und systemisch**: alle Player werden involviert.
+- **Allparteilichkeit** — ich schlage mich auf keine Seite.
 - Positive Grundhaltung, Wertschätzung, Menschenfreude. Es darf auch gelacht werden.
 - Authentisch sein — auch mal sagen, wenn etwas gerade schwierig ist.
 - Die Familie ist Expertin für ihre eigenen Themen. Jedes Mal wieder eine neue Chance.
@@ -83,11 +88,15 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 ## A.3 Passt du in unsere Crew?
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/team8.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
+\begin{commentbox}
+\textbf{[Kommentar]} Jemand, der dieses Dokument liest, ist bereits Teil der Crew. Es geht hier also nicht um die Frage «Passt du zu uns?», sondern vielmehr um die Frage «Wie können wir gemeinsam wachsen und uns weiterentwickeln?». Das sollte sprachlich vielleicht noch etwas klarer herausgearbeitet werden.
+\end{commentbox}\end{minipage}
 
 - Abgeschlossenes Studium in Pädagogik, Sozialpädagogik, Sozialer Arbeit oder Kindheitspädagogik.
 - Eigenständiges Betreuen der anvertrauten Klienten mit lückenloser Dokumentation.
@@ -103,11 +112,12 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 ## A.4 Was du von uns erwarten kannst
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/bab_gemeinsamer_moment.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
+\begin{minipage}[c]{0.36\textwidth}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.60\textwidth}
+Ein vielseitiger, moderner Arbeitsplatz mit echtem Teamrückhalt — das erwartet dich bei den Wegpiraten.
+\end{minipage}
 
 - Nutzung sämtlicher Materialien und Arbeitsmittel der Wegpiraten GmbH.
 - Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern.
@@ -136,14 +146,16 @@ Der hauptsächliche Arbeitsort ist in den Büroräumlichkeiten der Wegpiraten Gm
 
 Das Arbeitsverhältnis wird durch einen schriftlichen Einzelarbeitsvertrag begründet. Ohne besondere Vereinbarung wird der Arbeitsvertrag auf unbestimmte Dauer abgeschlossen.
 
-> **[Frage]** Soll die OR-Referenz (Art. 319 ff.) hier stehen oder genügt der Verweis auf den Arbeitsvertrag? Dieser Satz wiederholt im Wesentlichen Gesetzestext.
-
+\begin{commentbox}
+\textbf{[Frage]} Soll die OR-Referenz (Art. 319 ff.) hier stehen oder genügt der Verweis auf den Arbeitsvertrag? Dieser Satz wiederholt im Wesentlichen Gesetzestext.
+\end{commentbox}
 ## B.2 Probezeit
 
 Die ersten drei Monate eines unbefristeten Arbeitsverhältnisses gelten als Probezeit. Nach deren Ablauf gilt das Arbeitsverhältnis weiterhin als unbefristet.
 
-> **[Frage]** Dies entspricht der gesetzlichen Regelung (Art. 335b OR). Soll das explizit festgehalten werden, oder genügt der Verweis «gemäss Arbeitsvertrag»?
-
+\begin{commentbox}
+\textbf{[Frage]} Dies entspricht der gesetzlichen Regelung (Art. 335b OR). Soll das explizit festgehalten werden, oder genügt der Verweis «gemäss Arbeitsvertrag»?
+\end{commentbox}
 ## B.3 Kündigungsfristen
 
 Das Arbeitsverhältnis kann ordentlich und schriftlich wie folgt gekündigt werden:
@@ -153,10 +165,12 @@ Das Arbeitsverhältnis kann ordentlich und schriftlich wie folgt gekündigt werd
 
 Die Kündigung erfolgt jeweils schriftlich auf das Ende eines Kalendermonats. Eine sofortige Kündigung ist insbesondere möglich, wenn eine rechtskräftige Verurteilung wegen einer Straftat vorliegt. Das Arbeitsverhältnis endet automatisch per Ende des Monats, in dem das ordentliche AHV-Alter erreicht wird.
 
-> **[Frage — rechtlich]** Die hier angegebenen Kündigungsfristen (zwei bzw. drei Monate) gehen über das gesetzliche Minimum (Art. 335c OR: ein Monat im ersten Dienstjahr, zwei Monate im zweiten bis neunten, drei Monate ab dem zehnten) hinaus. Das ist zulässig, sollte aber im Arbeitsvertrag gespiegelt sein. Ist das so gewollt und im Vertrag so geregelt?
-
-> **[Frage — rechtlich]** Die «sofortige Kündigung bei Verurteilung» ist eine weitgehende Formulierung. Bitte rechtlich prüfen lassen, ob diese Bedingung so standhält — insbesondere bei noch nicht rechtskräftigen Urteilen oder Delikten ohne Bezug zur Arbeit.
-
+\begin{commentbox}
+\textbf{[Frage — rechtlich]} Die hier angegebenen Kündigungsfristen (zwei bzw. drei Monate) gehen über das gesetzliche Minimum (Art. 335c OR: ein Monat im ersten Dienstjahr, zwei Monate im zweiten bis neunten, drei Monate ab dem zehnten) hinaus. Das ist zulässig, sollte aber im Arbeitsvertrag gespiegelt sein. Ist das so gewollt und im Vertrag so geregelt?
+\end{commentbox}
+\begin{commentbox}
+\textbf{[Frage — rechtlich]} Die «sofortige Kündigung bei Verurteilung» ist eine weitgehende Formulierung. Bitte rechtlich prüfen lassen, ob diese Bedingung so standhält — insbesondere bei noch nicht rechtskräftigen Urteilen oder Delikten ohne Bezug zur Arbeit.
+\end{commentbox}
 ## B.4 Lohn
 
 Dem Jahresgehalt liegt ein Stundenlohn von brutto CHF 43.— (**Stand 01.01.2026**) zugrunde, inkl. 3% Feiertagszuschlag und 8,3% Ferienentschädigung.
@@ -169,30 +183,34 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
 
 ## B.5 Urlaub und Hafentage
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/klare_schritte_1.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/klare_schritte_1.jpg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Bei einer 100%-Anstellung besteht Anspruch auf 30 bezahlte Urlaubstage pro Jahr (40-Stunden-Woche). Der individuelle Anspruch ist im Arbeitsvertrag festgelegt.
+\end{minipage}
 
 Die zeitliche Lage des Urlaubs wird in Abstimmung mit dem Arbeitgeber schriftlich festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
 
-> **[Frage]** Der gesetzliche Mindestanspruch gemäss Art. 329a OR beträgt bei Fünf-Tage-Wochen 20 Tage. Die Wegpiraten gewähren 30 Tage — das ist zu begrüssen, sollte aber im Arbeitsvertrag ausdrücklich so geregelt sein.
-
+\begin{commentbox}
+\textbf{[Frage]} Der gesetzliche Mindestanspruch gemäss Art. 329a OR beträgt bei Fünf-Tage-Wochen 20 Tage. Die Wegpiraten gewähren 30 Tage — das ist zu begrüssen, sollte aber im Arbeitsvertrag ausdrücklich so geregelt sein.
+\end{commentbox}
 **Übertrag und Verfall:** Die Arbeitnehmenden müssen ihren Urlaub nehmen, spätestens bis zum **31. März des Folgejahres**. Es können maximal zehn Urlaubstage in das neue Jahr übertragen werden, die im ersten Quartal zu beziehen sind. Urlaubstage, die über diesen Übertrag hinausgehen, verfallen.
 
-> **[Frage]** Was geschieht mit mehr als zehn Resttagen zum Jahresende? Verfallen diese ersatzlos, oder werden sie ausbezahlt? Das sollte klar geregelt sein, auch weil das OR in diesem Punkt Schutzvorschriften enthält.
-
-> **[Frage]** Gibt es eine Regelung zur Urlaubsübergabe bei laufenden Fällen? Das Dokument regelt nur die Abwesenheitsnotiz — nicht, wer die Klientenkontakte übernimmt oder wer im Fall von Ausfall informiert wird.
-
+\begin{commentbox}
+\textbf{[Frage]} Was geschieht mit mehr als zehn Resttagen zum Jahresende? Verfallen diese ersatzlos, oder werden sie ausbezahlt? Das sollte klar geregelt sein, auch weil das OR in diesem Punkt Schutzvorschriften enthält.
+\end{commentbox}
+\begin{commentbox}
+\textbf{[Frage]} Gibt es eine Regelung zur Urlaubsübergabe bei laufenden Fällen? Das Dokument regelt nur die Abwesenheitsnotiz — nicht, wer die Klientenkontakte übernimmt oder wer im Fall von Ausfall informiert wird.
+\end{commentbox}
 Erkrankt eine Mitarbeiterin bzw. ein Mitarbeiter während des Urlaubs, werden die Urlaubstage (ohne Wochenenden) nachgewährt, wenn ein ärztliches Zeugnis vorgelegt wird. Sonderurlaub ohne Lohn kann bei wichtigem Grund und wenn die betrieblichen Verhältnisse es gestatten gewährt werden.
 
 ### Urlaubstageberechnung
 
 | Pensum | Urlaubstage (Tage) | Stunden pro Tag | Urlaubsstunden/Jahr |
-|--------|--------------------|-----------------|---------------------|
+| ------ | ------------------ | --------------- | ------------------- |
 | 100%   | 30                 | 8,0             | 240                 |
 | 80%    | 30                 | 6,4             | 192                 |
 | 60%    | 30                 | 4,8             | 144                 |
@@ -209,40 +227,45 @@ Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht di
 
 ### Bezahlte Sonderfreitage
 
-| Anlass | Freitage |
-|--------|----------|
-| Eigene Hochzeit | 2 Tage |
-| Hochzeit naher Verwandter | 1 Tag |
-| Tod innerhalb der Familie (1. Grad) | 2 Tage |
-| Tod naher Verwandter (Tante, Onkel u. a.) | 1 Tag |
-| Wohnungswechsel / Umzugstag | 1 Tag |
+| Anlass                                    | Freitage |
+| ----------------------------------------- | -------- |
+| Eigene Hochzeit                           | 2 Tage   |
+| Hochzeit naher Verwandter                 | 1 Tag    |
+| Tod innerhalb der Familie (1. Grad)       | 2 Tage   |
+| Tod naher Verwandter (Tante, Onkel u. a.) | 1 Tag    |
+| Wohnungswechsel / Umzugstag               | 1 Tag    |
 
 ## B.6 Überstunden
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/schatzkarte.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/schatzkarte.jpg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Überstunden sind unverzüglich zu melden. Sie werden primär durch Freizeit gleicher Dauer kompensiert, spätestens innert eines Jahres.
+\end{minipage}
 
 Sollte eine Kompensation durch Freizeit aus unvorhergesehenen Gründen nicht möglich sein, kann nach vorheriger Rücksprache mit dem Arbeitgeber ausnahmsweise eine Auszahlung zum Stundensatz ohne Zuschlag (1:1) vereinbart werden. Bei Austritt erfolgt die Auszahlung ohne Zuschlag, sofern eine Kompensation nicht möglich war.
 
-> **[Frage — rechtlich]** Die Formulierung «grundsätzlich nicht ausbezahlt» steht im Widerspruch zur Ausnahmeregelung (Auszahlung 1:1). Bitte präzisieren: Ist Auszahlung prinzipiell ausgeschlossen oder nur die Ausnahme? Nach OR Art. 321c Abs. 3 können Überstunden nur dann nicht ausbezahlt werden, wenn dies ausdrücklich vereinbart wurde. Bitte rechtlich prüfen.
-
-> **[Frage — rechtlich]** Für Kadermitarbeitende: Was gilt als «Kader» im Sinne dieser Regelung? Ist das im Arbeitsvertrag definiert? Und: Ab welchem Pensum oder welcher Funktion gilt der Einschluss von Überstunden im Lohn?
-
+\begin{commentbox}
+\textbf{[Frage — rechtlich]} Die Formulierung «grundsätzlich nicht ausbezahlt» steht im Widerspruch zur Ausnahmeregelung (Auszahlung 1:1). Bitte präzisieren: Ist Auszahlung prinzipiell ausgeschlossen oder nur die Ausnahme? Nach OR Art. 321c Abs. 3 können Überstunden nur dann nicht ausbezahlt werden, wenn dies ausdrücklich vereinbart wurde. Bitte rechtlich prüfen.
+\end{commentbox}
+\begin{commentbox}
+\textbf{[Frage — rechtlich]} Für Kadermitarbeitende: Was gilt als «Kader» im Sinne dieser Regelung? Ist das im Arbeitsvertrag definiert? Und: Ab welchem Pensum oder welcher Funktion gilt der Einschluss von Überstunden im Lohn?
+\end{commentbox}
 Für Kadermitarbeitende gilt: Ein angemessenes Mass an Mehrleistung ist im Lohn inbegriffen und wird nicht gesondert entschädigt.
 
 ## B.7 Weiterbildung
 
 Nach Absprache mit der Geschäftsleitung können Beiträge an Aus-, Weiter- oder Fortbildungen genehmigt werden. Pro Jahr stehen fünf Weiterbildungstage zur Verfügung. Nicht genutzte Tage verfallen am Jahresende.
 
-> **[Frage]** Sind die Weiterbildungstage bezahlt? Und wer trägt die Kosten der Weiterbildung selbst (Kursgebühren, Fahrt usw.)? Das Dokument nennt nur «Beiträge können genehmigt werden», ohne zu klären, ob das eine volle oder teilweise Kostenübernahme meint.
-
-> **[Frage]** Gibt es angeordnete Weiterbildung (z. B. Erste Hilfe, Kinderschutz-Schulung)? Zählt diese gegen die fünf Tage? Und was gilt, wenn der Arbeitgeber eine Weiterbildung vorschreibt, die mehr als fünf Tage dauert?
-
+\begin{commentbox}
+\textbf{[Frage]} Sind die Weiterbildungstage bezahlt? Und wer trägt die Kosten der Weiterbildung selbst (Kursgebühren, Fahrt usw.)? Das Dokument nennt nur «Beiträge können genehmigt werden», ohne zu klären, ob das eine volle oder teilweise Kostenübernahme meint.
+\end{commentbox}
+\begin{commentbox}
+\textbf{[Frage]} Gibt es angeordnete Weiterbildung (z. B. Erste Hilfe, Kinderschutz-Schulung)? Zählt diese gegen die fünf Tage? Und was gilt, wenn der Arbeitgeber eine Weiterbildung vorschreibt, die mehr als fünf Tage dauert?
+\end{commentbox}
 ## B.8 Arztzeugnis und Krankheit
 
 Bei Arbeitsunfähigkeit von mehr als drei Tagen ist unaufgefordert und unverzüglich ein Arztzeugnis einzureichen. Wird dies unterlassen, kann der ausgerichtete Lohn gekürzt werden. Bei Absenzen von weniger als drei Tagen kann ebenfalls ein Arztzeugnis verlangt werden, wenn berechtigte Zweifel bestehen. In jedem Fall ist die direkte vorgesetzte Person unmittelbar zu informieren.
@@ -251,8 +274,9 @@ Bei Arbeitsunfähigkeit von mehr als drei Tagen ist unaufgefordert und unverzüg
 
 Mitarbeiterinnen haben Anspruch auf einen Mutterschaftsurlaub von 14 Wochen (98 Tagen), der am Stück zu nehmen ist. Der Anspruch beginnt am Tag der Geburt. Bei längerem Spitalaufenthalt des Kindes kann die Verschiebung beantragt werden.
 
-> **[Frage]** Gibt es einen Vaterschaftsurlaub? Das Dokument regelt nur den Mutterschaftsurlaub. Seit 2021 haben Väter gesetzlich Anspruch auf zwei Wochen Vaterschaftsurlaub (Art. 329g OR). Das sollte im Reader ergänzt werden.
-
+\begin{commentbox}
+\textbf{[Frage]} Gibt es einen Vaterschaftsurlaub? Das Dokument regelt nur den Mutterschaftsurlaub. Seit 2021 haben Väter gesetzlich Anspruch auf zwei Wochen Vaterschaftsurlaub (Art. 329g OR). Das sollte im Reader ergänzt werden.
+\end{commentbox}
 ## B.10 Versicherungen
 
 ### Sozialbeiträge und Auszahlung
@@ -269,10 +293,12 @@ Die Wegpiraten GmbH versichert das Personal gegen die wirtschaftlichen Folgen de
 
 **B.** Krankentagegeldversicherung bei der Mobiliar mit 30 Tagen Wartefrist. Die Prämien werden je zur Hälfte von den Mitarbeitenden und von der Wegpiraten GmbH getragen.
 
-> **[Frage]** «Zur Hälfte» bedeutet: die andere Hälfte trägt die Wegpiraten GmbH. Das sollte im Text so explizit stehen. Bitte bestätigen, dass das korrekt ist.
-
-> **[Frage]** Was gilt bei Unfall während des Dienstes oder auf dem Weg zur Klientin/zum Klienten? Betriebs- und Nichtbetriebsunfall ist versichert — aber gibt es besondere Regelungen für Aussendiensteinsätze (z. B. Fahrradunfall auf dem Weg zur Familie)? Das sollte im Reader oder in einem separaten Merkblatt geregelt sein.
-
+\begin{commentbox}
+\textbf{[Frage]} «Zur Hälfte» bedeutet: die andere Hälfte trägt die Wegpiraten GmbH. Das sollte im Text so explizit stehen. Bitte bestätigen, dass das korrekt ist.
+\end{commentbox}
+\begin{commentbox}
+\textbf{[Frage]} Was gilt bei Unfall während des Dienstes oder auf dem Weg zur Klientin/zum Klienten? Betriebs- und Nichtbetriebsunfall ist versichert — aber gibt es besondere Regelungen für Aussendiensteinsätze (z. B. Fahrradunfall auf dem Weg zur Familie)? Das sollte im Reader oder in einem separaten Merkblatt geregelt sein.
+\end{commentbox}
 ## B.11 Schweigepflicht
 
 Mitarbeitende unterstehen der beruflichen Schweigepflicht. Es ist untersagt, Informationen über Kinder, Jugendliche oder deren Angehörige, die im Rahmen der beruflichen Tätigkeit erlangt werden, sowohl während als auch nach Beendigung des Arbeitsverhältnisses an unbefugte Dritte weiterzugeben.
@@ -287,13 +313,14 @@ Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine a
 
 ## C.1 Stellenbeschreibung
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/bab_ankommen.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/bab_ankommen.jpg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Die sozialpädagogische Arbeit basiert auf der Leistungsbeschreibung «Sozialpädagogische Familienbegleitung» (Fassung 05.10.2022) sowie auf den Leistungsvereinbarungen des Bereichs «Unterstützung bei der Wahrnehmung des Besuchsrechts».
+\end{minipage}
 
 Art, Ziel und Umfang der Unterstützungsleistungen ergeben sich aus dem Gesetz über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG) vom 03.12.2020. Übergeordnetes Ziel ist die Förderung der Beziehung des jungen Menschen zu seiner Herkunftsfamilie.
 
@@ -309,8 +336,9 @@ Die Tätigkeit erfolgt überwiegend im häuslichen Umfeld der Familien, im Sozia
 - Förderung stabiler Beziehungen innerhalb des Familiensystems
 - Aktivierung und Erschliessung informeller und materieller Ressourcen (z. B. Transferleistungen)
 
-> **[Frage]** Die Leistungspalette sollte mit der aktuellen Darstellung auf www.wegpiraten.ch/leistungen abgeglichen werden — insbesondere, ob alle dort aufgeführten Leistungen hier vollständig abgebildet sind und ob Begriffe übereinstimmen.
-
+\begin{commentbox}
+\textbf{[Frage]} Die Leistungspalette sollte mit der aktuellen Darstellung auf www.wegpiraten.ch/leistungen abgeglichen werden — insbesondere, ob alle dort aufgeführten Leistungen hier vollständig abgebildet sind und ob Begriffe übereinstimmen.
+\end{commentbox}
 ## C.2 Arbeitszeitnachweis und Stundenerfassung
 
 Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit und indirekte Fallarbeit. Die Zeiterfassung erfolgt gemäss dem effektiven Aufwand, gerundet auf fünf Minuten. Intern sind die Tätigkeiten detailliert festzuhalten. Das KJA kann die interne Zeiterfassung einfordern.
@@ -323,15 +351,16 @@ Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit
 
 ### Überblick Leistungen und Abgeltung
 
-> **[Frage]** Bitte Leistungsbezeichnungen und Abgeltungsregeln mit den aktuellen Leistungsvereinbarungen und mit www.wegpiraten.ch/leistungen abgleichen.
-
-| Nr. | Leistung | Bemerkungen | Abgeltung |
-|-----|----------|-------------|-----------|
-| 1 | SPF (Sozialpädagogische Familienbegleitung) | Wegzeit und indirekte Fallarbeit abgegolten. | Pro Stunde, im Fünf-Minuten-Takt |
-| 2 | UWB Ausübung Gruppe | Keine Fahrzeit, keine indirekte Fallarbeit. | Pro Stunde |
-| 3 | UWB Übergabe Gruppe | Keine Fahrzeit, keine indirekte Fallarbeit. Pro Besuch (Übergabe + Übernahme). | Pro Stunde |
-| 4 | UWB Begleitung individuell | Wegzeit und indirekte Fallarbeit abgegolten. Direktkontakt max. 10 Std. Begründung bei Behörde erforderlich. | Pro Stunde |
-| 5 | DAF (Langzeitunterbringung Familienpflege) | Wegzeit und indirekte Fallarbeit abgegolten. | Pro Stunde, im Fünf-Minuten-Takt |
+\begin{commentbox}
+\textbf{[Frage]} Bitte Leistungsbezeichnungen und Abgeltungsregeln mit den aktuellen Leistungsvereinbarungen und mit www.wegpiraten.ch/leistungen abgleichen.
+\end{commentbox}
+| Nr. | Leistung                                    | Bemerkungen                                                                                                  | Abgeltung                        |
+| --- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
+| 1   | SPF (Sozialpädagogische Familienbegleitung) | Wegzeit und indirekte Fallarbeit abgegolten.                                                                 | Pro Stunde, im Fünf-Minuten-Takt |
+| 2   | UWB Ausübung Gruppe                         | Keine Fahrzeit, keine indirekte Fallarbeit.                                                                  | Pro Stunde                       |
+| 3   | UWB Übergabe Gruppe                         | Keine Fahrzeit, keine indirekte Fallarbeit. Pro Besuch (Übergabe + Übernahme).                               | Pro Stunde                       |
+| 4   | UWB Begleitung individuell                  | Wegzeit und indirekte Fallarbeit abgegolten. Direktkontakt max. 10 Std. Begründung bei Behörde erforderlich. | Pro Stunde                       |
+| 5   | DAF (Langzeitunterbringung Familienpflege)  | Wegzeit und indirekte Fallarbeit abgegolten.                                                                 | Pro Stunde, im Fünf-Minuten-Takt |
 
 ### SPF — Detailregeln
 
@@ -358,8 +387,9 @@ Für jede Stunde im Direktkontakt mit der Familie kann höchstens eine halbe Stu
 
 Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach 20 Uhr keine Einsätze vorgesehen. In Ausnahmefällen können Leistungsbesteller mit Begründung von dieser Regelung absehen.
 
-> **[Frage — rechtlich]** Das Arbeitsgesetz (ArG) und die entsprechenden Verordnungen sehen Zuschlagspflichten für Nacht- und Sonntagsarbeit vor (ArG Art. 17b, 19). Der Ausschluss von Zuschlägen durch Leistungsbesteller muss mit den gesetzlichen Anforderungen vereinbar sein — bitte rechtlich prüfen lassen.
-
+\begin{commentbox}
+\textbf{[Frage — rechtlich]} Das Arbeitsgesetz (ArG) und die entsprechenden Verordnungen sehen Zuschlagspflichten für Nacht- und Sonntagsarbeit vor (ArG Art. 17b, 19). Der Ausschluss von Zuschlägen durch Leistungsbesteller muss mit den gesetzlichen Anforderungen vereinbar sein — bitte rechtlich prüfen lassen.
+\end{commentbox}
 ### Spezialfälle
 
 - Dolmetschkosten gehen zu Lasten des KJA Bern.
@@ -367,13 +397,14 @@ Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach
 
 ## C.3 Spesen
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/image5.jpeg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image5.jpeg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Quittungen und Rechnungen (im Original) sind mit dem Namenskürzel der Klientin/des Klienten und einer kurzen Beschreibung des Verwendungszwecks zu versehen (z. B. «Klient:in HaWu — Zvieri»).
+\end{minipage}
 
 Sie sind zusammen mit der Spesentasche fristgerecht zum Monatsende ans Büro in Unterseen einzureichen. Oben auf jedem Abrechnungsblatt stehen Name der Fachperson und Abrechnungsmonat mit Jahreszahl.
 
@@ -393,7 +424,7 @@ Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzur
 
 - Schreiben im Präsens (z. B. «Ich laufe»)
 - Datum: 05.04.2023 | Uhrzeit: 10:00 Uhr
-- *«Wörtliche Rede»* kennzeichnen — kursiv
+- _«Wörtliche Rede»_ kennzeichnen — kursiv
 - Ganze Sätze mit Der, Die, Das
 - Abkürzungen: KM, KV, KE (Kindesmutter, Kindesvater, Kindeseltern)
 - Namen der Klienten werden ausgeschrieben (z. B. Max, Franz, Heidi)
@@ -403,31 +434,32 @@ Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzur
 
 ### Gliederung des Entwicklungsberichts
 
-| Nr. | Abschnitt | Inhalt |
-|-----|-----------|--------|
-| 1 | Aktuelle Situation | Ausgangslage, Anlass, Auftrag und Ziele |
-| 2 | Familiensituation | Wohnsituation, Rollenverteilung, Kooperation, Belastungen, Ressourcen |
-| 3 | Entwicklung und Wohl des Kindes | Emotionales, soziales, kognitives, körperliches Wohlbefinden |
-| 4 | Bindung und Beziehungsgestaltung | Bindungsqualität, Interaktion zwischen Kind und Bezugspersonen |
-| 5 | Gesundheit und Versorgung | Körperliche und psychische Gesundheit, Therapieanbindung |
-| 6 | Schutz- und Risikofaktoren | Relevante Faktoren in Bezug auf das Kindeswohl |
-| 7 | Einschätzung des Kindeswohls | Fachliche Gesamteinschätzung |
-| 8 | Verlauf der Massnahme | Bisherige Zusammenarbeit, Massnahmen, Wirkung |
-| 9 | Fachliche Einschätzung | Zusammenfassende sozialpädagogische Beurteilung |
-| 10 | Perspektiv- und Handlungsempfehlung | Empfehlung für zukünftige Massnahmen |
-| 11 | Ausblick und Schlussbemerkung | Grenzen der Einschätzung, abschliessende Bemerkungen |
+| Nr. | Abschnitt                           | Inhalt                                                                |
+| --- | ----------------------------------- | --------------------------------------------------------------------- |
+| 1   | Aktuelle Situation                  | Ausgangslage, Anlass, Auftrag und Ziele                               |
+| 2   | Familiensituation                   | Wohnsituation, Rollenverteilung, Kooperation, Belastungen, Ressourcen |
+| 3   | Entwicklung und Wohl des Kindes     | Emotionales, soziales, kognitives, körperliches Wohlbefinden          |
+| 4   | Bindung und Beziehungsgestaltung    | Bindungsqualität, Interaktion zwischen Kind und Bezugspersonen        |
+| 5   | Gesundheit und Versorgung           | Körperliche und psychische Gesundheit, Therapieanbindung              |
+| 6   | Schutz- und Risikofaktoren          | Relevante Faktoren in Bezug auf das Kindeswohl                        |
+| 7   | Einschätzung des Kindeswohls        | Fachliche Gesamteinschätzung                                          |
+| 8   | Verlauf der Massnahme               | Bisherige Zusammenarbeit, Massnahmen, Wirkung                         |
+| 9   | Fachliche Einschätzung              | Zusammenfassende sozialpädagogische Beurteilung                       |
+| 10  | Perspektiv- und Handlungsempfehlung | Empfehlung für zukünftige Massnahmen                                  |
+| 11  | Ausblick und Schlussbemerkung       | Grenzen der Einschätzung, abschliessende Bemerkungen                  |
 
 ## C.6 Verhaltensregeln und Professionelle Standards
 
 Die folgenden Verhaltensgrundsätze sind verbindlich. Sie dienen einem professionellen, respektvollen und sicheren Arbeitsumfeld sowie der Wahrung der Vorbildfunktion gegenüber Kindern, Jugendlichen und deren Familien.
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/zusammenarbeit_1.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Alle Mitarbeitenden sollen sich einander rücksichtsvoll verhalten und die persönlichen Sphären gegenseitig respektieren. Bei Mobbing, Bossing, Diskriminierung oder sexueller Belästigung gilt: die belästigende Person auf das unzulässige Verhalten hinweisen und die betroffene Person unterstützen. Vorgesetzte sind verantwortlich für eine diskriminierungs- und belästigungsfreie Arbeitsatmosphäre.
+\end{minipage}
 
 **1. Körpersprache und Sitzhaltung:** Aufrechte und professionelle Körperhaltung; Sitzhaltungen, die als unangemessen wahrgenommen werden können (z. B. Schneidersitz), sind zu vermeiden.
 
@@ -441,7 +473,7 @@ Alle Mitarbeitenden sollen sich einander rücksichtsvoll verhalten und die pers�
 
 **6. Professioneller Abstand:** Berufliche Rolle jederzeit wahren. Übermässige private Offenbarungen vermeiden. Körperkontakt nur, wenn fachlich begründet.
 
-**7. Sprache:** Respektvolle, klare und sachliche Ausdrucksweise. Abwertende, ironi-sche oder sexualisierte Aussagen unterlassen. Dialekt ist zulässig, wenn verständlich.
+**7. Sprache:** Respektvolle, klare und sachliche Ausdrucksweise. Abwertende, ironische oder sexualisierte Aussagen unterlassen. Dialekt ist zulässig, wenn verständlich.
 
 **8. Hygiene:** Gepflegtes Erscheinungsbild. Stark riechende Parfums vermeiden.
 
@@ -455,13 +487,14 @@ Alle Mitarbeitenden sollen sich einander rücksichtsvoll verhalten und die pers�
 
 Mitarbeitende vertreten die Wegpiraten GmbH nach innen und aussen. Ein gepflegtes, professionelles und situationsangemessenes Erscheinungsbild ist zwingend.
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/team8.jpg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 **Angemessenheit (Casual Chic):** Kleidung muss gepflegt, sauber und einsatzgerecht sein. Neutraler, zurückhaltender Stil wird erwartet.
+\end{minipage}
 
 **Nicht zulässig:**
 
@@ -487,13 +520,14 @@ Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich 
 
 ### Büro Unterseen (Hauptstandort)
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/image9.jpeg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image9.jpeg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Hauptstrasse 47, 3800 Unterseen
+\end{minipage}
 
 **Gebäudekontakt:**
 Livta AG, Hauptstrasse 43, 3800 Unterseen
@@ -516,13 +550,14 @@ Elriz Traub (Bewirtschafterin) — elriz.traub@projekt-interim.ch
 
 ### Bootshaus Goldswil (Aare)
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/image8.jpeg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image8.jpeg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 Direkt an der Aare, am östlichen Ende der öffentlichen Bootsplätze, unterhalb der ZB Eisenbahnbrücke.
+\end{minipage}
 
 **Anfahrt mit dem Fahrrad:**
 
@@ -559,8 +594,9 @@ https://kalender.digital/d2fc8b7b8356c2e09b67
 \fbox{\parbox{3cm}{\centering\small QR-Code Kalender\\ Bern\\ \textit{[wird ergänzt]}}}
 \end{center}
 
-> **[Frage]** QR-Codes für die Kalender-URLs werden hier als Platzhalter eingebaut. Die eigentlichen QR-Codes sollen generiert und eingefügt werden.
-
+\begin{commentbox}
+\textbf{[Frage]} QR-Codes für die Kalender-URLs werden hier als Platzhalter eingebaut. Die eigentlichen QR-Codes sollen generiert und eingefügt werden.
+\end{commentbox}
 ## D.3 IT und digitale Infrastruktur
 
 Zugangsdaten für Computer, W-LAN und alle Tools sind im **Anhang Z — Zugangsdaten und Codes** aufgeführt. Bitte diesen Anhang gesondert und vertraulich behandeln.
@@ -573,13 +609,14 @@ Zugangsdaten: $\to$ Anhang Z
 
 ## D.4 Büroalltag
 
-\begin{wrapfigure}{r}{0.42\textwidth}
-\vspace{-6pt}
-\includegraphics[width=0.40\textwidth]{assets/image4.jpeg}
-\vspace{-6pt}
-\end{wrapfigure}
-
+\begin{minipage}[t]{0.36\textwidth}
+\vspace{0pt}
+\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image4.jpeg}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\vspace{0pt}
 **Materialien und Anschaffungen:** Anschaffungswünsche mit der vorgesetzten Leitung besprechen. Im Büro Unterseen hängt eine Liste am Kühlschrank.
+\end{minipage}
 
 **Getränke:** Tee, Kaffee, Wasser und Softdrinks sind in Unterseen und Bern kostenlos. Fehlt etwas: eigenständig besorgen oder melden.
 
@@ -589,8 +626,9 @@ Zugangsdaten: $\to$ Anhang Z
 
 **Erste Hilfe:** Jede Mitarbeiterin und jeder Mitarbeiter erhält ein Erste-Hilfe-Set und eine Pflasterbox für unterwegs. Grosse Erste-Hilfe-Kästen in Unterseen und Bern.
 
-> **[Frage]** Gibt es einen Defibrillator (AED) in den Büros oder im Gebäude? Wo ist er? Gibt es ein Unfallbuch? Ist eine Arbeitssicherheitsunterweisung vorgesehen? Das ArG und die EKAS-Richtlinien verpflichten Arbeitgeber zu Massnahmen im Bereich Arbeitssicherheit und Gesundheitsschutz — bitte prüfen, was hier dokumentiert werden muss.
-
+\begin{commentbox}
+\textbf{[Frage]} Gibt es einen Defibrillator (AED) in den Büros oder im Gebäude? Wo ist er? Gibt es ein Unfallbuch? Ist eine Arbeitssicherheitsunterweisung vorgesehen? Das ArG und die EKAS-Richtlinien verpflichten Arbeitgeber zu Massnahmen im Bereich Arbeitssicherheit und Gesundheitsschutz — bitte prüfen, was hier dokumentiert werden muss.
+\end{commentbox}
 **Kindersicherung:** Steckdosen sind gesichert. Schlüssel zum Öffnen: Schublade des Büroschreibtisches.
 
 **Geburtstagsgeschenke:** Grusskarten und vorbereitete Kindergeschenke im Büro Unterseen (weisser Schrank).
@@ -622,62 +660,62 @@ Briefe an die Geschäftsführung werden ungeöffnet an Frau Viktoria Wloka weite
 
 ## Überblick Termine (Logbuch-Vorlage)
 
-| Datum | Termin stattgefunden | | Bemerkung |
-|-------|---------------------|---|-----------|
-|       | Ja                  | Nein | |
-|       | Ja                  | Nein | |
-|       | Ja                  | Nein | |
-|       | Ja                  | Nein | |
-|       | Ja                  | Nein | |
-|       | Ja                  | Nein | |
-|       | Ja                  | Nein | |
+| Datum | Termin stattgefunden |      | Bemerkung |
+| ----- | -------------------- | ---- | --------- |
+|       | Ja                   | Nein |           |
+|       | Ja                   | Nein |           |
+|       | Ja                   | Nein |           |
+|       | Ja                   | Nein |           |
+|       | Ja                   | Nein |           |
+|       | Ja                   | Nein |           |
+|       | Ja                   | Nein |           |
 
 ## Entwicklungsbericht — Basisvorlage
 
-| Leistung | Anbieter |
-|----------|----------|
-| Sozialpädagogische Familienbegleitung (SPF) | Wegpiraten GmbH |
-| DAF (Langzeitunterbringung Familienpflege) | Hauptstrasse 47 |
-| UWB Begleitung individuell | 3800 Unterseen |
-| UWB Ausübung Gruppe | Tel: 076 790 67 56 |
-| UWB Übergabe Gruppe | info@wegpiraten.ch |
+| Leistung                                    | Anbieter           |
+| ------------------------------------------- | ------------------ |
+| Sozialpädagogische Familienbegleitung (SPF) | Wegpiraten GmbH    |
+| DAF (Langzeitunterbringung Familienpflege)  | Hauptstrasse 47    |
+| UWB Begleitung individuell                  | 3800 Unterseen     |
+| UWB Ausübung Gruppe                         | Tel: 076 790 67 56 |
+| UWB Übergabe Gruppe                         | info@wegpiraten.ch |
 
-| Feld | Inhalt |
-|------|--------|
-| Leistungsbesteller | |
-| Aufnahmegespräch | |
-| Berichtszeitraum | bis |
-| Sozialarbeiterin Team Kinderschutz | |
-| Beistandschaft | Ja / Nein |
-| Auftrag und Ziele | |
-| Kurznotiz | |
+| Feld                               | Inhalt    |
+| ---------------------------------- | --------- |
+| Leistungsbesteller                 |           |
+| Aufnahmegespräch                   |           |
+| Berichtszeitraum                   | bis       |
+| Sozialarbeiterin Team Kinderschutz |           |
+| Beistandschaft                     | Ja / Nein |
+| Auftrag und Ziele                  |           |
+| Kurznotiz                          |           |
 
 | Bewilligtes Stundenkontingent | Stunden |
-|-------------------------------|---------|
-| Direktkontakt | |
-| Indirekte Fallbearbeitung | |
-| Fahrzeit | |
+| ----------------------------- | ------- |
+| Direktkontakt                 |         |
+| Indirekte Fallbearbeitung     |         |
+| Fahrzeit                      |         |
 
-| Kontaktangaben Familie | |
-|------------------------|--|
-| Name Indexkind | |
-| Geburtsdatum | |
-| AHV-Nummer | |
-| Name Mutter | |
-| Name Vater | |
-| Sonstiges | |
+| Kontaktangaben Familie |     |
+| ---------------------- | --- |
+| Name Indexkind         |     |
+| Geburtsdatum           |     |
+| AHV-Nummer             |     |
+| Name Mutter            |     |
+| Name Vater             |     |
+| Sonstiges              |     |
 
-| Adressen | |
-|----------|--|
-| Mutter | |
-| Vater | |
-| Kind lebt bei | |
-| Institution | |
+| Adressen      |     |
+| ------------- | --- |
+| Mutter        |     |
+| Vater         |     |
+| Kind lebt bei |     |
+| Institution   |     |
 
-| Familienbegleitung | |
-|-------------------|--|
+| Familienbegleitung |             |
+| ------------------ | ----------- |
 | Name der Fachkraft | Frau / Herr |
-| Qualifikation | |
+| Qualifikation      |             |
 
 \newpage
 
@@ -689,38 +727,38 @@ Anwesende: \underline{\hspace{6cm}}
 
 ## Personalien der Familie
 
-| Angaben zum Indexkind | |
-|----------------------|--|
-| Name | |
-| Geburtsdatum | |
-| Geschlecht | |
-| AHV-Nummer | |
-| Anzahl Geschwister | |
-| Adresse | |
-| E-Mail | |
-| Telefon | |
+| Angaben zum Indexkind |     |
+| --------------------- | --- |
+| Name                  |     |
+| Geburtsdatum          |     |
+| Geschlecht            |     |
+| AHV-Nummer            |     |
+| Anzahl Geschwister    |     |
+| Adresse               |     |
+| E-Mail                |     |
+| Telefon               |     |
 
-| Angaben zur Kindesmutter | |
-|--------------------------|--|
-| Name | |
-| Geburtsdatum | |
-| Adresse | |
-| E-Mail | |
-| Telefon | |
+| Angaben zur Kindesmutter |     |
+| ------------------------ | --- |
+| Name                     |     |
+| Geburtsdatum             |     |
+| Adresse                  |     |
+| E-Mail                   |     |
+| Telefon                  |     |
 
-| Angaben zum Kindesvater | |
-|-------------------------|--|
-| Name | |
-| Geburtsdatum | |
-| Adresse | |
-| E-Mail | |
-| Telefon | |
+| Angaben zum Kindesvater |     |
+| ----------------------- | --- |
+| Name                    |     |
+| Geburtsdatum            |     |
+| Adresse                 |     |
+| E-Mail                  |     |
+| Telefon                 |     |
 
-| Geschwister | 1. Kind | 2. Kind | 3. Kind |
-|-------------|---------|---------|---------|
-| Name | | | |
-| Geburtsdatum | | | |
-| Adresse | | | |
+| Geschwister  | 1. Kind | 2. Kind | 3. Kind |
+| ------------ | ------- | ------- | ------- |
+| Name         |         |         |         |
+| Geburtsdatum |         |         |         |
+| Adresse      |         |         |         |
 
 ## Gründe für die Familienbegleitung
 
@@ -736,51 +774,51 @@ Anwesende: \underline{\hspace{6cm}}
 
 ## Ressourcen
 
-| Bereich | Vorhandene Ressourcen | Fehlende Ressourcen |
-|---------|----------------------|---------------------|
-| Kind/Jugendliche/r | | |
-| Kindeseltern | | |
-| Familie & Umfeld | | |
-| Schule & Ausbildung | | |
+| Bereich             | Vorhandene Ressourcen | Fehlende Ressourcen |
+| ------------------- | --------------------- | ------------------- |
+| Kind/Jugendliche/r  |                       |                     |
+| Kindeseltern        |                       |                     |
+| Familie & Umfeld    |                       |                     |
+| Schule & Ausbildung |                       |                     |
 
 ## Bisherige Massnahmen
 
-| Feld | Inhalt |
-|------|--------|
-| Abklärungen | |
-| Ergebnisse | |
-| Diagnosen | |
-| Unterstützungsangebote | |
+| Feld                   | Inhalt |
+| ---------------------- | ------ |
+| Abklärungen            |        |
+| Ergebnisse             |        |
+| Diagnosen              |        |
+| Unterstützungsangebote |        |
 
 ## Multiprofessionelle Zusammenarbeit
 
-| Institution | Kontakt/Bemerkung |
-|------------|-------------------|
-| Kindertagesbetreuung/Spielgruppe | |
-| Schule | |
-| Schulsozialarbeit | |
-| Mütter-/Väterberatung | |
-| Entlastungsdienst (SRK, Pro Infirmis u. a.) | |
-| Heilpädagogische Früherziehung | |
-| Schulische Beratungsdienste | |
-| Psychotherapie | |
-| Andere Helfernetzwerke | |
+| Institution                                 | Kontakt/Bemerkung |
+| ------------------------------------------- | ----------------- |
+| Kindertagesbetreuung/Spielgruppe            |                   |
+| Schule                                      |                   |
+| Schulsozialarbeit                           |                   |
+| Mütter-/Väterberatung                       |                   |
+| Entlastungsdienst (SRK, Pro Infirmis u. a.) |                   |
+| Heilpädagogische Früherziehung              |                   |
+| Schulische Beratungsdienste                 |                   |
+| Psychotherapie                              |                   |
+| Andere Helfernetzwerke                      |                   |
 
 ## Auftrag und Ziele
 
-| Auftrag und Ziele | |
-|------------------|--|
-| | |
-| | |
+| Auftrag und Ziele |     |
+| ----------------- | --- |
+|                   |     |
+|                   |     |
 
 ## Planung Stundenkontingent
 
-| Stundenumfang | Direktkontakt | Indirekte Fallbearbeitung | Fahrtzeit | Effektive Zeit | KM-Pauschale |
-|---------------|---------------|--------------------------|-----------|----------------|--------------|
-| SPF | | | | — | — |
-| Begl. Besuchsrecht | — | — | — | | |
-| UWB individuell | | | | — | — |
-| DAF | | | | — | — |
+| Stundenumfang      | Direktkontakt | Indirekte Fallbearbeitung | Fahrtzeit | Effektive Zeit | KM-Pauschale |
+| ------------------ | ------------- | ------------------------- | --------- | -------------- | ------------ |
+| SPF                |               |                           |           | —              | —            |
+| Begl. Besuchsrecht | —             | —                         | —         |                |              |
+| UWB individuell    |               |                           |           | —              | —            |
+| DAF                |               |                           |           | —              | —            |
 
 \newpage
 
@@ -790,13 +828,13 @@ Das Logbuch dient zur standardisierten Dokumentation von Ressourcen, Stärken, I
 
 ## Grundsätze — Bedürfnisebenen
 
-| Ebene | Beschreibung |
-|-------|-------------|
-| Physiologische Bedürfnisse | Schlaf, Essen, Trinken, Wach- und Ruherhythmus, Körperpflege, Gesundheitsfürsorge |
-| Schutz und Sicherheit | Aufsicht, wetterangemessene Kleidung, Schutz vor Krankheiten und Bedrohungen |
-| Soziale Bedingungen | Verlässlichkeit, konstante Bezugspersonen, einfühlendes Verständnis, Zuwendung |
-| Wertschätzung | Respekt vor der physischen, psychischen und sexuellen Unversehrtheit, Anerkennung der Eigenständigkeit |
-| Soziale/kognitive/emotionale Erfahrungen | Altersentsprechende Anregungen, Werte und Normen, Sozialraum, Sprachförderung |
+| Ebene                                    | Beschreibung                                                                                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Physiologische Bedürfnisse               | Schlaf, Essen, Trinken, Wach- und Ruherhythmus, Körperpflege, Gesundheitsfürsorge                      |
+| Schutz und Sicherheit                    | Aufsicht, wetterangemessene Kleidung, Schutz vor Krankheiten und Bedrohungen                           |
+| Soziale Bedingungen                      | Verlässlichkeit, konstante Bezugspersonen, einfühlendes Verständnis, Zuwendung                         |
+| Wertschätzung                            | Respekt vor der physischen, psychischen und sexuellen Unversehrtheit, Anerkennung der Eigenständigkeit |
+| Soziale/kognitive/emotionale Erfahrungen | Altersentsprechende Anregungen, Werte und Normen, Sozialraum, Sprachförderung                          |
 
 ## ICF-Kategorien Kinder und Jugendliche
 
@@ -870,55 +908,57 @@ Detailkatalog: https://bildungsportal-niedersachsen.de/fileadmin/3_Fruehkindlich
 
 # Anhang Z — Zugangsdaten und Codes
 
-> **Vertraulich — dieser Anhang ist gesondert zu behandeln und nicht weiterzugeben.**
->
-> Bei Ausscheiden aus dem Unternehmen sind alle Zugangsdaten der Leitung zu melden. Passwörter werden danach geändert.
-
+\begin{commentbox}
+\textbf{Vertraulich — dieser Anhang ist gesondert zu behandeln und nicht weiterzugeben.}
+\end{commentbox}>
+\begin{commentbox}
+Bei Ausscheiden aus dem Unternehmen sind alle Zugangsdaten der Leitung zu melden. Passwörter werden danach geändert.
+\end{commentbox}
 ## Computer MacBook Air (Büro Unterseen)
 
-| Feld | Wert |
-|------|------|
-| Benutzer | Wegpiraten GmbH |
-| Passwort Computer | Wegpiratengmbh |
-| E-Mail Adresse | wegpiraten.gmbh@wegpiraten.ch |
-| Passwort E-Mail | Bürointerlaken4321! |
-| Apple ID | Buerointerlaken4321! |
-| Apple ID Passwort | Piratenpower4321! *(Stand 26.11.2024)* |
+| Feld              | Wert                                   |
+| ----------------- | -------------------------------------- |
+| Benutzer          | Wegpiraten GmbH                        |
+| Passwort Computer | Wegpiratengmbh                         |
+| E-Mail Adresse    | wegpiraten.gmbh@wegpiraten.ch          |
+| Passwort E-Mail   | Bürointerlaken4321!                    |
+| Apple ID          | Buerointerlaken4321!                   |
+| Apple ID Passwort | Piratenpower4321! _(Stand 26.11.2024)_ |
 
 ## W-LAN
 
-| Standort | Netzwerkname (SSID) | Passwort |
-|----------|---------------------|----------|
-| Unterseen | EB8B1003A3 | Wpira@2025 |
-| Bern | Maulbeerstrasse 10 | projektinterim |
+| Standort  | Netzwerkname (SSID) | Passwort       |
+| --------- | ------------------- | -------------- |
+| Unterseen | EB8B1003A3          | Wpira@2025     |
+| Bern      | Maulbeerstrasse 10  | projektinterim |
 
 ## Sitzungszimmer Bern (SuperSaaS)
 
-| Feld | Wert |
-|------|------|
-| URL | https://www.supersaas.de/dashboard/login |
-| Benutzername | MeetingMaulbeerstrasse |
-| Passwort | Maulbeerstrasse10 |
+| Feld         | Wert                                     |
+| ------------ | ---------------------------------------- |
+| URL          | https://www.supersaas.de/dashboard/login |
+| Benutzername | MeetingMaulbeerstrasse                   |
+| Passwort     | Maulbeerstrasse10                        |
 
 ## Dolmetscher-Service Comprendi
 
-| Feld | Wert |
-|------|------|
-| URL | https://www.comprendi.ch |
-| Benutzername | wegGmbH\_23 |
-| Passwort | wegpirgmbh2 |
+| Feld         | Wert                     |
+| ------------ | ------------------------ |
+| URL          | https://www.comprendi.ch |
+| Benutzername | wegGmbH_23               |
+| Passwort     | wegpirgmbh2              |
 
 ## Schlüssel und Codes
 
-| Objekt | Code / Ort |
-|--------|-----------|
-| Schlüsselkasten Unterseen (grau, im weissen Innenschrank) | **222** |
-| Dienstfahrräder (alle gleich) | **22222** |
-| Schlüsseltresor Briefkasten Unterseen | *wird per WhatsApp-Chat bekanntgegeben* |
-| Transponder Bern (Zugang nach 20:00 Uhr) | *im Schlüsselkasten Unterseen* |
-| Kindersicherung Steckdosen | *Schlüssel in Schreibtischschublade* |
-| Schlüssel Bootshaus Brienzersee | *im Schlüsselkasten Unterseen* |
+| Objekt                                                    | Code / Ort                              |
+| --------------------------------------------------------- | --------------------------------------- |
+| Schlüsselkasten Unterseen (grau, im weissen Innenschrank) | **222**                                 |
+| Dienstfahrräder (alle gleich)                             | **22222**                               |
+| Schlüsseltresor Briefkasten Unterseen                     | _wird per WhatsApp-Chat bekanntgegeben_ |
+| Transponder Bern (Zugang nach 20:00 Uhr)                  | _im Schlüsselkasten Unterseen_          |
+| Kindersicherung Steckdosen                                | _Schlüssel in Schreibtischschublade_    |
+| Schlüssel Bootshaus Brienzersee                           | _im Schlüsselkasten Unterseen_          |
 
 ---
 
-*Wegpiraten GmbH — Hauptstrasse 47, 3800 Unterseen — info@wegpiraten.ch — www.wegpiraten.ch*
+_Wegpiraten GmbH — Hauptstrasse 47, 3800 Unterseen — info@wegpiraten.ch — www.wegpiraten.ch_
