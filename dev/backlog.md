@@ -1,5 +1,10 @@
 # Backlog
 
+Stand 26.04.2026: [x] Überarbeitungspaket 2 — Tabellen bändern (rowcolors), TOC einfügen,
+A.2/A.3 Kommentarboxen vor Bilder, A.4 Listenbreite, B.4 Teilzeit-Beispiele, B.8 Schweizer
+Ausdruck erklären, C.5 Fragenkatalog + Bedürfnisebenen einbauen, Anhang I Formularverzeichnis,
+Anhang III gekürzt, Anhang IV entfernt
+
 Stand 26.04.2026: [x] Bildlayout willkommen_an_bord.md — alle minipage-Blöcke mit
 Fliesstext auf wrapfigure umgestellt; minipage nur noch für Bild+Kommentarbox (A.2, A.3);
 PDF kompiliert sauber mit xelatex

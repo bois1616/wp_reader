@@ -1,5 +1,15 @@
 # Tasks Done
 
+## 2026-04-26 (Fortsetzung 2)
+
+- Überarbeitungspaket 2 abgeschlossen: Präambel mit rowcolors + colortbl ergänzt;
+  TOC nach Deckbild einfügen; A.2/A.3 Kommentarboxen vor Bilder verschieben (wrapfigure{r});
+  A.4 zurück zu minipage für volle Listenbreite; B.4 Teilzeit-Beispiele (80%, 60%);
+  B.8 «ausgerichtete (ausbezahlte)» Ausdruck erklären; C.5 Fragenkatalog + Bedürfnisebenen
+  direkt einbauen (nicht mehr Anhang IV); Anhang I als Formularverzeichnis (F-01, F-02, F-03);
+  Anhang III gekürzt + ICF-Kommentar zu CH-Referenz; Anhang IV entfernt;
+  PDF kompiliert sauber
+
 ## 2026-04-26
 
 - Bildlayout willkommen_an_bord.md überarbeitet: alle minipage-Blöcke mit Fliesstext
