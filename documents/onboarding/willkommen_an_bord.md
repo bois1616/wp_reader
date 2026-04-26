@@ -10,15 +10,23 @@ header-includes:
   - \usepackage{graphicx}
   - \usepackage{wrapfig}
   - \usepackage{xcolor}
+  - \usepackage{colortbl}
   - \usepackage{mdframed}
   - \definecolor{commentbg}{RGB}{255,248,220}
   - \definecolor{commentborder}{RGB}{200,160,0}
   - \newmdenv[backgroundcolor=commentbg,linecolor=commentborder,linewidth=1.5pt,innerleftmargin=8pt,innerrightmargin=8pt,innertopmargin=6pt,innerbottommargin=6pt,skipabove=6pt,skipbelow=6pt]{commentbox}
+  - \rowcolors{2}{gray!15}{white}
 ---
 
 \begin{center}
 \includegraphics[width=\linewidth]{assets/image1.jpeg}
 \end{center}
+
+\newpage
+
+\tableofcontents
+
+\newpage
 
 # Ziel und Zweck dieses Readers
 
@@ -56,15 +64,13 @@ Wir begleiten Familien in herausfordernden Lebenssituationen, stärken Erziehung
 
 ## A.2 Unsere Grundhaltung
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image3.jpeg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
 \begin{commentbox}
 \textbf{[Kommentar]} Hier ist eine unterschiedliche Tonalität. Von einerseits sehr professionell und sachlich, andererseits sehr persönlich und emotional.
-\end{commentbox}\end{minipage}
+\end{commentbox}
+
+\begin{wrapfigure}{r}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/image3.jpeg}
+\end{wrapfigure}
 
 - Hilfe zur Selbsthilfe — So wenig wie möglich, so viel wie nötig
 - Sich selber überflüssig machen.
@@ -88,15 +94,13 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 ## A.3 Passt du in unsere Crew?
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
 \begin{commentbox}
 \textbf{[Kommentar]} Jemand, der dieses Dokument liest, ist bereits Teil der Crew. Es geht hier also nicht um die Frage «Passt du zu uns?», sondern vielmehr um die Frage «Wie können wir gemeinsam wachsen und uns weiterentwickeln?». Das sollte sprachlich vielleicht noch etwas klarer herausgearbeitet werden.
-\end{commentbox}\end{minipage}
+\end{commentbox}
+
+\begin{wrapfigure}{r}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{wrapfigure}
 
 - Abgeschlossenes Studium in Pädagogik, Sozialpädagogik, Sozialer Arbeit oder Kindheitspädagogik.
 - Eigenständiges Betreuen der anvertrauten Klienten mit lückenloser Dokumentation.
@@ -112,12 +116,12 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 ## A.4 Was du von uns erwarten kannst
 
-\begin{wrapfigure}{l}{0.36\textwidth}
-\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/zusammenarbeit_1.jpg}
-\end{wrapfigure}
+\begin{minipage}[c]{0.36\textwidth}
+\includegraphics[width=\textwidth,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.60\textwidth}
 Ein vielseitiger, moderner Arbeitsplatz mit echtem Teamrückhalt — das erwartet dich bei den Wegpiraten.
-
-\par
+\end{minipage}
 
 - Nutzung sämtlicher Materialien und Arbeitsmittel der Wegpiraten GmbH.
 - Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern.
@@ -174,6 +178,12 @@ Die Kündigung erfolgt jeweils schriftlich auf das Ende eines Kalendermonats. Ei
 ## B.4 Lohn
 
 Dem Jahresgehalt liegt ein Stundenlohn von brutto CHF 43.— (**Stand 01.01.2026**) zugrunde, inkl. 3% Feiertagszuschlag und 8,3% Ferienentschädigung.
+
+**Beispiele nach Pensum:**
+
+- **100%-Anstellung (40h/Woche):** CHF 43.— × 40h = CHF 1.720.— brutto pro Woche; ca. CHF 7.450.— brutto pro Monat
+- **80%-Anstellung (32h/Woche):** CHF 43.— × 32h = CHF 1.376.— brutto pro Woche; ca. CHF 5.960.— brutto pro Monat
+- **60%-Anstellung (24h/Woche):** CHF 43.— × 24h = CHF 1.032.— brutto pro Woche; ca. CHF 4.470.— brutto pro Monat
 
 Die akzeptierten Leistungen sowie nachgewiesene und bewilligte Spesen werden monatlich vergütet. Die Mitarbeitenden verpflichten sich, jeweils bis Ende des Monats für den vergangenen Monat eine Auflistung der Stunden (Arbeitszeitnachweis) zu erstellen und einzureichen — sowohl bei der Buchhaltung (buchhaltung@wegpiraten.ch) als auch bei Frau Wloka (info@wegpiraten.ch).
 
@@ -264,7 +274,7 @@ Nach Absprache mit der Geschäftsleitung können Beiträge an Aus-, Weiter- oder
 \end{commentbox}
 ## B.8 Arztzeugnis und Krankheit
 
-Bei Arbeitsunfähigkeit von mehr als drei Tagen ist unaufgefordert und unverzüglich ein Arztzeugnis einzureichen. Wird dies unterlassen, kann der ausgerichtete Lohn gekürzt werden. Bei Absenzen von weniger als drei Tagen kann ebenfalls ein Arztzeugnis verlangt werden, wenn berechtigte Zweifel bestehen. In jedem Fall ist die direkte vorgesetzte Person unmittelbar zu informieren.
+Bei Arbeitsunfähigkeit von mehr als drei Tagen ist unaufgefordert und unverzüglich ein Arztzeugnis einzureichen. Wird dies unterlassen, kann der ausgerichtete (ausbezahlte) Lohn gekürzt werden. Bei Absenzen von weniger als drei Tagen kann ebenfalls ein Arztzeugnis verlangt werden, wenn berechtigte Zweifel bestehen. In jedem Fall ist die direkte vorgesetzte Person unmittelbar zu informieren.
 
 ## B.9 Mutterschafts- und Vaterschaftsurlaub
 
@@ -441,6 +451,75 @@ Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzur
 | 9   | Fachliche Einschätzung              | Zusammenfassende sozialpädagogische Beurteilung                       |
 | 10  | Perspektiv- und Handlungsempfehlung | Empfehlung für zukünftige Massnahmen                                  |
 | 11  | Ausblick und Schlussbemerkung       | Grenzen der Einschätzung, abschliessende Bemerkungen                  |
+
+
+### Fragenkatalog für Fachpersonen
+
+Bei der Erstellung von Entwicklungsberichten dienen die folgenden Fragen als Leitfaden:
+
+#### 1. Beobachtungen zum kindlichen Wohl
+
+- Welche Beobachtungen haben Sie bezüglich des emotionalen Wohlbefindens der Kinder gemacht?
+- Wie zeigen sich die Kinder im Umgang mit Stress, Konflikten oder familiären Belastungen?
+- Welche Entwicklungsfortschritte oder -verzögerungen nehmen Sie derzeit wahr?
+- Gibt es Hinweise auf Vernachlässigung, Überforderung oder mögliche Schutzbedarfe?
+
+#### 2. Bindungsverhalten und Beziehungen
+
+- Wie schätzen Sie die Qualität der Bindung zwischen den Kindern und ihren Eltern ein?
+- Kommt es zu Bindungsunsicherheiten oder auffälligen Verhaltensmustern?
+- Wie erleben Sie die Interaktionen zwischen Eltern und Kindern im häuslichen Umfeld?
+
+#### 3. Familiäre Dynamik und Erziehungssituation
+
+- Wie wirken sich Strukturen, Routinen und Rollen auf die Kinder aus?
+- Wo sehen Sie Belastungsfaktoren, die die Kinder besonders beeinflussen?
+- Welche Erziehungsstrategien setzen die Eltern ein, und wie wirken diese?
+
+#### 4. Elternkompetenzen und Umsetzung
+
+- Wie gut können die Eltern die empfohlenen Massnahmen im Alltag umsetzen?
+- Wo erkennen Sie Fortschritte, wo eher Stagnation oder Widerstand?
+- Welche konkreten Unterstützungsbedarfe der Eltern sehen Sie aktuell?
+
+#### 5. Ressourcen und Risiken
+
+- Welche Schutzfaktoren (Bezugspersonen, Routinen, Stärken der Kinder) sind erkennbar?
+- Welche Risiken für das Kindeswohl bestehen derzeit?
+- Wie gut gelingt es den Eltern, die Bedürfnisse der Kinder angemessen wahrzunehmen?
+
+#### 6. Zusammenarbeit und Transparenz
+
+- Wie verläuft die Zusammenarbeit mit den Eltern — kooperativ, zuverlässig, reflexionsbereit?
+- Gibt es Hindernisse, die die Zielerreichung beeinträchtigen?
+- Wie regelmässig und tiefgehend können Sie die Familie begleiten?
+
+#### 7. Fachliche Einschätzung und Zielerreichung
+
+- Welche Ziele wurden zu Beginn definiert und wie ist der aktuelle Stand?
+- Welche Veränderungen konnten Sie bei Kindern und Eltern feststellen?
+- Wo sehen Sie dringendsten Handlungsbedarf?
+- Wie beurteilen Sie die Wirksamkeit der bisherigen Unterstützung?
+
+#### 8. Empfehlungen und weiterer Unterstützungsbedarf
+
+- Welche weiteren Massnahmen halten Sie für sinnvoll (z. B. Psychotherapie, Frühförderung)?
+- Welche Schritte sind nötig, um die Situation der Kinder nachhaltig zu stabilisieren?
+- Welche Empfehlungen geben Sie für die interdisziplinäre Zusammenarbeit?
+- Gibt es Bereiche, in denen der Kinderschutz verstärkt werden sollte?
+
+### Bedürfnisebenen — Grundsätze für die Beobachtung
+
+Die Beobachtung des Kinderwohls wird strukturiert anhand der folgenden Bedürfnisebenen:
+
+| Ebene                                    | Beschreibung                                                                                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Physiologische Bedürfnisse               | Schlaf, Essen, Trinken, Wach- und Ruherhythmus, Körperpflege, Gesundheitsfürsorge                      |
+| Schutz und Sicherheit                    | Aufsicht, wetterangemessene Kleidung, Schutz vor Krankheiten und Bedrohungen                           |
+| Soziale Bedingungen                      | Verlässlichkeit, konstante Bezugspersonen, einfühlendes Verständnis, Zuwendung                         |
+| Wertschätzung                            | Respekt vor der physischen, psychischen und sexuellen Unversehrtheit, Anerkennung der Eigenständigkeit |
+| Soziale/kognitive/emotionale Erfahrungen | Altersentsprechende Anregungen, Werte und Normen, Sozialraum, Sprachförderung                          |
+
 
 ## C.6 Verhaltensregeln und professionelle Standards
 
@@ -645,189 +724,23 @@ Briefe an die Geschäftsführung werden ungeöffnet an Frau Viktoria Wloka weite
 
 \newpage
 
-# Anhang I — Entwicklungsberichte: Formulare und Vorlagen
+# Anhang I — Formularverzeichnis
+# Anhang I — Formularverzeichnis
 
-## Überblick Termine (Logbuch-Vorlage)
+Die folgenden Formulare werden als separate Dokumente verwaltet:
 
-| Datum | Termin stattgefunden |      | Bemerkung |
-| ----- | -------------------- | ---- | --------- |
-|       | Ja                   | Nein |           |
-|       | Ja                   | Nein |           |
-|       | Ja                   | Nein |           |
-|       | Ja                   | Nein |           |
-|       | Ja                   | Nein |           |
-|       | Ja                   | Nein |           |
-|       | Ja                   | Nein |           |
+- **Logbuch-Vorlage** — Überblick Termine und Beobachtungsdokumentation → siehe Formular F-01
+- **Entwicklungsbericht Basisvorlage** — Strukturierte Vorlage für sechsmonatliche Berichte → siehe Formular F-02
+- **Aufnahmebogen Klient:innen-Begleitung** — Personalien, Ressourcen, Auftrag → siehe Formular F-03
 
-## Entwicklungsbericht — Basisvorlage
+Alle Formulare sind bei Frau Wloka erhältlich oder in der projektinternen Dokumentenverwaltung verfügbar.
 
-| Leistung                                    | Anbieter           |
-| ------------------------------------------- | ------------------ |
-| Sozialpädagogische Familienbegleitung (SPF) | Wegpiraten GmbH    |
-| DAF (Langzeitunterbringung Familienpflege)  | Hauptstrasse 47    |
-| UWB Begleitung individuell                  | 3800 Unterseen     |
-| UWB Ausübung Gruppe                         | Tel: 076 790 67 56 |
-| UWB Übergabe Gruppe                         | info@wegpiraten.ch |
 
-| Feld                               | Inhalt    |
-| ---------------------------------- | --------- |
-| Leistungsbesteller                 |           |
-| Aufnahmegespräch                   |           |
-| Berichtszeitraum                   | bis       |
-| Sozialarbeiterin Team Kinderschutz |           |
-| Beistandschaft                     | Ja / Nein |
-| Auftrag und Ziele                  |           |
-| Kurznotiz                          |           |
+# Anhang III — ICF-Klassifikation
 
-| Bewilligtes Stundenkontingent | Stunden |
-| ----------------------------- | ------- |
-| Direktkontakt                 |         |
-| Indirekte Fallbearbeitung     |         |
-| Fahrzeit                      |         |
-
-| Kontaktangaben Familie |     |
-| ---------------------- | --- |
-| Name Indexkind         |     |
-| Geburtsdatum           |     |
-| AHV-Nummer             |     |
-| Name Mutter            |     |
-| Name Vater             |     |
-| Sonstiges              |     |
-
-| Adressen      |     |
-| ------------- | --- |
-| Mutter        |     |
-| Vater         |     |
-| Kind lebt bei |     |
-| Institution   |     |
-
-| Familienbegleitung |             |
-| ------------------ | ----------- |
-| Name der Fachkraft | Frau / Herr |
-| Qualifikation      |             |
-
-\newpage
-
-# Anhang II — Aufnahmegespräch (Aufnahmebogen)
-
-Ort, Datum der Aufnahme: \underline{\hspace{6cm}}
-
-Anwesende: \underline{\hspace{6cm}}
-
-## Personalien der Familie
-
-| Angaben zum Indexkind |     |
-| --------------------- | --- |
-| Name                  |     |
-| Geburtsdatum          |     |
-| Geschlecht            |     |
-| AHV-Nummer            |     |
-| Anzahl Geschwister    |     |
-| Adresse               |     |
-| E-Mail                |     |
-| Telefon               |     |
-
-| Angaben zur Kindesmutter |     |
-| ------------------------ | --- |
-| Name                     |     |
-| Geburtsdatum             |     |
-| Adresse                  |     |
-| E-Mail                   |     |
-| Telefon                  |     |
-
-| Angaben zum Kindesvater |     |
-| ----------------------- | --- |
-| Name                    |     |
-| Geburtsdatum            |     |
-| Adresse                 |     |
-| E-Mail                  |     |
-| Telefon                 |     |
-
-| Geschwister  | 1. Kind | 2. Kind | 3. Kind |
-| ------------ | ------- | ------- | ------- |
-| Name         |         |         |         |
-| Geburtsdatum |         |         |         |
-| Adresse      |         |         |         |
-
-## Gründe für die Familienbegleitung
-
-(Zutreffendes ankreuzen und erläutern)
-
-- [ ] Erziehungsprobleme, familiäre Situation:
-- [ ] Fehlendes soziales Netz; Isolation:
-- [ ] Gewalt, Misshandlung, Vernachlässigung der Kinder:
-- [ ] Beeinträchtigungen, Krankheit des Kindes:
-- [ ] Verhaltensauffälligkeiten Kinder:
-- [ ] Elternkonflikte:
-- [ ] Andere Gründe, welche:
-
-## Ressourcen
-
-| Bereich             | Vorhandene Ressourcen | Fehlende Ressourcen |
-| ------------------- | --------------------- | ------------------- |
-| Kind/Jugendliche/r  |                       |                     |
-| Kindeseltern        |                       |                     |
-| Familie & Umfeld    |                       |                     |
-| Schule & Ausbildung |                       |                     |
-
-## Bisherige Massnahmen
-
-| Feld                   | Inhalt |
-| ---------------------- | ------ |
-| Abklärungen            |        |
-| Ergebnisse             |        |
-| Diagnosen              |        |
-| Unterstützungsangebote |        |
-
-## Multiprofessionelle Zusammenarbeit
-
-| Institution                                 | Kontakt/Bemerkung |
-| ------------------------------------------- | ----------------- |
-| Kindertagesbetreuung/Spielgruppe            |                   |
-| Schule                                      |                   |
-| Schulsozialarbeit                           |                   |
-| Mütter-/Väterberatung                       |                   |
-| Entlastungsdienst (SRK, Pro Infirmis u. a.) |                   |
-| Heilpädagogische Früherziehung              |                   |
-| Schulische Beratungsdienste                 |                   |
-| Psychotherapie                              |                   |
-| Andere Helfernetzwerke                      |                   |
-
-## Auftrag und Ziele
-
-| Auftrag und Ziele |     |
-| ----------------- | --- |
-|                   |     |
-|                   |     |
-
-## Planung Stundenkontingent
-
-| Stundenumfang      | Direktkontakt | Indirekte Fallbearbeitung | Fahrtzeit | Effektive Zeit | KM-Pauschale |
-| ------------------ | ------------- | ------------------------- | --------- | -------------- | ------------ |
-| SPF                |               |                           |           | —              | —            |
-| Begl. Besuchsrecht | —             | —                         | —         |                |              |
-| UWB individuell    |               |                           |           | —              | —            |
-| DAF                |               |                           |           | —              | —            |
-
-\newpage
-
-# Anhang III — Logbuch Entwicklungsberichte
-
-Das Logbuch dient zur standardisierten Dokumentation von Ressourcen, Stärken, Interessen, persönlichen Wünschen und Zielen. Grundlage für die alle sechs Monate einzureichenden Entwicklungsberichte.
-
-## Grundsätze — Bedürfnisebenen
-
-| Ebene                                    | Beschreibung                                                                                           |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Physiologische Bedürfnisse               | Schlaf, Essen, Trinken, Wach- und Ruherhythmus, Körperpflege, Gesundheitsfürsorge                      |
-| Schutz und Sicherheit                    | Aufsicht, wetterangemessene Kleidung, Schutz vor Krankheiten und Bedrohungen                           |
-| Soziale Bedingungen                      | Verlässlichkeit, konstante Bezugspersonen, einfühlendes Verständnis, Zuwendung                         |
-| Wertschätzung                            | Respekt vor der physischen, psychischen und sexuellen Unversehrtheit, Anerkennung der Eigenständigkeit |
-| Soziale/kognitive/emotionale Erfahrungen | Altersentsprechende Anregungen, Werte und Normen, Sozialraum, Sprachförderung                          |
+Die Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und Gesundheit (ICF) ist ein bio-psycho-soziales Modell zur ganzheitlichen Erfassung der Lebenssituation.
 
 ## ICF-Kategorien Kinder und Jugendliche
-
-Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und Gesundheit — bio-psycho-soziales Modell für eine ganzheitliche Erfassung der Lebenssituation.
 
 - **Allgemeines Lernen** (Lernmotivation, Selbstorganisation, Kreativität, Aufmerksamkeit, Merkfähigkeit)
 - **Umgang mit Anforderungen** (Regeln einhalten, Verhalten steuern, Selbstständigkeit, Teamfähigkeit)
@@ -836,118 +749,8 @@ Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und Ges
 - **Bewegung und Mobilität** (Grob- und Feinmotorik, Räumliche Wahrnehmung, Körperwahrnehmung)
 - **Sozial-emotionales Lernen** (Empathie, Beziehungen gestalten, Selbstwert, Identität)
 
-Detailkatalog: https://bildungsportal-niedersachsen.de/fileadmin/3_Fruehkindliche_Bildung/
-
-\newpage
-
-# Anhang IV — Fragenkatalog für Fachpersonen (Entwicklungsberichte)
-
-## 1. Beobachtungen zum kindlichen Wohl
-
-- Welche Beobachtungen haben Sie bezüglich des emotionalen Wohlbefindens der Kinder gemacht?
-- Wie zeigen sich die Kinder im Umgang mit Stress, Konflikten oder familiären Belastungen?
-- Welche Entwicklungsfortschritte oder -verzögerungen nehmen Sie derzeit wahr?
-- Gibt es Hinweise auf Vernachlässigung, Überforderung oder mögliche Schutzbedarfe?
-
-## 2. Bindungsverhalten und Beziehungen
-
-- Wie schätzen Sie die Qualität der Bindung zwischen den Kindern und ihren Eltern ein?
-- Kommt es zu Bindungsunsicherheiten oder auffälligen Verhaltensmustern?
-- Wie erleben Sie die Interaktionen zwischen Eltern und Kindern im häuslichen Umfeld?
-
-## 3. Familiäre Dynamik und Erziehungssituation
-
-- Wie wirken sich Strukturen, Routinen und Rollen auf die Kinder aus?
-- Wo sehen Sie Belastungsfaktoren, die die Kinder besonders beeinflussen?
-- Welche Erziehungsstrategien setzen die Eltern ein, und wie wirken diese?
-
-## 4. Elternkompetenzen und Umsetzung
-
-- Wie gut können die Eltern die empfohlenen Massnahmen im Alltag umsetzen?
-- Wo erkennen Sie Fortschritte, wo eher Stagnation oder Widerstand?
-- Welche konkreten Unterstützungsbedarfe der Eltern sehen Sie aktuell?
-
-## 5. Ressourcen und Risiken
-
-- Welche Schutzfaktoren (Bezugspersonen, Routinen, Stärken der Kinder) sind erkennbar?
-- Welche Risiken für das Kindeswohl bestehen derzeit?
-- Wie gut gelingt es den Eltern, die Bedürfnisse der Kinder angemessen wahrzunehmen?
-
-## 6. Zusammenarbeit und Transparenz
-
-- Wie verläuft die Zusammenarbeit mit den Eltern — kooperativ, zuverlässig, reflexionsbereit?
-- Gibt es Hindernisse, die die Zielerreichung beeinträchtigen?
-- Wie regelmässig und tiefgehend können Sie die Familie begleiten?
-
-## 7. Fachliche Einschätzung und Zielerreichung
-
-- Welche Ziele wurden zu Beginn definiert und wie ist der aktuelle Stand?
-- Welche Veränderungen konnten Sie bei Kindern und Eltern feststellen?
-- Wo sehen Sie dringendsten Handlungsbedarf?
-- Wie beurteilen Sie die Wirksamkeit der bisherigen Unterstützung?
-
-## 8. Empfehlungen und weiterer Unterstützungsbedarf
-
-- Welche weiteren Massnahmen halten Sie für sinnvoll (z. B. Psychotherapie, Frühförderung)?
-- Welche Schritte sind nötig, um die Situation der Kinder nachhaltig zu stabilisieren?
-- Welche Empfehlungen geben Sie für die interdisziplinäre Zusammenarbeit?
-- Gibt es Bereiche, in denen der Kinderschutz verstärkt werden sollte?
-
-\newpage
-
-# Anhang Z — Zugangsdaten und Codes
-
 \begin{commentbox}
-\textbf{Vertraulich — dieser Anhang ist gesondert zu behandeln und nicht weiterzugeben.}
-\end{commentbox}>
-\begin{commentbox}
-Bei Ausscheiden aus dem Unternehmen sind alle Zugangsdaten der Leitung zu melden. Passwörter werden danach geändert.
+\textbf{[Frage]} Ist eine schweizerische oder eidgenössische Referenz für die ICF-Klassifikation passender als der Link zum niedersächsischen Bildungsportal? (z. B. Bundesamt für Statistik, Staatssekretariat für Bildung)
 \end{commentbox}
-## Computer MacBook Air (Büro Unterseen)
 
-| Feld              | Wert                                   |
-| ----------------- | -------------------------------------- |
-| Benutzer          | Wegpiraten GmbH                        |
-| Passwort Computer | Wegpiratengmbh                         |
-| E-Mail Adresse    | wegpiraten.gmbh@wegpiraten.ch          |
-| Passwort E-Mail   | Bürointerlaken4321!                    |
-| Apple ID          | Buerointerlaken4321!                   |
-| Apple ID Passwort | Piratenpower4321! _(Stand 26.11.2024)_ |
-
-## W-LAN
-
-| Standort  | Netzwerkname (SSID) | Passwort       |
-| --------- | ------------------- | -------------- |
-| Unterseen | EB8B1003A3          | Wpira@2025     |
-| Bern      | Maulbeerstrasse 10  | projektinterim |
-
-## Sitzungszimmer Bern (SuperSaaS)
-
-| Feld         | Wert                                     |
-| ------------ | ---------------------------------------- |
-| URL          | https://www.supersaas.de/dashboard/login |
-| Benutzername | MeetingMaulbeerstrasse                   |
-| Passwort     | Maulbeerstrasse10                        |
-
-## Dolmetscher-Service Comprendi
-
-| Feld         | Wert                     |
-| ------------ | ------------------------ |
-| URL          | https://www.comprendi.ch |
-| Benutzername | wegGmbH_23               |
-| Passwort     | wegpirgmbh2              |
-
-## Schlüssel und Codes
-
-| Objekt                                                    | Code / Ort                              |
-| --------------------------------------------------------- | --------------------------------------- |
-| Schlüsselkasten Unterseen (grau, im weissen Innenschrank) | **222**                                 |
-| Dienstfahrräder (alle gleich)                             | **22222**                               |
-| Schlüsseltresor Briefkasten Unterseen                     | _wird per WhatsApp-Chat bekanntgegeben_ |
-| Transponder Bern (Zugang nach 20:00 Uhr)                  | _im Schlüsselkasten Unterseen_          |
-| Kindersicherung Steckdosen                                | _Schlüssel in Schreibtischschublade_    |
-| Schlüssel Bootshaus Brienzersee                           | _im Schlüsselkasten Unterseen_          |
-
----
-
-_Wegpiraten GmbH — Hauptstrasse 47, 3800 Unterseen — info@wegpiraten.ch — www.wegpiraten.ch_
+\newpage
