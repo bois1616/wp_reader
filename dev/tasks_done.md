@@ -1,5 +1,12 @@
 # Tasks Done
 
+## 2026-04-26
+
+- Bildlayout willkommen_an_bord.md überarbeitet: alle minipage-Blöcke mit Fliesstext
+  (B.5, B.6, C.1, C.3, C.6, C.7, D.1 Unterseen, D.1 Bootshaus, D.4) durch wrapfigure{l}
+  ersetzt; minipage nur noch für Bild+Kommentarbox (A.2, A.3) beibehalten;
+  Artefakt-\end{minipage} in C.6 und C.7 bereinigt; PDF kompiliert sauber
+
 ## 2026-04-24 (Fortsetzung 2)
 
 - Neufassung willkommen_an_bord_v2.md mit allen Review-Änderungen erstellt:

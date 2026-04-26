@@ -112,12 +112,12 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 ## A.4 Was du von uns erwarten kannst
 
-\begin{minipage}[c]{0.36\textwidth}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
-\end{minipage}\hfill
-\begin{minipage}[c]{0.60\textwidth}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{wrapfigure}
 Ein vielseitiger, moderner Arbeitsplatz mit echtem Teamrückhalt — das erwartet dich bei den Wegpiraten.
-\end{minipage}
+
+\par
 
 - Nutzung sämtlicher Materialien und Arbeitsmittel der Wegpiraten GmbH.
 - Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern.
@@ -183,14 +183,12 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
 
 ## B.5 Urlaub und Hafentage
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/klare_schritte_1.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/klare_schritte_1.jpg}
+\end{wrapfigure}
 Bei einer 100%-Anstellung besteht Anspruch auf 30 bezahlte Urlaubstage pro Jahr (40-Stunden-Woche). Der individuelle Anspruch ist im Arbeitsvertrag festgelegt.
-\end{minipage}
+
+\par
 
 Die zeitliche Lage des Urlaubs wird in Abstimmung mit dem Arbeitgeber schriftlich festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
 
@@ -237,14 +235,12 @@ Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht di
 
 ## B.6 Überstunden
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/schatzkarte.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/schatzkarte.jpg}
+\end{wrapfigure}
 Überstunden sind unverzüglich zu melden. Sie werden primär durch Freizeit gleicher Dauer kompensiert, spätestens innert eines Jahres.
-\end{minipage}
+
+\par
 
 Sollte eine Kompensation durch Freizeit aus unvorhergesehenen Gründen nicht möglich sein, kann nach vorheriger Rücksprache mit dem Arbeitgeber ausnahmsweise eine Auszahlung zum Stundensatz ohne Zuschlag (1:1) vereinbart werden. Bei Austritt erfolgt die Auszahlung ohne Zuschlag, sofern eine Kompensation nicht möglich war.
 
@@ -313,14 +309,12 @@ Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine a
 
 ## C.1 Stellenbeschreibung
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/bab_ankommen.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/bab_ankommen.jpg}
+\end{wrapfigure}
 Die sozialpädagogische Arbeit basiert auf der Leistungsbeschreibung «Sozialpädagogische Familienbegleitung» (Fassung 05.10.2022) sowie auf den Leistungsvereinbarungen des Bereichs «Unterstützung bei der Wahrnehmung des Besuchsrechts».
-\end{minipage}
+
+\par
 
 Art, Ziel und Umfang der Unterstützungsleistungen ergeben sich aus dem Gesetz über die Leistungen für Kinder mit besonderem Förder- und Schutzbedarf (KFSG) vom 03.12.2020. Übergeordnetes Ziel ist die Förderung der Beziehung des jungen Menschen zu seiner Herkunftsfamilie.
 
@@ -336,9 +330,6 @@ Die Tätigkeit erfolgt überwiegend im häuslichen Umfeld der Familien, im Sozia
 - Förderung stabiler Beziehungen innerhalb des Familiensystems
 - Aktivierung und Erschliessung informeller und materieller Ressourcen (z. B. Transferleistungen)
 
-\begin{commentbox}
-\textbf{[Frage]} Die Leistungspalette sollte mit der aktuellen Darstellung auf www.wegpiraten.ch/leistungen abgeglichen werden — insbesondere, ob alle dort aufgeführten Leistungen hier vollständig abgebildet sind und ob Begriffe übereinstimmen.
-\end{commentbox}
 ## C.2 Arbeitszeitnachweis und Stundenerfassung
 
 Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit und indirekte Fallarbeit. Die Zeiterfassung erfolgt gemäss dem effektiven Aufwand, gerundet auf fünf Minuten. Intern sind die Tätigkeiten detailliert festzuhalten. Das KJA kann die interne Zeiterfassung einfordern.
@@ -352,8 +343,9 @@ Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit
 ### Überblick Leistungen und Abgeltung
 
 \begin{commentbox}
-\textbf{[Frage]} Bitte Leistungsbezeichnungen und Abgeltungsregeln mit den aktuellen Leistungsvereinbarungen und mit www.wegpiraten.ch/leistungen abgleichen.
+\textbf{[Frage]} Sollen Leistungsbezeichnungen und Abgeltungsregeln mit den aktuellen Leistungsvereinbarungen und mit www.wegpiraten.ch/leistungen abgeglichen werden? Es gibt hier einige Begriffe, die nicht ganz klar sind (z. B. «UWB Ausübung Gruppe» vs. «Unterstützung bei der Wahrnehmung des Besuchsrechts»). Es sollte sichergestellt werden, dass die Terminologie konsistent ist und mit den offiziellen Leistungsbeschreibungen übereinstimmt.
 \end{commentbox}
+
 | Nr. | Leistung                                    | Bemerkungen                                                                                                  | Abgeltung                        |
 | --- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
 | 1   | SPF (Sozialpädagogische Familienbegleitung) | Wegzeit und indirekte Fallarbeit abgegolten.                                                                 | Pro Stunde, im Fünf-Minuten-Takt |
@@ -397,14 +389,12 @@ Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach
 
 ## C.3 Spesen
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image5.jpeg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/image5.jpeg}
+\end{wrapfigure}
 Quittungen und Rechnungen (im Original) sind mit dem Namenskürzel der Klientin/des Klienten und einer kurzen Beschreibung des Verwendungszwecks zu versehen (z. B. «Klient:in HaWu — Zvieri»).
-\end{minipage}
+
+\par
 
 Sie sind zusammen mit der Spesentasche fristgerecht zum Monatsende ans Büro in Unterseen einzureichen. Oben auf jedem Abrechnungsblatt stehen Name der Fachperson und Abrechnungsmonat mit Jahreszahl.
 
@@ -434,6 +424,10 @@ Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzur
 
 ### Gliederung des Entwicklungsberichts
 
+\begin{commentbox}
+\textbf{[Frage]} Dazu gibt es doch sicher eine offizielle Vorlage oder einen Leitfaden, der mit den Leistungsbestellenden abgestimmt ist. Es wäre sinnvoll, diese Vorlage hier zu verlinken oder zumindest die wichtigsten Punkte daraus zu nennen, damit die Mitarbeitenden wissen, wie ein Entwicklungsbericht strukturiert sein soll.
+\end{commentbox}
+
 | Nr. | Abschnitt                           | Inhalt                                                                |
 | --- | ----------------------------------- | --------------------------------------------------------------------- |
 | 1   | Aktuelle Situation                  | Ausgangslage, Anlass, Auftrag und Ziele                               |
@@ -448,18 +442,15 @@ Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzur
 | 10  | Perspektiv- und Handlungsempfehlung | Empfehlung für zukünftige Massnahmen                                  |
 | 11  | Ausblick und Schlussbemerkung       | Grenzen der Einschätzung, abschliessende Bemerkungen                  |
 
-## C.6 Verhaltensregeln und Professionelle Standards
+## C.6 Verhaltensregeln und professionelle Standards
 
 Die folgenden Verhaltensgrundsätze sind verbindlich. Sie dienen einem professionellen, respektvollen und sicheren Arbeitsumfeld sowie der Wahrung der Vorbildfunktion gegenüber Kindern, Jugendlichen und deren Familien.
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{wrapfigure}
+
 Alle Mitarbeitenden sollen sich einander rücksichtsvoll verhalten und die persönlichen Sphären gegenseitig respektieren. Bei Mobbing, Bossing, Diskriminierung oder sexueller Belästigung gilt: die belästigende Person auf das unzulässige Verhalten hinweisen und die betroffene Person unterstützen. Vorgesetzte sind verantwortlich für eine diskriminierungs- und belästigungsfreie Arbeitsatmosphäre.
-\end{minipage}
 
 **1. Körpersprache und Sitzhaltung:** Aufrechte und professionelle Körperhaltung; Sitzhaltungen, die als unangemessen wahrgenommen werden können (z. B. Schneidersitz), sind zu vermeiden.
 
@@ -483,18 +474,20 @@ Alle Mitarbeitenden sollen sich einander rücksichtsvoll verhalten und die pers�
 
 **11. Häusliches Umfeld:** Schuhe nur ausziehen, wenn üblich oder hygienisch notwendig. Teilnahme an privaten familiären Aktivitäten nur, wenn pädagogisch begründet und abgesprochen.
 
+\begin{commentbox}
+\textbf{[Frage]} Sollte hier noch etwas stehen zu politischen Statements oder zur Neutralität? Z.B. "Free  Palestine"... Das könnte in einem professionellen Kontext problematisch sein, insbesondere wenn es um die Arbeit mit Familien aus unterschiedlichen kulturellen oder politischen Hintergründen geht. Es wäre sinnvoll, eine klare Regelung zu haben, um Missverständnisse zu vermeiden.
+\end{commentbox}
+
 ## C.7 Dresscode
 
 Mitarbeitende vertreten die Wegpiraten GmbH nach innen und aussen. Ein gepflegtes, professionelles und situationsangemessenes Erscheinungsbild ist zwingend.
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/zusammenarbeit_1.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/zusammenarbeit_1.jpg}
+\end{wrapfigure}
 **Angemessenheit (Casual Chic):** Kleidung muss gepflegt, sauber und einsatzgerecht sein. Neutraler, zurückhaltender Stil wird erwartet.
-\end{minipage}
+
+\par
 
 **Nicht zulässig:**
 
@@ -520,14 +513,14 @@ Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich 
 
 ### Büro Unterseen (Hauptstandort)
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image9.jpeg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/image9.jpeg}
+\end{wrapfigure}
+
+
+\par
+
 Hauptstrasse 47, 3800 Unterseen
-\end{minipage}
 
 **Gebäudekontakt:**
 Livta AG, Hauptstrasse 43, 3800 Unterseen
@@ -550,14 +543,12 @@ Elriz Traub (Bewirtschafterin) — elriz.traub@projekt-interim.ch
 
 ### Bootshaus Goldswil (Aare)
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image8.jpeg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/image8.jpeg}
+\end{wrapfigure}
 Direkt an der Aare, am östlichen Ende der öffentlichen Bootsplätze, unterhalb der ZB Eisenbahnbrücke.
-\end{minipage}
+
+\par
 
 **Anfahrt mit dem Fahrrad:**
 
@@ -609,14 +600,12 @@ Zugangsdaten: $\to$ Anhang Z
 
 ## D.4 Büroalltag
 
-\begin{minipage}[t]{0.36\textwidth}
-\vspace{0pt}
-\includegraphics[width=\textwidth,height=4.8cm,keepaspectratio]{assets/image4.jpeg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.60\textwidth}
-\vspace{0pt}
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/image4.jpeg}
+\end{wrapfigure}
 **Materialien und Anschaffungen:** Anschaffungswünsche mit der vorgesetzten Leitung besprechen. Im Büro Unterseen hängt eine Liste am Kühlschrank.
-\end{minipage}
+
+\par
 
 **Getränke:** Tee, Kaffee, Wasser und Softdrinks sind in Unterseen und Bern kostenlos. Fehlt etwas: eigenständig besorgen oder melden.
 

@@ -1,5 +1,9 @@
 # Backlog
 
+Stand 26.04.2026: [x] Bildlayout willkommen_an_bord.md — alle minipage-Blöcke mit
+Fliesstext auf wrapfigure umgestellt; minipage nur noch für Bild+Kommentarbox (A.2, A.3);
+PDF kompiliert sauber mit xelatex
+
 Stand 24.04.2026: Dokumentenvergleich abgeschlossen – korrekturlesen_willkommen_an_bord.md
 ist einzige Arbeitsgrundlage; rumpf hat keinen inhaltlichen Mehrwert (Kapitel 2–5 fehlen
 komplett); Strukturvorschlag für neues Inhaltsverzeichnis erstellt
