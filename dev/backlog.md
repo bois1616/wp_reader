@@ -279,6 +279,10 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 - [ ] [P1] [policy] Regel zur Nutzung von Diensthandys als technische
   Dienstanweisung verankern
 
+- [ ] [P1] [layout] Reader-Layout von XeLaTeX/Pandoc auf Typst migrieren —
+  Typst-Quelldatei (.typ) als Layout-Format, Tinymist-Preview in VSCode,
+  PDF-Export via `typst compile`
+
 ## P2 Could
 
 - [ ] [P2] [quality] Definition of Done fuer Dokumentenreviews dokumentieren
