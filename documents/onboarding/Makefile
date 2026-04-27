@@ -1,10 +1,13 @@
 PDF = willkommen_an_bord.pdf
-SRC = willkommen_an_bord.md
+SRC = willkommen_an_bord.typ
 
 $(PDF): $(SRC)
-	pandoc $(SRC) -o $(PDF) --pdf-engine=xelatex --wrap=none
+	typst compile $(SRC) $(PDF)
+
+watch:
+	typst watch $(SRC) $(PDF)
 
 clean:
 	rm -f $(PDF)
 
-.PHONY: clean
+.PHONY: clean watch
