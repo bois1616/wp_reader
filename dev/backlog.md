@@ -1,5 +1,13 @@
 # Backlog
 
+Stand 27.04.2026: [x] Überarbeitungspaket 3 — D.1 Standorte umsortiert
+(Interlaken/Unterseen + Bootshäuser zusammen, Bern nachgestellt); Bild Bootshaus
+Brienzersee ersetzt (image8.jpeg → Bootshaus Brienzersee.jpg) mit Google-Earth-Link;
+Bild Büro Unterseen Front eingefügt; Formularverzeichnis Anhang I mit realen
+Formularen aktualisiert (5 Einträge als Tabelle); Frage zu Teamsitzungen und
+Supervision in C.2 ergänzt; Kundenfrage zur Abdeckung des Entwicklungsberichts
+über alle Leistungsarten hinzugefügt
+
 Stand 26.04.2026: [x] Überarbeitungspaket 2 — Tabellen bändern (rowcolors), TOC einfügen,
 A.2/A.3 Kommentarboxen vor Bilder, A.4 Listenbreite, B.4 Teilzeit-Beispiele, B.8 Schweizer
 Ausdruck erklären, C.5 Fragenkatalog + Bedürfnisebenen einbauen, Anhang I Formularverzeichnis,

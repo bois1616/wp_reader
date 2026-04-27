@@ -392,6 +392,13 @@ Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach
 \begin{commentbox}
 \textbf{[Frage — rechtlich]} Das Arbeitsgesetz (ArG) und die entsprechenden Verordnungen sehen Zuschlagspflichten für Nacht- und Sonntagsarbeit vor (ArG Art. 17b, 19). Der Ausschluss von Zuschlägen durch Leistungsbesteller muss mit den gesetzlichen Anforderungen vereinbar sein — bitte rechtlich prüfen lassen.
 \end{commentbox}
+
+### Teamsitzungen und Supervision
+
+\begin{commentbox}
+\textbf{[Frage]} Teamsitzungen und Supervisionen werden unter A.4 als Leistung erwähnt und unter C.2 als indirekte Fallarbeit verbucht. Es fehlt jedoch eine verbindliche Regelung: In welchem Rhythmus finden Teamsitzungen und Supervisionen statt? Ist die Teilnahme verpflichtend? Wer organisiert und leitet sie? Gibt es eine Vorlage für die Protokollierung? (Siehe auch das vorhandene Formular «Vorlage Teamsitzung» im Formularverzeichnis.)
+\end{commentbox}
+
 ### Spezialfälle
 
 - Dolmetschkosten gehen zu Lasten des KJA Bern.
@@ -606,6 +613,39 @@ Livta AG, Hauptstrasse 43, 3800 Unterseen
 Thomas Schärz (Geschäftsführer)
 Tel: 033 828 33 32 | info@livta.ch
 
+### Büro Unterseen — Aussenansicht
+
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/Büro Unterseen Front.jpeg}
+\end{wrapfigure}
+
+\par
+
+Das Büro an der Hauptstrasse 47 in Unterseen ist der zentrale Arbeits- und Anlaufpunkt für das Team Interlaken/Oberland.
+
+### Bootshaus Brienzersee
+
+\begin{wrapfigure}{l}{0.36\textwidth}
+\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/Bootshaus Brienzersee.jpg}
+\end{wrapfigure}
+
+[Lage auf Google Earth](https://earth.google.com/web/search/Interlaken,+Schweiz/@46.69419895,7.8827717,572.6115298a,413.20676475d,35y,0h,0t,0r/data=CigiJgokCey2Jf5uaD9AEeu2Jf5uaD_AGa4TelupHkxAIXOEhi4xZUzAQgIIAToDCgEwQgIIAEoNCP___________wEQAA)
+
+\par
+
+Der Schlüssel ist im Schlüsselkasten in Unterseen (Code: $\to$ Anhang Zugangsdaten). Nach Benutzung zurückbringen und im digitalen Kalender eintragen.
+
+Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Kalender eintragen. Eigene Familie, Verwandte und Freunde sind herzlich willkommen. Die Fachperson der Wegpiraten GmbH muss stets dabei sein. **Schwimmwestenpflicht.**
+
+### Bootshaus Goldswil (Aare)
+
+Direkt an der Aare, am östlichen Ende der öffentlichen Bootsplätze, unterhalb der ZB Eisenbahnbrücke.
+
+**Anfahrt mit dem Fahrrad:**
+
+- Via TCS Campingplatz Interlaken, der Aare entlang
+- Oder: Via Lanzenstrasse über die Eisenbahnbrücke, dann links in den Aareweg
+
 ### Büro Bern
 
 Maulbeerstrasse 10, 3011 Bern
@@ -619,26 +659,6 @@ Elriz Traub (Bewirtschafterin) — elriz.traub@projekt-interim.ch
 **Transponder Bern:** Für den Zugang nach 20:00 Uhr hängt der Transponder im Schlüsselkasten in Unterseen.
 
 **Sitzungszimmer buchen (Bern):** $\to$ Anhang Zugangsdaten
-
-### Bootshaus Goldswil (Aare)
-
-\begin{wrapfigure}{l}{0.36\textwidth}
-\includegraphics[width=0.34\textwidth,keepaspectratio]{assets/image8.jpeg}
-\end{wrapfigure}
-Direkt an der Aare, am östlichen Ende der öffentlichen Bootsplätze, unterhalb der ZB Eisenbahnbrücke.
-
-\par
-
-**Anfahrt mit dem Fahrrad:**
-
-- Via TCS Campingplatz Interlaken, der Aare entlang
-- Oder: Via Lanzenstrasse über die Eisenbahnbrücke, dann links in den Aareweg
-
-### Bootshaus Brienzersee
-
-Der Schlüssel ist im Schlüsselkasten in Unterseen (Code: $\to$ Anhang Zugangsdaten). Nach Benutzung zurückbringen und im digitalen Kalender eintragen.
-
-Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Kalender eintragen. Eigene Familie, Verwandte und Freunde sind herzlich willkommen. Die Fachperson der Wegpiraten GmbH muss stets dabei sein. **Schwimmwestenpflicht.**
 
 ## D.2 Digitale Kalender
 
@@ -725,15 +745,22 @@ Briefe an die Geschäftsführung werden ungeöffnet an Frau Viktoria Wloka weite
 \newpage
 
 # Anhang I — Formularverzeichnis
-# Anhang I — Formularverzeichnis
 
 Die folgenden Formulare werden als separate Dokumente verwaltet:
 
-- **Logbuch-Vorlage** — Überblick Termine und Beobachtungsdokumentation → siehe Formular F-01
-- **Entwicklungsbericht Basisvorlage** — Strukturierte Vorlage für sechsmonatliche Berichte → siehe Formular F-02
-- **Aufnahmebogen Klient:innen-Begleitung** — Personalien, Ressourcen, Auftrag → siehe Formular F-03
+| Nr.  | Formular                                        | Zweck                                                          |
+| ---- | ----------------------------------------------- | -------------------------------------------------------------- |
+| F-01 | Vorlage Teamsitzung                             | Protokollvorlage für regelmässige Teamsitzungen                |
+| F-02 | Vorlage Entwicklungsberichte                    | Strukturierte Vorlage für sechsmonatliche Berichte             |
+| F-03 | Vorlage Aufnahmegespräch                        | Personalien, Ressourcen, Auftrag bei Falleröffnung             |
+| F-04 | Quickinfos Klientendaten                        | Kompaktübersicht der wichtigsten Klientendaten                 |
+| F-05 | Evaluation SPF                                  | Evaluationsbogen für die Sozialpädagogische Familienbegleitung |
 
 Alle Formulare sind bei Frau Wloka erhältlich oder in der projektinternen Dokumentenverwaltung verfügbar.
+
+\begin{commentbox}
+\textbf{[Frage an den Kunden]} Der Entwicklungsbericht (F-02) ist auf die SPF-Begleitung zugeschnitten. Die unter C.2 aufgeführten Leistungen umfassen jedoch auch UWB (Ausübung, Übergabe, Begleitung) und DAF. Ist es korrekt, dass für diese Leistungen kein separater Entwicklungsbericht vorgesehen ist, oder gibt es dafür eigene Vorlagen?
+\end{commentbox}
 
 
 # Anhang III — ICF-Klassifikation

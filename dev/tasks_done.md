@@ -1,5 +1,9 @@
 # Tasks Done
 
+## 2026-04-27
+
+- Überarbeitungspaket 3: D.1 Standorte nach Region sortiert (Interlaken/Unterseen + Bootshäuser vor Bern); Bild Bootshaus Brienzersee ersetzt und Google-Earth-Link eingefügt; Büro Unterseen Front als neues Bild eingefügt; Anhang I Formularverzeichnis mit 5 realen Formularen als Tabelle aktualisiert; Frage zu Teamsitzungen/Supervision in C.2 ergänzt; Kundenfrage zur Leistungsabdeckung im Entwicklungsbericht hinzugefügt
+
 ## 2026-04-26 (Fortsetzung 2)
 
 - Überarbeitungspaket 2 abgeschlossen: Präambel mit rowcolors + colortbl ergänzt;
