@@ -27,3 +27,7 @@ _vertraulich/
 
 .codex
 .env
+
+# Build-Artefakte
+*.pdf
+typst-x86_64-unknown-linux-musl/
