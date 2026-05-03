@@ -1,5 +1,21 @@
 # Tasks Done
 
+## 2026-05-03
+
+- Kundenantworten eingearbeitet (26 Punkte aus antworten_zu_den_fragen.md):
+  A.3 Überschrift → «Unsere Crew»; B.4 Stundenlohn-Satz + Tabelle gelöscht;
+  B.5 Feiertage korrigiert (24.12. Arbeitstag), Hafentage angepasst (24., 27.–31.),
+  Vertretungsregelung ergänzt, Tod Familie auf 1 Tag; B.6 Kadermitarbeitende
+  komplett gestrichen; B.7 Weiterbildung neu (MA zahlt selbst, Lohnfortzahlung,
+  angeordnete WB separat); B.8 Betriebsarzt bei Zweifeln ergänzt;
+  B.9 Vaterschaftsurlaub Art. 329g OR; B.10 Unfallversicherung präzisiert;
+  C.2 «Wegzeit» → «Fahrzeit» durchgängig, Tabelle Nr. 4 ausgeschrieben +
+  Abgeltung wie SPF/DAF, Teamsitzung/Supervision-Regelung eingefügt;
+  C.5 Entwicklungsberichte für UWB/DAF ergänzt; D.4 Arbeitssicherheit
+  ohne AED/Unfallbuch; alle Kommentar-/Frageboxen entfernt
+- Typst als einziges Quellformat: .md gelöscht, .typ ist kanonisch,
+  PDF via `typst compile` erzeugt (4.0 MB)
+
 ## 2026-04-27
 
 - Überarbeitungspaket 3: D.1 Standorte nach Region sortiert (Interlaken/Unterseen + Bootshäuser vor Bern); Bild Bootshaus Brienzersee ersetzt und Google-Earth-Link eingefügt; Büro Unterseen Front als neues Bild eingefügt; Anhang I Formularverzeichnis mit 5 realen Formularen als Tabelle aktualisiert; Frage zu Teamsitzungen/Supervision in C.2 ergänzt; Kundenfrage zur Leistungsabdeckung im Entwicklungsbericht hinzugefügt

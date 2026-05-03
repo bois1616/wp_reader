@@ -5,21 +5,10 @@
 
 #let wp-blue    = rgb("#1a5276")
 #let wp-gold    = rgb("#c8a000")
-#let wp-cream   = rgb("#fff8dc")
 #let wp-gray    = rgb("#f2f2f2")
 #let wp-darkgray = rgb("#555555")
 #let wp-lightblue = rgb("#d6eaf8")
 
-#let commentbox(body) = block(
-  width: 100%,
-  fill: wp-cream,
-  stroke: (left: 3pt + wp-gold, rest: 0.5pt + wp-gold.lighten(40%)),
-  inset: (left: 12pt, right: 10pt, top: 8pt, bottom: 8pt),
-  radius: (right: 4pt),
-  above: 10pt,
-  below: 10pt,
-  body,
-)
 
 #let aside-image(img-path, body, side: left, img-width: 34%) = {
   let img-col = img-width
@@ -227,10 +216,6 @@ Die Bestimmungen gelten für sämtliche Mitarbeitenden der Wegpiraten GmbH. Als 
 
 == A.2 Unsere Grundhaltung
 
-#commentbox[
-  *\[Kommentar 1\]* Hier ist eine unterschiedliche Tonalität: Von einerseits sehr professionell,sachlich, stichwortartig und andererseits sehr persönlich und in direkter Ansprache.
-]
-
 #aside-image("assets/kernbotschaft_1_emotional.jpg", side: right, img-width: 30%)[
   - Hilfe zur Selbsthilfe — So wenig wie möglich, so viel wie nötig
   - Sich selber überflüssig machen.
@@ -254,11 +239,7 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 + *Rahmenbedingungen stecken.*
 + *Nicht Urteilen.*
 
-== A.3 Passt du in unsere Crew?
-
-#commentbox[
-  *\[Kommentar 2\]* Jemand, der dieses Dokument liest, ist bereits Teil der Crew. Es geht hier also nicht um die Frage «Passt du zu uns?», sondern vielmehr um die Frage «Wie können wir gemeinsam wachsen und uns weiterentwickeln?». Das sollte sprachlich vielleicht noch etwas klarer herausgearbeitet werden.
-]
+== A.3 Unsere Crew
 
 #aside-image("assets/zusammenarbeit_1.jpg", side: right, img-width: 30%)[
   - Abgeschlossenes Studium in Pädagogik, Sozialpädagogik, Sozialer Arbeit oder Kindheitspädagogik.
@@ -311,17 +292,9 @@ Der hauptsächliche Arbeitsort ist in den Büroräumlichkeiten der Wegpiraten Gm
 
 Das Arbeitsverhältnis wird durch einen schriftlichen Einzelarbeitsvertrag begründet. Ohne besondere Vereinbarung wird der Arbeitsvertrag auf unbestimmte Dauer abgeschlossen.
 
-#commentbox[
-  *\[Frage 3\]* Soll die OR-Referenz (Art. 319 ff.) hier stehen oder genügt der Verweis auf den Arbeitsvertrag? Dieser Satz wiederholt im Wesentlichen Gesetzestext.
-]
-
 == B.2 Probezeit
 
 Die ersten drei Monate eines unbefristeten Arbeitsverhältnisses gelten als Probezeit. Nach deren Ablauf gilt das Arbeitsverhältnis weiterhin als unbefristet.
-
-#commentbox[
-  *\[Frage 4\]* Dies entspricht der gesetzlichen Regelung (Art. 335b OR). Soll das explizit festgehalten werden, oder genügt der Verweis «gemäss Arbeitsvertrag»?
-]
 
 == B.3 Kündigungsfristen
 
@@ -332,27 +305,7 @@ Das Arbeitsverhältnis kann ordentlich und schriftlich wie folgt gekündigt werd
 
 Die Kündigung erfolgt jeweils schriftlich auf das Ende eines Kalendermonats. Eine sofortige Kündigung ist insbesondere möglich, wenn eine rechtskräftige Verurteilung wegen einer Straftat vorliegt. Das Arbeitsverhältnis endet automatisch per Ende des Monats, in dem das ordentliche AHV-Alter erreicht wird.
 
-#commentbox[
-  *\[Frage — rechtlich 5\]* Die hier angegebenen Kündigungsfristen (zwei bzw. drei Monate) gehen über das gesetzliche Minimum (Art. 335c OR: ein Monat im ersten Dienstjahr, zwei Monate im zweiten bis neunten, drei Monate ab dem zehnten) hinaus. Das ist zulässig, sollte aber im Arbeitsvertrag gespiegelt sein. Ist das so gewollt und im Vertrag so geregelt?
-]
-
-#commentbox[
-  *\[Frage — rechtlich 6\]* Die «sofortige Kündigung bei Verurteilung» ist eine weitgehende Formulierung. Bitte rechtlich prüfen lassen, ob diese Bedingung so standhält — insbesondere bei noch nicht rechtskräftigen Urteilen oder Delikten ohne Bezug zur Arbeit.
-]
-
 == B.4 Lohn
-
-Dem Jahresgehalt liegt ein Stundenlohn von brutto CHF 43.— (*Stand 01.01.2026*) zugrunde, inkl. 3% Feiertagszuschlag und 8,3% Ferienentschädigung.
-
-*Beispiele nach Pensum:*
-
-#table(
-  columns: (auto, auto, auto, auto),
-  [Pensum], [Wochenstunden], [Brutto / Woche], [Brutto / Monat (ca.)],
-  [100%], [40 h], [CHF 1'720.—], [CHF 7'450.—],
-  [80%], [32 h], [CHF 1'376.—], [CHF 5'960.—],
-  [60%], [24 h], [CHF 1'032.—], [CHF 4'470.—],
-)
 
 Die akzeptierten Leistungen sowie nachgewiesene und bewilligte Spesen werden monatlich vergütet. Die Mitarbeitenden verpflichten sich, jeweils bis Ende des Monats für den vergangenen Monat eine Auflistung der Stunden (Arbeitszeitnachweis) zu erstellen und einzureichen — sowohl bei der Buchhaltung (buchhaltung\@wegpiraten.ch) als auch bei Frau Wloka (info\@wegpiraten.ch).
 
@@ -369,25 +322,11 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
   Die zeitliche Lage des Urlaubs wird in Abstimmung mit dem Arbeitgeber schriftlich festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
 ]
 
-#commentbox[
-  *\[Frage 7\]* Der gesetzliche Mindestanspruch gemäss Art. 329a OR beträgt bei Fünf-Tage-Wochen 20 Tage. Die Wegpiraten gewähren 30 Tage — das ist zu begrüssen, sollte aber im Arbeitsvertrag ausdrücklich so geregelt sein.
-]
-
 *Übertrag und Verfall:* Die Arbeitnehmenden müssen ihren Urlaub nehmen, spätestens bis zum *31. März des Folgejahres*. Es können maximal zehn Urlaubstage in das neue Jahr übertragen werden, die im ersten Quartal zu beziehen sind. Urlaubstage, die über diesen Übertrag hinausgehen, verfallen.
 
-#commentbox[
-  *\[Frage 8\]* Was geschieht mit mehr als zehn Resttagen zum Jahresende? Verfallen diese ersatzlos, oder werden sie ausbezahlt? Das sollte klar geregelt sein, auch weil das OR in diesem Punkt Schutzvorschriften enthält.
-]
-
-#commentbox[
-  *\[Frage 9\]* Gibt es eine Regelung zur Urlaubsübergabe bei laufenden Fällen? Das Dokument regelt nur die Abwesenheitsnotiz — nicht, wer die Klientenkontakte übernimmt oder wer im Fall von Ausfall informiert wird.
-]
+*Vertretungsregelung:* Bei Abwesenheit (Urlaub oder Krankheit) ist die Leitung zu informieren. Diese übernimmt die Vertretung bzw. sorgt für fachmännischen Ersatz.
 
 Erkrankt eine Mitarbeiterin bzw. ein Mitarbeiter während des Urlaubs, werden die Urlaubstage (ohne Wochenenden) nachgewährt, wenn ein ärztliches Zeugnis vorgelegt wird. Sonderurlaub ohne Lohn kann bei wichtigem Grund und wenn die betrieblichen Verhältnisse es gestatten gewährt werden.
-
-#commentbox[
-  *\[Frage 10\]* Bis wann muss ein ärztliches Zeugnis vorgelegt werden, um Urlaubstage nachzugewähren? Gilt die Drei-Tage-Regelung auch im Urlaub, oder reicht eine Nachreichung nach dem Urlaub? Und: Was gilt, wenn die Krankheit bereits vor Antritt des Urlaubs bekannt war? Das sollte im Reader geregelt sein, um Missverständnisse zu vermeiden.
-]
 
 === Urlaubstageberechnung
 
@@ -406,8 +345,8 @@ Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht di
 - 1. und 2. Januar (Neujahr)
 - Karfreitag, Ostermontag, Auffahrt, Pfingstmontag
 - 1. August (Nationalfeiertag)
-- 24. bis 26. Dezember (Weihnachten)
-- #text(fill: wp-blue, weight: "bold")[Wegpiraten BONUS — Hafentage:] 27. bis 31. Dezember
+- 25. und 26. Dezember (Weihnachten)
+- #text(fill: wp-blue, weight: "bold")[Wegpiraten BONUS — Hafentage:] 24., 27. bis 31. Dezember
 
 === Bezahlte Sonderfreitage
 
@@ -416,7 +355,7 @@ Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht di
   [Anlass], [Freitage],
   [Eigene Hochzeit], [2 Tage],
   [Hochzeit naher Verwandter], [1 Tag],
-  [Tod innerhalb der Familie (1. Grad)], [2 Tage],
+  [Tod innerhalb der Familie (1. Grad)], [1 Tag],
   [Tod naher Verwandter (Tante, Onkel u.\u{a0}a.)], [1 Tag],
   [Wohnungswechsel / Umzugstag], [1 Tag],
 )
@@ -430,39 +369,21 @@ Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht di
   Sollte eine Kompensation durch Freizeit aus unvorhergesehenen Gründen nicht möglich sein, kann nach vorheriger Rücksprache mit dem Arbeitgeber ausnahmsweise eine Auszahlung zum Stundensatz ohne Zuschlag (1:1) vereinbart werden. Bei Austritt erfolgt die Auszahlung ohne Zuschlag, sofern eine Kompensation nicht möglich war.
 ]
 
-#commentbox[
-  *\[Frage — rechtlich 11\]* Die Formulierung «grundsätzlich nicht ausbezahlt» steht im Widerspruch zur Ausnahmeregelung (Auszahlung 1:1). Bitte präzisieren: Ist Auszahlung prinzipiell ausgeschlossen oder nur die Ausnahme? Nach OR Art. 321c Abs. 3 können Überstunden nur dann nicht ausbezahlt werden, wenn dies ausdrücklich vereinbart wurde. Bitte rechtlich prüfen.
-]
-
-#commentbox[
-  *\[Frage — rechtlich 12\]* Für Kadermitarbeitende: Was gilt als «Kader» im Sinne dieser Regelung? Ist das im Arbeitsvertrag definiert? Und: Ab welchem Pensum oder welcher Funktion gilt der Einschluss von Überstunden im Lohn?
-]
-
-Für Kadermitarbeitende gilt: Ein angemessenes Mass an Mehrleistung ist im Lohn inbegriffen und wird nicht gesondert entschädigt.
-
 == B.7 Weiterbildung
 
-Nach Absprache mit der Geschäftsleitung können Beiträge an Aus-, Weiter- oder Fortbildungen genehmigt werden. Pro Jahr stehen fünf Weiterbildungstage zur Verfügung. Nicht genutzte Tage verfallen am Jahresende.
+Weiterbildung wird von den Mitarbeitenden selbst finanziert. Pro Jahr stehen fünf Weiterbildungstage zur Verfügung, an denen der Lohn fortgezahlt wird. Nicht genutzte Tage verfallen am Jahresende.
 
-#commentbox[
-  *\[Frage 13\]* Sind die Weiterbildungstage bezahlt? Und wer trägt die Kosten der Weiterbildung selbst (Kursgebühren, Fahrt usw.)? Das Dokument nennt nur «Beiträge können genehmigt werden», ohne zu klären, ob das eine volle oder teilweise Kostenübernahme meint.
-]
-
-#commentbox[
-  *\[Frage 14\]* Gibt es angeordnete Weiterbildung (z.\u{a0}B. Erste Hilfe, Kinderschutz-Schulung)? Zählt diese gegen die fünf Tage? Und was gilt, wenn der Arbeitgeber eine Weiterbildung vorschreibt, die mehr als fünf Tage dauert?
-]
+Eine vom Arbeitgeber angeordnete Weiterbildung hat keinen Einfluss auf die fünf Weiterbildungstage.
 
 == B.8 Arztzeugnis und Krankheit
 
-Bei Arbeitsunfähigkeit von mehr als drei Tagen ist unaufgefordert und unverzüglich ein Arztzeugnis einzureichen. Wird dies unterlassen, kann der ausgerichtete (ausbezahlte) Lohn gekürzt werden. Bei Absenzen von weniger als drei Tagen kann ebenfalls ein Arztzeugnis verlangt werden, wenn berechtigte Zweifel bestehen. In jedem Fall ist die direkte vorgesetzte Person unmittelbar zu informieren.
+Die Wegpiraten GmbH verlangt ab dem dritten Krankheitstag ein Arztzeugnis. Wird dies unterlassen, kann der ausgerichtete (ausbezahlte) Lohn gekürzt werden. Wenn begründete Zweifel an der Arbeitsunfähigkeit bestehen, behält sich die Wegpiraten GmbH vor, ein Gutachten durch einen Betriebsarzt vornehmen zu lassen. In jedem Fall ist die direkte vorgesetzte Person unmittelbar zu informieren.
 
 == B.9 Mutterschafts- und Vaterschaftsurlaub
 
 Mitarbeiterinnen haben Anspruch auf einen Mutterschaftsurlaub von 14 Wochen (98 Tagen), der am Stück zu nehmen ist. Der Anspruch beginnt am Tag der Geburt. Bei längerem Spitalaufenthalt des Kindes kann die Verschiebung beantragt werden.
 
-#commentbox[
-  *\[Frage 15\]* Gibt es einen Vaterschaftsurlaub? Das Dokument regelt nur den Mutterschaftsurlaub. Seit 2021 haben Väter gesetzlich Anspruch auf zwei Wochen Vaterschaftsurlaub (Art. 329g OR). Das sollte im Reader ergänzt werden.
-]
+Väter haben Anspruch auf einen zweiwöchigen Vaterschaftsurlaub nach Art. 329g OR.
 
 == B.10 Versicherungen
 
@@ -480,13 +401,7 @@ Die Wegpiraten GmbH versichert das Personal gegen die wirtschaftlichen Folgen de
 
 *B.* Krankentagegeldversicherung bei der Mobiliar mit 30 Tagen Wartefrist. Die Prämien werden je zur Hälfte von den Mitarbeitenden und von der Wegpiraten GmbH getragen.
 
-#commentbox[
-  *\[Frage 16\]* «Zur Hälfte» bedeutet: die andere Hälfte trägt die Wegpiraten GmbH. Das sollte im Text so explizit stehen. Bitte bestätigen, dass das korrekt ist.
-]
-
-#commentbox[
-  *\[Frage 17\]* Was gilt bei Unfall während des Dienstes oder auf dem Weg zur Klientin/zum Klienten? Betriebs- und Nichtbetriebsunfall ist versichert — aber gibt es besondere Regelungen für Aussendiensteinsätze (z.\u{a0}B. Fahrradunfall auf dem Weg zur Familie)? Das sollte im Reader oder in einem separaten Merkblatt geregelt sein.
-]
+Es gilt, dass alle Mitarbeitenden unfallversichert sind — auf dem Weg zur Arbeit, während der Arbeitszeit und während des Urlaubs. Dies gilt auch für Fahrten mit dem Fahrrad zum Klienten oder mit dem Klienten.
 
 == B.11 Schweigepflicht
 
@@ -500,10 +415,6 @@ Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine a
 = Abschnitt C — Arbeiten bei den Wegpiraten
 
 == C.1 Stellenbeschreibung
-
-#commentbox[
-  *\[Hinweis zur Struktur 18\]* Abschnitt A (Willkommen & Orientierung) und C.1 (Stellenbeschreibung) überschneiden sich teilweise inhaltlich — etwa bei der Beschreibung der Tätigkeitsfelder. Die Überschneidung ist bewusst: A stellt die Kultur und Haltung vor, C.1 gibt den formalen und rechtlichen Rahmen. Beide Perspektiven haben für neue Mitarbeitende einen eigenständigen Wert. Soll dennoch gestrafft werden?
-]
 
 #aside-image("assets/bab_ankommen.jpg", side: left, img-width: 30%)[
   Die sozialpädagogische Arbeit basiert auf der Leistungsbeschreibung «Sozialpädagogische Familienbegleitung» (Fassung 05.10.2022) sowie auf den Leistungsvereinbarungen des Bereichs «Unterstützung bei der Wahrnehmung des Besuchsrechts».
@@ -533,22 +444,18 @@ Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit
 
 - Direktkontakt mit der Familie
 - Fallbezogene Arbeit
-- Wegzeit
+- Fahrzeit
 
 === Überblick Leistungen und Abgeltung
-
-#commentbox[
-  *\[Frage 19\]* Sollen Leistungsbezeichnungen und Abgeltungsregeln mit den aktuellen Leistungsvereinbarungen und mit www.wegpiraten.ch/leistungen abgeglichen werden? Es gibt hier einige Begriffe, die nicht ganz klar sind (z.\u{a0}B. «UWB Ausübung Gruppe» vs. «Unterstützung bei der Wahrnehmung des Besuchsrechts»). Es sollte sichergestellt werden, dass die Terminologie konsistent ist und mit den offiziellen Leistungsbeschreibungen übereinstimmt.
-]
 
 #table(
   columns: (auto, 1fr, 1.5fr, auto),
   [Nr.], [Leistung], [Bemerkungen], [Abgeltung],
-  [1], [SPF], [Wegzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
+  [1], [SPF (Sozialpädagogische Familienbegleitung)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
   [2], [UWB Ausübung Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit.], [Pro Stunde],
   [3], [UWB Übergabe Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit. Pro Besuch.], [Pro Stunde],
-  [4], [UWB Begleitung ind.], [Wegzeit + ind. Fallarbeit abgegolten. Max. 10\u{a0}Std. Direktkontakt.], [Pro Stunde],
-  [5], [DAF], [Wegzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
+  [4], [UWB Begleitung individuell (Unterstützung bei der Wahrnehmung des Besuchsrechts)], [Fahrzeit und indirekte Fallarbeit abgegolten. Max. 10\u{a0}Std. Direktkontakt.], [Pro Stunde, 5-Min.-Takt],
+  [5], [DAF (Langzeitunterbringung Familienpflege)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
 )
 
 === SPF — Detailregeln
@@ -576,20 +483,17 @@ Für jede Stunde im Direktkontakt mit der Familie kann höchstens eine halbe Stu
 
 Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach 20 Uhr keine Einsätze vorgesehen. In Ausnahmefällen können Leistungsbesteller mit Begründung von dieser Regelung absehen.
 
-#commentbox[
-  *\[Frage — rechtlich 20\]* Das Arbeitsgesetz (ArG) und die entsprechenden Verordnungen sehen Zuschlagspflichten für Nacht- und Sonntagsarbeit vor (ArG Art. 17b, 19). Der Ausschluss von Zuschlägen durch Leistungsbesteller muss mit den gesetzlichen Anforderungen vereinbar sein — bitte rechtlich prüfen lassen.
-]
-
 === Teamsitzungen und Supervision
 
-#commentbox[
-  *\[Frage 21\]* Teamsitzungen und Supervisionen werden unter A.4 als Leistung erwähnt und unter C.2 als indirekte Fallarbeit verbucht. Es fehlt jedoch eine verbindliche Regelung: In welchem Rhythmus finden Teamsitzungen und Supervisionen statt? Ist die Teilnahme verpflichtend? Wer organisiert und leitet sie? Gibt es eine Vorlage für die Protokollierung? (Siehe auch das vorhandene Formular «Vorlage Teamsitzung» im Formularverzeichnis.)
-]
+Teamsitzungen und Supervisionen finden je viermal pro Jahr statt (in der Regel einmal pro Quartal). Die Teilnahme ist verpflichtend.
+
+- *Supervision:* Wird geleitet und organisiert durch eine externe Firma.
+- *Teamsitzung:* Wird geleitet und geführt durch die Leitung bzw. eine Fachperson. Die Dokumentation erfolgt ebenfalls durch die Leitung.
 
 === Spezialfälle
 
 - Dolmetschkosten gehen zu Lasten des KJA Bern.
-- Nicht eingehaltene Termine und Absagen weniger als 24 Stunden vor dem Einsatz können ohne die entsprechende Wegzeit auf dem Arbeitszeitnachweis deklariert werden.
+- Nicht eingehaltene Termine und Absagen weniger als 24 Stunden vor dem Einsatz können ohne die entsprechende Fahrzeit auf dem Arbeitszeitnachweis deklariert werden.
 
 == C.3 Spesen
 
@@ -611,7 +515,9 @@ Sollte das bewilligte Stundenkontingent bei den Klienten für einen Monat nicht 
 
 == C.5 Entwicklungsberichte
 
-Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzureichen. Sie werden mithilfe eines externen Lektors und KI korrigiert und dann von Frau Wloka versendet. Die Mitarbeiterin bzw. der Mitarbeiter wird in der versendeten E-Mail an den Leistungsbesteller in CC gesetzt. Eigenständig, ohne Genehmigung, werden keine Entwicklungsberichte vom Personal versendet.
+Entwicklungsberichte werden für SPF, UWB und DAF nach dem gleichen Muster geschrieben. Sie sind immer bis zum angegebenen Datum bei der Leitung einzureichen. Sie werden mithilfe eines externen Lektors und KI korrigiert und dann von Frau Wloka versendet. Die Mitarbeiterin bzw. der Mitarbeiter wird in der versendeten E-Mail an den Leistungsbesteller in CC gesetzt. Eigenständig, ohne Genehmigung, werden keine Entwicklungsberichte vom Personal versendet.
+
+Als Orientierung dienen vorhandene ältere Entwicklungsberichte, die als Beispiel herangezogen werden können.
 
 === Aufbau und Schreibweise
 
@@ -626,10 +532,6 @@ Entwicklungsberichte sind immer bis zum angegebenen Datum bei der Leitung einzur
 - «beim Sozialdienst XY» oder «im Sozialdienst XY» (nicht «auf dem Sozialdienst»)
 
 === Gliederung des Entwicklungsberichts
-
-#commentbox[
-  *\[Frage 22\]* Dazu gibt es doch sicher eine offizielle Vorlage oder einen Leitfaden, der mit den Leistungsbestellenden abgestimmt ist. Es wäre sinnvoll, diese Vorlage hier zu verlinken oder zumindest die wichtigsten Punkte daraus zu nennen, damit die Mitarbeitenden wissen, wie ein Entwicklungsbericht strukturiert sein soll.
-]
 
 #table(
   columns: (auto, auto, 1fr),
@@ -765,10 +667,6 @@ Die folgenden Verhaltensgrundsätze sind verbindlich. Sie dienen einem professio
     Schuhe nur ausziehen, wenn üblich oder hygienisch notwendig. Teilnahme an privaten familiären Aktivitäten nur, wenn pädagogisch begründet und abgesprochen.
   ],
 )
-
-#commentbox[
-  *\[Frage 23\]* Sollte hier noch etwas stehen zu politischen Statements oder zur Neutralität? Z.\u{a0}B. «Free Palestine» ... Das könnte in einem professionellen Kontext problematisch sein, insbesondere wenn es um die Arbeit mit Familien aus unterschiedlichen kulturellen oder politischen Hintergründen geht. Es wäre sinnvoll, eine klare Regelung zu haben, um Missverständnisse zu vermeiden.
-]
 
 == C.7 Dresscode
 
@@ -906,9 +804,7 @@ Zugangsdaten: #sym.arrow.r Anhang Z
 
 *Erste Hilfe:* Jede Mitarbeiterin und jeder Mitarbeiter erhält ein Erste-Hilfe-Set und eine Pflasterbox für unterwegs. Grosse Erste-Hilfe-Kästen in Unterseen und Bern.
 
-#commentbox[
-  *\[Frage 24\]* Gibt es einen Defibrillator (AED) in den Büros oder im Gebäude? Wo ist er? Gibt es ein Unfallbuch? Ist eine Arbeitssicherheitsunterweisung vorgesehen? Das ArG und die EKAS-Richtlinien verpflichten Arbeitgeber zu Massnahmen im Bereich Arbeitssicherheit und Gesundheitsschutz — bitte prüfen, was hier dokumentiert werden muss.
-]
+*Arbeitssicherheit:* Es gibt eine Einweisung in die Betriebsstätte; dazu zählt auch Unfallschutz und Arbeitssicherheit. Ein Notfallplan zeigt, wo welche Erste-Hilfe-Kästen stehen.
 
 *Kindersicherung:* Steckdosen sind gesichert. Schlüssel zum Öffnen: Schublade des Büroschreibtisches.
 
@@ -952,11 +848,6 @@ Die folgenden Formulare werden als separate Dokumente verwaltet:
 
 Alle Formulare sind bei Frau Wloka erhältlich oder in der projektinternen Dokumentenverwaltung verfügbar.
 
-#commentbox[
-  *\[Frage 25\]* Der Entwicklungsbericht (F-02) ist auf die SPF-Begleitung zugeschnitten. Die unter C.2 aufgeführten Leistungen umfassen jedoch auch UWB (Ausübung, Übergabe, Begleitung) und DAF. Ist es korrekt, dass für diese Leistungen kein separater Entwicklungsbericht vorgesehen ist, oder gibt es dafür eigene Vorlagen?
-]
-
-
 = Anhang III — ICF-Klassifikation
 
 Die Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und Gesundheit (ICF) ist ein bio-psycho-soziales Modell zur ganzheitlichen Erfassung der Lebenssituation.
@@ -970,6 +861,3 @@ Die Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und
 - *Bewegung und Mobilität* (Grob- und Feinmotorik, Räumliche Wahrnehmung, Körperwahrnehmung)
 - *Sozial-emotionales Lernen* (Empathie, Beziehungen gestalten, Selbstwert, Identität)
 
-#commentbox[
-  *\[Frage 26\]* Ist eine schweizerische oder eidgenössische Referenz für die ICF-Klassifikation passender als der Link zum niedersächsischen Bildungsportal? (z.\u{a0}B. Bundesamt für Statistik, Staatssekretariat für Bildung)
-]

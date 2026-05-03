@@ -1,5 +1,9 @@
 # Backlog
 
+Stand 03.05.2026: [x] Kundenantworten zu den Fragen eingearbeitet (26 Antworten),
+alle Kommentar-/Frageboxen entfernt, .typ als einzige Quelldatei etabliert,
+.md gelöscht, PDF via typst compile erzeugt
+
 Stand 27.04.2026: [x] Überarbeitungspaket 3 — D.1 Standorte umsortiert
 (Interlaken/Unterseen + Bootshäuser zusammen, Bern nachgestellt); Bild Bootshaus
 Brienzersee ersetzt (image8.jpeg → Bootshaus Brienzersee.jpg) mit Google-Earth-Link;
@@ -279,9 +283,11 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 - [ ] [P1] [policy] Regel zur Nutzung von Diensthandys als technische
   Dienstanweisung verankern
 
-- [ ] [P1] [layout] Reader-Layout von XeLaTeX/Pandoc auf Typst migrieren —
-  Typst-Quelldatei (.typ) als Layout-Format, Tinymist-Preview in VSCode,
+- [x] [P1] [layout] Reader-Layout von XeLaTeX/Pandoc auf Typst migrieren —
+  Typst-Quelldatei (.typ) als einziges Quellformat, .md gelöscht,
   PDF-Export via `typst compile`
+- [x] [P1] [docs] Kundenantworten (26 Fragen/Kommentare) in den Reader
+  einarbeiten und alle Kommentar-/Frageboxen entfernen
 
 ## P2 Could
 
