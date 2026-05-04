@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 04.05.2026: [x] WLAN-QR-Code fuer Buero Unterseen technisch
+verifiziert und bei Bedarf mit `qrencode` korrekt neu erzeugt
+
 Stand 04.05.2026: [x] WLAN-QR-Code fuer Buero Unterseen als Asset erzeugt
 und in `willkommen_an_bord.typ` im Anhang Zugangsdaten und Codes
 eingebunden

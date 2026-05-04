@@ -2,6 +2,11 @@
 
 ## 2026-05-04
 
+- WLAN-QR-Code fuer das Buero Unterseen technisch verifiziert; der zuerst
+  lokal erzeugte QR-Code wich von einer standardkonformen `qrencode`-Version
+  ab und wurde deshalb durch ein mit `qrencode` neu erzeugtes Asset ersetzt;
+  PDF via `typst compile` erfolgreich aktualisiert
+
 - WLAN-QR-Code fuer das Buero Unterseen als neues Asset
   `documents/onboarding/assets/qr_wlan_unterseen.png` erzeugt und im
   `Anhang Zugangsdaten und Codes` von
