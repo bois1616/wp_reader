@@ -116,7 +116,7 @@
 // ─────────────────────────────────────────────────────────────
 
 #page(margin: 0pt, header: none, footer: none)[
-  #image("assets/aktuelles_3.jpg", width: 100%, height: 55%)
+  #image("assets/wegweiser_mit_baer.png", width: 100%, height: 55%)
   #v(1fr)
   #align(center)[
     #block(inset: (x: 40pt))[
@@ -740,12 +740,15 @@ Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Ka
 
 === Büro Bern
 
-Maulbeerstrasse 10, 3011 Bern
+#aside-image("assets/buero_bern_maulbeerstrasse.jpg", side: right, img-width: 38%)[
+  Maulbeerstrasse 10, 3011 Bern
 
-*Gebäudekontakt:* \
-Projekt Interim Bern GmbH \
-David Derbin — david.derbin\@projekt-interim.ch · Tel: 078 974 40 67 \
-Elriz Traub (Bewirtschafterin) — elriz.traub\@projekt-interim.ch
+  #v(4pt)
+  *Gebäudekontakt:* \
+  Projekt Interim Bern GmbH \
+  David Derbin — david.derbin\@projekt-interim.ch · Tel: 078 974 40 67 \
+  Elriz Traub (Bewirtschafterin) — elriz.traub\@projekt-interim.ch
+]
 
 *Transponder Bern:* Für den Zugang nach 20:00 Uhr hängt der Transponder im Schlüsselkasten in Unterseen.
 
