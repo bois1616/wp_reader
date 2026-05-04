@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 04.05.2026: [x] Bildpool unter `documents/onboarding/assets/`
+separat versioniert; `bck.typ` bewusst ausserhalb von Git belassen
+
 Stand 04.05.2026: [x] Visuellen Feinschliff fuer Bildumfluss und
 Seitenbalance in `willkommen_an_bord.typ` abgeschlossen und per Typst
 geprueft

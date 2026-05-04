@@ -2,6 +2,10 @@
 
 ## 2026-05-04
 
+- Separaten Bildpool-Stand vorbereitet: noch unversionierte Bilddateien unter
+  `documents/onboarding/assets/` gesammelt fuer einen eigenen Commit;
+  `documents/onboarding/bck.typ` bewusst ausserhalb von Git belassen
+
 - Visuellen Feinschliff in `documents/onboarding/willkommen_an_bord.typ`
   abgeschlossen: Bildbreite in `B.5 Urlaub und Hafentage` leicht reduziert
   und Bildbreite in `C.7 Kleiderordnung` vergroessert, damit Text und Bilder
