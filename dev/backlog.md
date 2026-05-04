@@ -1,5 +1,9 @@
 # Backlog
 
+Stand 04.05.2026: [x] WLAN-QR-Code fuer Buero Unterseen als Asset erzeugt
+und in `willkommen_an_bord.typ` im Anhang Zugangsdaten und Codes
+eingebunden
+
 Stand 04.05.2026: [x] Freigegebene Anpassungen aus
 `abgleich_original_entscheidungsliste.md` in `willkommen_an_bord.typ`
 umgesetzt; Formularverweise, Anhangsbezuege und Anhang Zugangsdaten und

@@ -2,6 +2,12 @@
 
 ## 2026-05-04
 
+- WLAN-QR-Code fuer das Buero Unterseen als neues Asset
+  `documents/onboarding/assets/qr_wlan_unterseen.png` erzeugt und im
+  `Anhang Zugangsdaten und Codes` von
+  `documents/onboarding/willkommen_an_bord.typ` eingebunden; PDF via
+  `typst compile` erfolgreich aktualisiert
+
 - Freigegebene Anpassungen aus
   `documents/onboarding/abgleich_original_entscheidungsliste.md` in
   `documents/onboarding/willkommen_an_bord.typ` umgesetzt: Formularhinweise

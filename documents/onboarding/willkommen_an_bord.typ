@@ -923,6 +923,10 @@ Dieser Anhang enthält sensible Zugangsdaten und ist vertraulich zu behandeln.
 - W-LAN Netzwerkname (SSID): `EB8B1003A3`
 - W-LAN Passwort: `Wpira@2025`
 
+#align(center)[
+  #image("assets/qr_wlan_unterseen.png", width: 3.5cm)
+]
+
 == Dienstfahrräder
 
 - Schloss-Code: `22222`
