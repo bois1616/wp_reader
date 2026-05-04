@@ -1,5 +1,40 @@
 # Backlog
 
+Stand 04.05.2026: [x] Visuellen Feinschliff fuer Bildumfluss und
+Seitenbalance in `willkommen_an_bord.typ` abgeschlossen und per Typst
+geprueft
+
+Stand 04.05.2026: [x] Editor-Backup `bck.typ` gegen
+`willkommen_an_bord.typ` abgeglichen und manuelle Aenderungen gezielt
+zurueckgefuehrt
+
+Stand 04.05.2026: [x] Bedingtes Querformat-Bild vor Abschnitt B eingefuegt,
+wenn beim Abschnittswechsel mehr als 50% der Inhaltsseite leer bleiben
+
+Stand 04.05.2026: [x] Freigegebene genderneutrale Anpassungen aus der
+Entscheidungsliste in `willkommen_an_bord.typ` umgesetzt und via Typst
+kompiliert
+
+Stand 04.05.2026: [x] Gender-Entscheidungsliste um die Spalte
+`Entscheidung` erweitert
+
+Stand 04.05.2026: [x] Gender-Entscheidungsliste als Markdown-Datei unter
+`documents/onboarding/` erstellt
+
+Stand 04.05.2026: [x] Entscheidungsliste fuer genderneutrale Anpassungen
+in `willkommen_an_bord.typ` gemaess Nutzerlinie erstellt, ohne Textumsetzung
+
+Stand 04.05.2026: [x] Konkrete Formulierungsvorschlaege fuer genderneutrale
+Alternativen in `willkommen_an_bord.typ` erarbeitet, ohne Umsetzung im Text
+
+Stand 04.05.2026: [x] Gender-Review des Onboarding-Readers durchgefuehrt;
+Verstoesse gegen genderneutrale Sprache in `willkommen_an_bord.typ`
+identifiziert und markiert, ohne Textaenderungen
+
+Stand 04.05.2026: [x] Zwei neue Hochformat-Bilder fuer den Onboarding-Reader
+im Stil der bestehenden Assets fuer B.5 Urlaub und C.3 Spesen erstellen und
+im Dokument referenzieren
+
 Stand 03.05.2026: [x] Kundenantworten zu den Fragen eingearbeitet (26 Antworten),
 alle Kommentar-/Frageboxen entfernt, .typ als einzige Quelldatei etabliert,
 .md gelöscht, PDF via typst compile erzeugt
@@ -167,6 +202,25 @@ eingerichtet und mit Backlog sowie Umsetzungslog verankert
 
 ## P1 Should
 
+- [x] [P1] [docs] Manuelle Editor-Aenderungen aus `bck.typ` gezielt in
+  `willkommen_an_bord.typ` reintegrieren
+- [x] [P1] [docs] Bedingte Bildlogik fuer den Wechsel von Abschnitt A zu
+  Abschnitt B in `willkommen_an_bord.typ` einbauen
+- [x] [P1] [docs] Freigegebene genderneutrale Formulierungen aus der
+  Entscheidungsliste in `willkommen_an_bord.typ` umsetzen
+- [x] [P1] [docs] Gender-Entscheidungsliste um eine Spalte
+  `Entscheidung` erweitern
+- [x] [P1] [docs] Gender-Entscheidungsliste als Markdown-Datei unter
+  `documents/onboarding/` ablegen
+- [x] [P1] [review] Entscheidungsliste fuer genderneutrale Formulierungen in
+  `willkommen_an_bord.typ` entlang der festgelegten Linie erstellen
+- [x] [P1] [review] Konkrete genderneutrale Textalternativen fuer markierte
+  Stellen in `willkommen_an_bord.typ` vorschlagen, ohne direkte Aenderung
+- [x] [P1] [review] `willkommen_an_bord.typ` auf genderneutrale Sprache
+  pruefen, Verstoesse markieren und den Lesefluss als Kriterium mitbewerten
+- [x] [P1] [docs] Zwei dokumentengeeignete Hochformat-Bilder fuer B.5 Urlaub
+  und C.3 Spesen im Stil der bestehenden Onboarding-Assets erstellen und im
+  Typst-Dokument einbinden
 - [x] [P1] [review] Dokumentenvergleich rumpf vs. korrekturlesen: korrekturlesen
   ist alleinige Arbeitsgrundlage; rumpf nur Anschauungsmaterial
 - [x] [P1] [docs] Abgleich: inhaltsverzeichnis.md gegen Original-Reader –

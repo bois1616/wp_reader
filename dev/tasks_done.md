@@ -1,5 +1,81 @@
 # Tasks Done
 
+## 2026-05-04
+
+- Visuellen Feinschliff in `documents/onboarding/willkommen_an_bord.typ`
+  abgeschlossen: Bildbreite in `B.5 Urlaub und Hafentage` leicht reduziert
+  und Bildbreite in `C.7 Kleiderordnung` vergroessert, damit Text und Bilder
+  ruhiger umfliessen und freie Seitenflaechen besser genutzt werden; PDF via
+  `typst compile` erfolgreich geprueft
+
+- Manuelle Editor-Aenderungen aus `documents/onboarding/bck.typ` gezielt in
+  `documents/onboarding/willkommen_an_bord.typ` reintegriert; zurueckgeholt
+  wurden insbesondere Bildwahl und Bildbreiten vieler `#aside-image`-Bloecke,
+  die alternative Formulierung zu `B.3` mit `Referenzalter`, die
+  ausfuehrlichere Fassung von `B.5`, die Bildumfluesse in `C.2/C.3` sowie der
+  Haftungsausschluss beim Bootshaus; spaetere Fixes wie Gender-Anpassungen,
+  `Anhang Z` und die bedingte Bildlogik vor Abschnitt B blieben erhalten; PDF
+  via `typst compile` erfolgreich geprüft
+
+## 2026-05-04
+
+- Bedingte Bildlogik vor `Abschnitt B` in
+  `documents/onboarding/willkommen_an_bord.typ` ergänzt: `assets/default.jpg`
+  wird zentriert mit 70% Breite eingefügt, aber nur dann, wenn am
+  Abschnittswechsel mehr als 50% der Inhaltsseite leer bleiben; PDF via
+  `typst compile` erfolgreich geprüft
+
+## 2026-05-04
+
+- Freigegebene genderneutrale Anpassungen aus
+  `documents/onboarding/gender_entscheidungsliste.md` in
+  `documents/onboarding/willkommen_an_bord.typ` umgesetzt; geaendert wurden
+  insbesondere Doppelformen bei `Mitarbeitenden`, `Arbeitgeber` →
+  `Arbeitgeberin`, mehrere `Klienten`-Stellen sowie `fachmännisch` →
+  `fachgerecht`; PDF via `typst compile` erfolgreich geprüft
+
+## 2026-05-04
+
+- Tabelle in `documents/onboarding/gender_entscheidungsliste.md` um die
+  Spalte `Entscheidung` ergänzt, damit Freigaben direkt in der Liste erfasst
+  werden koennen
+
+## 2026-05-04
+
+- Gender-Entscheidungsliste als Markdown-Datei unter
+  `documents/onboarding/` angelegt, damit die vorgeschlagenen Formulierungen
+  fallweise abgenommen werden koennen
+
+## 2026-05-04
+
+- Entscheidungsliste fuer genderneutrale Anpassungen in
+  `documents/onboarding/willkommen_an_bord.typ` entlang der festgelegten
+  Sprachlinie erstellt (`Mitarbeitende`, Plural-/Passivformen,
+  `Arbeitgeberin` bzw. `Wegpiraten GmbH` je nach Kontext), ohne Aenderungen
+  am Dokument vorzunehmen
+
+## 2026-05-04
+
+- Konkrete genderneutrale Formulierungsvorschlaege fuer markierte Stellen in
+  `documents/onboarding/willkommen_an_bord.typ` ausgearbeitet; Konsistenz-
+  entscheidungen fuer mehrfach auftretende Muster kenntlich gemacht, ohne
+  Textanpassungen im Dokument vorzunehmen
+
+## 2026-05-04
+
+- Gender-Review fuer `documents/onboarding/willkommen_an_bord.typ`
+  durchgefuehrt; Verstoesse gegen genderneutrale Sprache mit Fokus auf
+  Lesefluss identifiziert und fuer spaetere Ueberarbeitung markiert, ohne
+  inhaltliche Textaenderungen vorzunehmen
+
+## 2026-05-04
+
+- Zwei neue dokumentengeeignete Hochformat-Bilder fuer `Willkommen an Bord`
+  erstellt und eingebunden: `assets/urlaub_planung_hoch.png` fuer B.5 Urlaub
+  sowie `assets/spesen_hoch.png` fuer C.3 Spesen; Bildreferenzen in
+  `willkommen_an_bord.typ` angepasst und PDF via `typst compile` erfolgreich
+  geprüft
+
 ## 2026-05-03
 
 - Kundenantworten eingearbeitet (26 Punkte aus antworten_zu_den_fragen.md):

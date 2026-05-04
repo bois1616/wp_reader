@@ -8,6 +8,8 @@
 #let wp-gray    = rgb("#f2f2f2")
 #let wp-darkgray = rgb("#555555")
 #let wp-lightblue = rgb("#d6eaf8")
+#let body-top = 2.8cm
+#let body-height = 29.7cm - 2.8cm - 2.4cm
 
 
 #let aside-image(img-path, body, side: left, img-width: 34%) = {
@@ -32,6 +34,21 @@
   v(4pt)
   line(length: 100%, stroke: 0.4pt + wp-darkgray.lighten(60%))
   v(4pt)
+}
+
+#let maybe-section-break-image(img-path, min-empty-ratio: 50%) = context {
+  let pos = here().position()
+  let threshold = body-top + body-height * (100% - min-empty-ratio)
+
+  if pos != none and pos.y < threshold {
+    [
+      #v(1fr)
+      #align(center)[
+        #image(img-path, width: 70%)
+      ]
+      #v(1fr)
+    ]
+  }
 }
 
 // ─────────────────────────────────────────────────────────────
@@ -194,7 +211,7 @@ Die Bestimmungen gelten für sämtliche Mitarbeitenden der Wegpiraten GmbH. Als 
 
 == A.1 Wer wir sind und was wir tun
 
-#aside-image("assets/bab_gemeinsamer_moment.jpg", side: right)[
+#aside-image("assets/bab_gemeinsamer_moment.jpg", side: left, img-width: 40%)[
   Wir sind die Wegpiraten GmbH — ein multiprofessionelles Team von Sozialpädagoginnen und Sozialpädagogen mit Standorten in Unterseen/Interlaken und Bern. Unsere Arbeit ist systemisch, erlebnispädagogisch und konsequent auf die Menschen ausgerichtet, mit denen wir arbeiten.
 
   #v(6pt)
@@ -216,13 +233,15 @@ Die Bestimmungen gelten für sämtliche Mitarbeitenden der Wegpiraten GmbH. Als 
 
 == A.2 Unsere Grundhaltung
 
-#aside-image("assets/kernbotschaft_1_emotional.jpg", side: right, img-width: 30%)[
+#aside-image("assets/intake_freundlich.jpg", side: left, img-width: 40%)[
   - Hilfe zur Selbsthilfe — So wenig wie möglich, so viel wie nötig
   - Sich selber überflüssig machen.
   - Eltern machen es so gut sie können. Wir sensibilisieren für eine Lösung.
   - Zukunftsfokus und konsequente Umsetzung der Abmachungen.
   - Ich bin verbindlich und verlässlich — und erwarte das auch vom Gegenüber.
   - Ich arbeite *ressourcenorientiert und systemisch*: alle Player werden involviert.
+]
+#aside-image("assets/mediation_1.jpg", side: right, img-width: 40%)[
   - *Allparteilichkeit* — ich schlage mich auf keine Seite.
   - Positive Grundhaltung, Wertschätzung, Menschenfreude. Es darf auch gelacht werden.
   - Authentisch sein — auch mal sagen, wenn etwas gerade schwierig ist.
@@ -241,9 +260,9 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 == A.3 Unsere Crew
 
-#aside-image("assets/zusammenarbeit_1.jpg", side: right, img-width: 30%)[
+#aside-image("assets/zusammenarbeit_2.jpg", side: right, img-width: 40%)[
   - Abgeschlossenes Studium in Pädagogik, Sozialpädagogik, Sozialer Arbeit oder Kindheitspädagogik.
-  - Eigenständiges Betreuen der anvertrauten Klienten mit lückenloser Dokumentation.
+  - Eigenständiges Betreuen der anvertrauten Klientinnen und Klienten mit lückenloser Dokumentation.
   - Belastbarkeit, Freude an der Arbeit, Prioritäten setzen können.
   - Interesse an Abenteuer- und Erlebnispädagogik.
   - Spielideen und Methoden für die systemische Familienarbeit.
@@ -260,7 +279,7 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 == A.4 Was du von uns erwarten kannst
 
-#aside-image("assets/zusammenarbeit_2.jpg", side: left, img-width: 30%)[
+#aside-image("assets/zusammenarbeit_3.jpg", side: left, img-width: 40%)[
   Ein vielseitiger, moderner Arbeitsplatz mit echtem Teamrückhalt — das erwartet dich bei den Wegpiraten.
 ]
 
@@ -281,12 +300,13 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 - Bei einem 100%-Pensum: 30 Urlaubstage pro Jahr bei einer 40-Stunden-Woche.
 - Zusätzliche betriebliche «Hafentage» zwischen den Feiertagen im Dezember.
 
+#maybe-section-break-image("assets/default.jpg")
 
 = Abschnitt B — Anstellungsverhältnis
 
 == B.1 Form und Dauer
 
-Die Mitarbeiterin bzw. der Mitarbeiter wird als Sozialpädagogin bzw. Sozialpädagoge angestellt und arbeitet im sozialpädagogischen Bereich der Wegpiraten GmbH — insbesondere in der Sozialpädagogischen Familienbegleitung (SPF) sowie in der Unterstützung bei der Wahrnehmung des Besuchsrechts.
+Mitarbeitende werden im sozialpädagogischen Bereich der Wegpiraten GmbH angestellt und arbeiten insbesondere in der Sozialpädagogischen Familienbegleitung (SPF) sowie in der Unterstützung bei der Wahrnehmung des Besuchsrechts.
 
 Der hauptsächliche Arbeitsort ist in den Büroräumlichkeiten der Wegpiraten GmbH an der Hauptstrasse 47, 3800 Unterseen, oder an der Maulbeerstrasse 10, 3011 Bern. Zusätzlich werden Einsätze im Sozialraum der Klientinnen und Klienten durchgeführt.
 
@@ -303,7 +323,8 @@ Das Arbeitsverhältnis kann ordentlich und schriftlich wie folgt gekündigt werd
 - *In den ersten zwei Dienstjahren:* Kündigungsfrist von zwei Monaten
 - *Ab dem dritten Dienstjahr:* Kündigungsfrist von drei Monaten
 
-Die Kündigung erfolgt jeweils schriftlich auf das Ende eines Kalendermonats. Eine sofortige Kündigung ist insbesondere möglich, wenn eine rechtskräftige Verurteilung wegen einer Straftat vorliegt. Das Arbeitsverhältnis endet automatisch per Ende des Monats, in dem das ordentliche AHV-Alter erreicht wird.
+Die Kündigung erfolgt jeweils schriftlich auf das Ende eines Kalendermonats. Eine sofortige Kündigung ist insbesondere möglich, wenn eine rechtskräftige Verurteilung wegen einer Straftat vorliegt.
+Das Arbeitsverhältnis endet automatisch auf das Ende des Monats, in dem die arbeitnehmende Person das ordentliche Referenzalter erreicht; eine Kündigung ist nicht erforderlich.
 
 == B.4 Lohn
 
@@ -315,28 +336,29 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
 
 == B.5 Urlaub und Hafentage
 
-#aside-image("assets/klare_schritte_1.jpg", side: left, img-width: 30%)[
-  Bei einer 100%-Anstellung besteht Anspruch auf 30 bezahlte Urlaubstage pro Jahr (40-Stunden-Woche). Der individuelle Anspruch ist im Arbeitsvertrag festgelegt.
+#aside-image("assets/urlaub_planung_hoch.png", side: left, img-width: 38%)[
+  Es besteht Anspruch auf *dreissig* bezahlte Urlaubstage pro Jahr. Eine reguläre Arbeitswoche besteht aus 40 Arbeitsstunden. Ein regulärer Arbeitstag umfasst bei einer Fünf-Tage-Woche mithin *acht* Arbeitsstunden. Bei einer Teilzeitbeschäftigung reduziert sich die zu leistende Stundenzahl je Arbeitstag, nicht aber die Anzahl Arbeitstage. Der individuelle Arbeitsanteil ist im Arbeitsvertrag oder einer entsprechenden schriftlichen Zusatzvereinbarung festgelegt.
+
+  #v(6pt)
+  === Urlaubsstundenberechnung
+
+  #table(
+    columns: (auto, auto, auto, auto),
+    [Arbeitsanteil], [Urlaubstage], [Stunden / Tag], [Urlaubsstunden / Jahr],
+    [100%], [30], [8,0], [240],
+    [80%], [30], [6,4], [192],
+    [60%], [30], [4,8], [144],
+  )
 
   #v(4pt)
-  Die zeitliche Lage des Urlaubs wird in Abstimmung mit dem Arbeitgeber schriftlich festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
+  Die zeitliche Lage des Urlaubs wird in Abstimmung mit der Arbeitgeberin schriftlich festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
 ]
 
-*Übertrag und Verfall:* Die Arbeitnehmenden müssen ihren Urlaub nehmen, spätestens bis zum *31. März des Folgejahres*. Es können maximal zehn Urlaubstage in das neue Jahr übertragen werden, die im ersten Quartal zu beziehen sind. Urlaubstage, die über diesen Übertrag hinausgehen, verfallen.
+*Übertrag und Verfall:* Die Arbeitnehmenden sollen ihren Urlaub im Kalenderjahr nehmen. In Ausnahmefällen können bis zu *zehn* Urlaubstage in das folgende Kalenderjahr übernommen werden. Diese sind spätestens bis zum *31. März des Folgejahres* zu nehmen. Urlaubstage, die über diesen Übertrag (zeitlich oder in der Menge) hinausgehen, verfallen ohne Kompensation. Eine ausdrückliche Aufforderung zur Urlaubsnahme durch die Arbeitgeberin ist nicht erforderlich.
 
-*Vertretungsregelung:* Bei Abwesenheit (Urlaub oder Krankheit) ist die Leitung zu informieren. Diese übernimmt die Vertretung bzw. sorgt für fachmännischen Ersatz.
+*Vertretungsregelung:* Bei Abwesenheit (Urlaub oder Krankheit) ist die Leitung zu informieren. Diese übernimmt die Vertretung bzw. sorgt für fachgerechten Ersatz.
 
-Erkrankt eine Mitarbeiterin bzw. ein Mitarbeiter während des Urlaubs, werden die Urlaubstage (ohne Wochenenden) nachgewährt, wenn ein ärztliches Zeugnis vorgelegt wird. Sonderurlaub ohne Lohn kann bei wichtigem Grund und wenn die betrieblichen Verhältnisse es gestatten gewährt werden.
-
-=== Urlaubstageberechnung
-
-#table(
-  columns: (auto, auto, auto, auto),
-  [Arbeitsanteil], [Urlaubstage], [Stunden / Tag], [Urlaubsstunden / Jahr],
-  [100%], [30], [8,0], [240],
-  [80%], [30], [6,4], [192],
-  [60%], [30], [4,8], [144],
-)
+Erkranken Mitarbeitende während des Urlaubs, werden die Urlaubstage (ohne Wochenenden) nachgewährt, wenn ein ärztliches Zeugnis vorgelegt wird. Sonderurlaub ohne Lohn kann bei wichtigem Grund und wenn die betrieblichen Verhältnisse es gestatten gewährt werden.
 
 Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht die Wochentage verkürzt.
 
@@ -362,18 +384,18 @@ Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht di
 
 == B.6 Überstunden
 
-#aside-image("assets/schatzkarte.jpg", side: left, img-width: 30%)[
+#aside-image("assets/supervision_3.jpg", side: left, img-width: 40%)[
   Überstunden sind unverzüglich zu melden. Sie werden primär durch Freizeit gleicher Dauer kompensiert, spätestens innert eines Jahres.
 
   #v(4pt)
-  Sollte eine Kompensation durch Freizeit aus unvorhergesehenen Gründen nicht möglich sein, kann nach vorheriger Rücksprache mit dem Arbeitgeber ausnahmsweise eine Auszahlung zum Stundensatz ohne Zuschlag (1:1) vereinbart werden. Bei Austritt erfolgt die Auszahlung ohne Zuschlag, sofern eine Kompensation nicht möglich war.
+  Sollte eine Kompensation durch Freizeit aus unvorhergesehenen Gründen nicht möglich sein, kann nach vorheriger Rücksprache mit der Arbeitgeberin ausnahmsweise eine Auszahlung zum Stundensatz ohne Zuschlag (1:1) vereinbart werden. Bei Austritt erfolgt die Auszahlung ohne Zuschlag, sofern eine Kompensation nicht möglich war.
 ]
 
 == B.7 Weiterbildung
 
 Weiterbildung wird von den Mitarbeitenden selbst finanziert. Pro Jahr stehen fünf Weiterbildungstage zur Verfügung, an denen der Lohn fortgezahlt wird. Nicht genutzte Tage verfallen am Jahresende.
 
-Eine vom Arbeitgeber angeordnete Weiterbildung hat keinen Einfluss auf die fünf Weiterbildungstage.
+Eine von der Arbeitgeberin angeordnete Weiterbildung hat keinen Einfluss auf die fünf Weiterbildungstage.
 
 == B.8 Arztzeugnis und Krankheit
 
@@ -401,13 +423,15 @@ Die Wegpiraten GmbH versichert das Personal gegen die wirtschaftlichen Folgen de
 
 *B.* Krankentagegeldversicherung bei der Mobiliar mit 30 Tagen Wartefrist. Die Prämien werden je zur Hälfte von den Mitarbeitenden und von der Wegpiraten GmbH getragen.
 
-Es gilt, dass alle Mitarbeitenden unfallversichert sind — auf dem Weg zur Arbeit, während der Arbeitszeit und während des Urlaubs. Dies gilt auch für Fahrten mit dem Fahrrad zum Klienten oder mit dem Klienten.
+Es gilt, dass alle Mitarbeitenden unfallversichert sind — auf dem Weg zur Arbeit, während der Arbeitszeit und während des Urlaubs. Dies gilt auch für Fahrten mit dem Fahrrad zu Klientinnen und Klienten oder mit ihnen.
 
 == B.11 Schweigepflicht
 
+#aside-image("assets/datenschutz_1.jpg", side: left, img-width: 40%)[
 Mitarbeitende unterstehen der beruflichen Schweigepflicht. Es ist untersagt, Informationen über Kinder, Jugendliche oder deren Angehörige, die im Rahmen der beruflichen Tätigkeit erlangt werden, sowohl während als auch nach Beendigung des Arbeitsverhältnisses an unbefugte Dritte weiterzugeben.
 
 Akten und vertrauliche Unterlagen dürfen ohne Zustimmung der vorgesetzten Stelle grundsätzlich keiner Person zugänglich gemacht werden — auch nicht den betroffenen Kindern oder Jugendlichen. Die Verletzung des Berufsgeheimnisses ist gemäss Art. 321 StGB strafbar.
+]
 
 Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine ausdrückliche Auskunftsermächtigung erteilt oder wenn eine gesetzliche Offenlegungspflicht besteht. Besteht der begründete Verdacht, dass die körperliche oder seelische Integrität eines Kindes gefährdet ist, besteht eine unverzügliche Informationspflicht gegenüber der vorgesetzten Stelle.
 
@@ -416,7 +440,7 @@ Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine a
 
 == C.1 Stellenbeschreibung
 
-#aside-image("assets/bab_ankommen.jpg", side: left, img-width: 30%)[
+#aside-image("assets/uebergabe_2.jpg", side: left, img-width: 40%)[
   Die sozialpädagogische Arbeit basiert auf der Leistungsbeschreibung «Sozialpädagogische Familienbegleitung» (Fassung 05.10.2022) sowie auf den Leistungsvereinbarungen des Bereichs «Unterstützung bei der Wahrnehmung des Besuchsrechts».
 
   #v(4pt)
@@ -485,10 +509,12 @@ Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach
 
 === Teamsitzungen und Supervision
 
+#aside-image("assets/supervision_2.jpg", side: left, img-width: 40%)[
 Teamsitzungen und Supervisionen finden je viermal pro Jahr statt (in der Regel einmal pro Quartal). Die Teilnahme ist verpflichtend.
 
 - *Supervision:* Wird geleitet und organisiert durch eine externe Firma.
 - *Teamsitzung:* Wird geleitet und geführt durch die Leitung bzw. eine Fachperson. Die Dokumentation erfolgt ebenfalls durch die Leitung.
+]
 
 === Spezialfälle
 
@@ -497,25 +523,25 @@ Teamsitzungen und Supervisionen finden je viermal pro Jahr statt (in der Regel e
 
 == C.3 Spesen
 
-#aside-image("assets/default.jpg", side: left, img-width: 30%)[
+#aside-image("assets/spesen_hoch.png", side: left, img-width: 40%)[
   Quittungen und Rechnungen (im Original) sind mit dem Namenskürzel der Klientin/des Klienten und einer kurzen Beschreibung des Verwendungszwecks zu versehen (z.\u{a0}B. «Klient:in HaWu — Zvieri»).
 
   #v(4pt)
   Sie sind zusammen mit der Spesentasche fristgerecht zum Monatsende ans Büro in Unterseen einzureichen. Oben auf jedem Abrechnungsblatt stehen Name der Fachperson und Abrechnungsmonat mit Jahreszahl.
+  #v(4pt)
+  Die Quittungen werden auf ein DIN-A4-Blatt geklebt (ohne zu überlappen). Betrag in CHF und Datum sind mit einem auffälligen Marker zu unterstreichen.
+
+  #v(4pt)
+  Spesen werden monatlich separat ausbezahlt. Bei Bedarf kann ein Spesenvorschuss bei der Geschäftsführung beantragt werden.
 ]
-
-#v(4pt)
-Die Quittungen werden auf ein DIN-A4-Blatt geklebt (ohne zu überlappen). Betrag in CHF und Datum sind mit einem auffälligen Marker zu unterstreichen.
-
-Spesen werden monatlich separat ausbezahlt. Bei Bedarf kann ein Spesenvorschuss bei der Geschäftsführung beantragt werden.
 
 == C.4 Stundenerhöhung pro Monat
 
-Sollte das bewilligte Stundenkontingent bei den Klienten für einen Monat nicht ausreichen, ist die sozialpädagogische Fachperson im Voraus darüber zu informieren. Mehrstunden müssen schriftlich bei der zuständigen Fachperson im Amt oder bei der Behörde beantragt und ausdrücklich schriftlich genehmigt werden.
+Sollte das bewilligte Stundenkontingent bei den Klientinnen und Klienten für einen Monat nicht ausreichen, ist die sozialpädagogische Fachperson im Voraus darüber zu informieren. Mehrstunden müssen schriftlich bei der zuständigen Fachperson im Amt oder bei der Behörde beantragt und ausdrücklich schriftlich genehmigt werden.
 
 == C.5 Entwicklungsberichte
 
-Entwicklungsberichte werden für SPF, UWB und DAF nach dem gleichen Muster geschrieben. Sie sind immer bis zum angegebenen Datum bei der Leitung einzureichen. Sie werden mithilfe eines externen Lektors und KI korrigiert und dann von Frau Wloka versendet. Die Mitarbeiterin bzw. der Mitarbeiter wird in der versendeten E-Mail an den Leistungsbesteller in CC gesetzt. Eigenständig, ohne Genehmigung, werden keine Entwicklungsberichte vom Personal versendet.
+Entwicklungsberichte werden für SPF, UWB und DAF nach dem gleichen Muster geschrieben. Sie sind immer bis zum angegebenen Datum bei der Leitung einzureichen. Sie werden mithilfe eines externen Lektors und KI korrigiert und dann von Frau Wloka versendet. Die zuständige Fachperson wird in der versendeten E-Mail an den Leistungsbesteller in CC gesetzt. Eigenständig, ohne Genehmigung, werden keine Entwicklungsberichte vom Personal versendet.
 
 Als Orientierung dienen vorhandene ältere Entwicklungsberichte, die als Beispiel herangezogen werden können.
 
@@ -526,7 +552,7 @@ Als Orientierung dienen vorhandene ältere Entwicklungsberichte, die als Beispie
 - _«Wörtliche Rede»_ kennzeichnen — kursiv
 - Ganze Sätze mit Der, Die, Das
 - Abkürzungen: KM, KV, KE (Kindesmutter, Kindesvater, Kindeseltern)
-- Namen der Klienten werden ausgeschrieben (z.\u{a0}B. Max, Franz, Heidi)
+- Die Namen der Klientinnen und Klienten werden ausgeschrieben (z.\u{a0}B. Max, Franz, Heidi)
 - STAO = das Standortgespräch (nicht «eine STAO»)
 - Bei Aufzählungen kein Punkt am Ende
 - «beim Sozialdienst XY» oder «im Sozialdienst XY» (nicht «auf dem Sozialdienst»)
@@ -622,7 +648,7 @@ Die Beobachtung des Kinderwohls wird strukturiert anhand der folgenden Bedürfni
 
 Die folgenden Verhaltensgrundsätze sind verbindlich. Sie dienen einem professionellen, respektvollen und sicheren Arbeitsumfeld sowie der Wahrung der Vorbildfunktion gegenüber Kindern, Jugendlichen und deren Familien.
 
-#aside-image("assets/zusammenarbeit_1.jpg", side: left, img-width: 30%)[
+#aside-image("assets/zusammenarbeit_1.jpg", side: left, img-width: 40%)[
   Alle Mitarbeitenden sollen sich einander rücksichtsvoll verhalten und die persönlichen Sphären gegenseitig respektieren. Bei Mobbing, Bossing, Diskriminierung oder sexueller Belästigung gilt: die belästigende Person auf das unzulässige Verhalten hinweisen und die betroffene Person unterstützen. Vorgesetzte sind verantwortlich für eine diskriminierungs- und belästigungsfreie Arbeitsatmosphäre.
 ]
 
@@ -660,7 +686,7 @@ Die folgenden Verhaltensgrundsätze sind verbindlich. Sie dienen einem professio
     *9. Rauch- und Suchtmittel* \
     Konsum von Alkohol, Cannabis oder anderen Substanzen vor oder während der Arbeitszeit ist strengstens verboten.
 
-    *10. Eigentum der Klienten* \
+    *10. Eigentum der Klientinnen und Klienten* \
     Persönliche Gegenstände und Möbel respektvoll behandeln. Räume nur mit Einverständnis betreten.
 
     *11. Häusliches Umfeld* \
@@ -668,11 +694,11 @@ Die folgenden Verhaltensgrundsätze sind verbindlich. Sie dienen einem professio
   ],
 )
 
-== C.7 Dresscode
+== C.7 Kleiderordnung
 
 Mitarbeitende vertreten die Wegpiraten GmbH nach innen und aussen. Ein gepflegtes, professionelles und situationsangemessenes Erscheinungsbild ist zwingend.
 
-#aside-image("assets/draussen_22.jpg", side: left, img-width: 30%)[
+#aside-image("assets/draussen_22.jpg", side: left, img-width: 45%)[
   *Angemessenheit (Casual Chic):* Kleidung muss gepflegt, sauber und einsatzgerecht sein. Neutraler, zurückhaltender Stil wird erwartet.
 
   #v(4pt)
@@ -723,7 +749,7 @@ Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich 
   ],
   [
     #align(center)[
-      #image("assets/qr_bootshaus_goldswil.png", width: 2.5cm)
+      #image("assets/qr_bootshaus_goldswil.png", width: 3cm)
       #text(size: 7pt, fill: wp-darkgray)[Lage auf \ Google Earth]
     ]
   ],
@@ -736,11 +762,11 @@ Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich 
 
 *Schlüssel:* Im Schlüsselkasten in Unterseen (Code: #sym.arrow.r Anhang Zugangsdaten). Nach Benutzung zurückbringen und im digitalen Kalender eintragen.
 
-Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Kalender eintragen. Eigene Familie, Verwandte und Freunde sind herzlich willkommen. Die Fachperson der Wegpiraten GmbH muss stets dabei sein. *Schwimmwestenpflicht.*
+Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Kalender eintragen. Eigene Familie, Verwandte und Freunde sind herzlich willkommen. Die Fachperson der Wegpiraten GmbH muss stets dabei sein. *Es gilt die Schwimmwestenpflicht.* Die Wegpiraten GmbH schliesst bei privater Nutzung des Bootshauses oder darin befindlicher Materialien jede Haftung aus.
 
 === Büro Bern
 
-#aside-image("assets/buero_bern_maulbeerstrasse.jpg", side: right, img-width: 38%)[
+#aside-image("assets/buero_bern_maulbeerstrasse.jpg", side: right, img-width: 40%)[
   Maulbeerstrasse 10, 3011 Bern
 
   #v(4pt)
@@ -793,7 +819,7 @@ Zugangsdaten: #sym.arrow.r Anhang Z
 
 == D.4 Büroalltag
 
-#aside-image("assets/intake_freundlich.jpg", side: left, img-width: 30%)[
+#aside-image("assets/aktuelles_1.jpg", side: left, img-width: 40%)[
   *Materialien und Anschaffungen:* Anschaffungswünsche mit der vorgesetzten Leitung besprechen. Im Büro Unterseen hängt eine Liste am Kühlschrank.
 
   #v(4pt)
@@ -805,7 +831,7 @@ Zugangsdaten: #sym.arrow.r Anhang Z
 
 *Reinigung:* Alle zwei Wochen Nassreinigung. Raum so verlassen, wie er vorgefunden wurde (oder besser). Staubsauger nach Benutzung reinigen und an die Stromversorgung anschliessen.
 
-*Erste Hilfe:* Jede Mitarbeiterin und jeder Mitarbeiter erhält ein Erste-Hilfe-Set und eine Pflasterbox für unterwegs. Grosse Erste-Hilfe-Kästen in Unterseen und Bern.
+*Erste Hilfe:* Alle Mitarbeitenden erhalten ein Erste-Hilfe-Set und eine Pflasterbox für unterwegs. Grosse Erste-Hilfe-Kästen in Unterseen und Bern.
 
 *Arbeitssicherheit:* Es gibt eine Einweisung in die Betriebsstätte; dazu zählt auch Unfallschutz und Arbeitssicherheit. Ein Notfallplan zeigt, wo welche Erste-Hilfe-Kästen stehen.
 
@@ -863,4 +889,3 @@ Die Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und
 - *Spracherwerb und Begriffsbildung* (Aussprache, Wortschatz, Grammatik, Lesen, Schreiben)
 - *Bewegung und Mobilität* (Grob- und Feinmotorik, Räumliche Wahrnehmung, Körperwahrnehmung)
 - *Sozial-emotionales Lernen* (Empathie, Beziehungen gestalten, Selbstwert, Identität)
-
