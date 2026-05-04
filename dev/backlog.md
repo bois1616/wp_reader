@@ -1,5 +1,16 @@
 # Backlog
 
+Stand 04.05.2026: [x] Freigegebene Anpassungen aus
+`abgleich_original_entscheidungsliste.md` in `willkommen_an_bord.typ`
+umgesetzt; Formularverweise, Anhangsbezuege und Anhang Zugangsdaten und
+Codes ergaenzt
+
+Stand 04.05.2026: [x] Originaldokument
+`documents/external/korrekturlesen_willkommen_an_bord.md` gegen aktuelle
+`willkommen_an_bord.typ` abgeglichen und Entscheidungsliste fuer fehlende
+Inhalte, Formularverweise und Anhaenge unter `documents/onboarding/`
+erstellt, ohne Textumsetzung
+
 Stand 04.05.2026: [x] Bildpool unter `documents/onboarding/assets/`
 separat versioniert; `bck.typ` bewusst ausserhalb von Git belassen
 

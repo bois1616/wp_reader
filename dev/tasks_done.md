@@ -2,6 +2,26 @@
 
 ## 2026-05-04
 
+- Freigegebene Anpassungen aus
+  `documents/onboarding/abgleich_original_entscheidungsliste.md` in
+  `documents/onboarding/willkommen_an_bord.typ` umgesetzt: Formularhinweise
+  und Verweise auf `Anhang I` in die relevanten Abschnitte eingearbeitet,
+  `Anhang II` in `C.5` rueckgebunden, fehlenden `Anhang Zugangsdaten und
+  Codes` mit aus dem Original uebernommenen Zugangsdaten ergaenzt,
+  Benennung der Zugangsdaten-Verweise vereinheitlicht, die ICF-Anhangsnummer
+  von III auf II korrigiert, mehrere vermeidbare Abkuerzungen im Fliesstext
+  ausgeschrieben sowie Hinweis zu unbezahltem Urlaub und Versicherungsschutz
+  wieder aufgenommen; PDF via `typst compile` erfolgreich aktualisiert
+
+- Originaldokument `documents/external/korrekturlesen_willkommen_an_bord.md`
+  gegen `documents/onboarding/willkommen_an_bord.typ` abgeglichen und
+  Entscheidungsliste unter
+  `documents/onboarding/abgleich_original_entscheidungsliste.md` erstellt;
+  festgehalten wurden insbesondere fehlende Formularrueckverweise,
+  verwaiste Anhaenge I und III, der fehlende Anhang Z fuer Zugangsdaten sowie
+  einzelne potenziell relevante Inhaltsdifferenzen; keine Textaenderungen am
+  Reader vorgenommen
+
 - Separaten Bildpool-Stand vorbereitet: noch unversionierte Bilddateien unter
   `documents/onboarding/assets/` gesammelt fuer einen eigenen Commit;
   `documents/onboarding/bck.typ` bewusst ausserhalb von Git belassen

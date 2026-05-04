@@ -328,7 +328,7 @@ Das Arbeitsverhältnis endet automatisch auf das Ende des Monats, in dem die arb
 
 == B.4 Lohn
 
-Die akzeptierten Leistungen sowie nachgewiesene und bewilligte Spesen werden monatlich vergütet. Die Mitarbeitenden verpflichten sich, jeweils bis Ende des Monats für den vergangenen Monat eine Auflistung der Stunden (Arbeitszeitnachweis) zu erstellen und einzureichen — sowohl bei der Buchhaltung (buchhaltung\@wegpiraten.ch) als auch bei Frau Wloka (info\@wegpiraten.ch).
+Die akzeptierten Leistungen sowie nachgewiesene und bewilligte Spesen werden monatlich vergütet. Die Mitarbeitenden verpflichten sich, jeweils bis spätestens am letzten Tag des Monats um 00:00 Uhr für den vergangenen Monat eine Auflistung der Stunden (Arbeitszeitnachweis) zu erstellen und einzureichen — sowohl bei der Buchhaltung (buchhaltung\@wegpiraten.ch) als auch bei Frau Wloka (info\@wegpiraten.ch). Die Arbeitszeitnachweise werden jeweils am Monatsanfang durch die Arbeitgeberin bereitgestellt und sind verbindlich zu verwenden. Weitere Formulare sind im *Anhang I — Formularverzeichnis* aufgeführt.
 
 === Dreizehnter Monatslohn
 
@@ -351,14 +351,16 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
   )
 
   #v(4pt)
-  Die zeitliche Lage des Urlaubs wird in Abstimmung mit der Arbeitgeberin schriftlich festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
+  Die zeitliche Lage des Urlaubs wird in Abstimmung mit der Arbeitgeberin schriftlich in Textform festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
 ]
 
 *Übertrag und Verfall:* Die Arbeitnehmenden sollen ihren Urlaub im Kalenderjahr nehmen. In Ausnahmefällen können bis zu *zehn* Urlaubstage in das folgende Kalenderjahr übernommen werden. Diese sind spätestens bis zum *31. März des Folgejahres* zu nehmen. Urlaubstage, die über diesen Übertrag (zeitlich oder in der Menge) hinausgehen, verfallen ohne Kompensation. Eine ausdrückliche Aufforderung zur Urlaubsnahme durch die Arbeitgeberin ist nicht erforderlich.
 
-*Vertretungsregelung:* Bei Abwesenheit (Urlaub oder Krankheit) ist die Leitung zu informieren. Diese übernimmt die Vertretung bzw. sorgt für fachgerechten Ersatz.
+*Vertretungsregelung:* Bei Abwesenheit (Urlaub oder Krankheit) ist die Leitung zu informieren. Diese übernimmt die Vertretung oder sorgt für fachgerechten Ersatz.
 
-Erkranken Mitarbeitende während des Urlaubs, werden die Urlaubstage (ohne Wochenenden) nachgewährt, wenn ein ärztliches Zeugnis vorgelegt wird. Sonderurlaub ohne Lohn kann bei wichtigem Grund und wenn die betrieblichen Verhältnisse es gestatten gewährt werden.
+Erkranken Mitarbeitende während des Urlaubs, werden die Urlaubstage (ohne Wochenenden) nachgewährt, wenn ein ärztliches Zeugnis vorgelegt wird. Sonderurlaub ohne Lohn kann bei wichtigem Grund und wenn die betrieblichen Verhältnisse es gestatten gewährt werden. Während eines unbezahlten Urlaubs besteht kein Versicherungsschutz über den Betrieb.
+/* TODO: Prüfe, welche Versicherungen bei unbezahltem Urlaub weiterlaufen. */
+/* TODO: Sabbatical-Regelung prüfen. */
 
 Für die Buchhaltung werden die Arbeitsstunden prozentual herabgesetzt, nicht die Wochentage verkürzt.
 
@@ -462,7 +464,7 @@ Die Tätigkeit erfolgt überwiegend im häuslichen Umfeld der Familien, im Sozia
 
 == C.2 Arbeitszeitnachweis und Stundenerfassung
 
-Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit und indirekte Fallarbeit. Die Zeiterfassung erfolgt gemäss dem effektiven Aufwand, gerundet auf fünf Minuten. Intern sind die Tätigkeiten detailliert festzuhalten. Das KJA kann die interne Zeiterfassung einfordern.
+Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit und indirekte Fallarbeit. Die Zeiterfassung erfolgt gemäss dem effektiven Aufwand, gerundet auf fünf Minuten. Intern sind die Tätigkeiten detailliert festzuhalten. Das KJA kann die interne Zeiterfassung einfordern. Der Arbeitszeitnachweis wird auf dem jeweils von der Arbeitgeberin bereitgestellten Formular geführt. Weitere Formulare sind im *Anhang I — Formularverzeichnis* aufgeführt.
 
 *Zu deklarieren:*
 
@@ -474,11 +476,11 @@ Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit
 
 #table(
   columns: (auto, 1fr, 1.5fr, auto),
-  [Nr.], [Leistung], [Bemerkungen], [Abgeltung],
+  [Nummer], [Leistung], [Bemerkungen], [Abgeltung],
   [1], [SPF (Sozialpädagogische Familienbegleitung)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
   [2], [UWB Ausübung Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit.], [Pro Stunde],
   [3], [UWB Übergabe Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit. Pro Besuch.], [Pro Stunde],
-  [4], [UWB Begleitung individuell (Unterstützung bei der Wahrnehmung des Besuchsrechts)], [Fahrzeit und indirekte Fallarbeit abgegolten. Max. 10\u{a0}Std. Direktkontakt.], [Pro Stunde, 5-Min.-Takt],
+  [4], [UWB Begleitung individuell (Unterstützung bei der Wahrnehmung des Besuchsrechts)], [Fahrzeit und indirekte Fallarbeit abgegolten. Maximal 10\u{a0}Stunden Direktkontakt.], [Pro Stunde, 5-Min.-Takt],
   [5], [DAF (Langzeitunterbringung Familienpflege)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
 )
 
@@ -496,7 +498,7 @@ Für jede Stunde im Direktkontakt mit der Familie kann höchstens eine halbe Stu
 
 *Indirekte fallbezogene fachliche Arbeit:*
 
-- Vor- und Nachbereitung inkl. Verfassen von Berichten und Aktennotizen
+- Vor- und Nachbereitung einschliesslich Verfassen von Berichten und Aktennotizen
 - Kontakt mit Leistungsbestellenden, Fallbesprechungen, Fallsupervision
 - Fallbezogene Arbeit mit dem sozialen Netzwerk
 - Fachliche fallübergreifende Aufwände (z.\u{a0}B. Supervision, Teamsitzung)
@@ -513,7 +515,7 @@ Im Grundsatz sind zwischen Samstag 23 Uhr und Sonntag 23 Uhr sowie generell nach
 Teamsitzungen und Supervisionen finden je viermal pro Jahr statt (in der Regel einmal pro Quartal). Die Teilnahme ist verpflichtend.
 
 - *Supervision:* Wird geleitet und organisiert durch eine externe Firma.
-- *Teamsitzung:* Wird geleitet und geführt durch die Leitung bzw. eine Fachperson. Die Dokumentation erfolgt ebenfalls durch die Leitung.
+- *Teamsitzung:* Wird geleitet und geführt durch die Leitung oder eine Fachperson. Die Dokumentation erfolgt ebenfalls durch die Leitung.
 ]
 
 === Spezialfälle
@@ -541,9 +543,9 @@ Sollte das bewilligte Stundenkontingent bei den Klientinnen und Klienten für ei
 
 == C.5 Entwicklungsberichte
 
-Entwicklungsberichte werden für SPF, UWB und DAF nach dem gleichen Muster geschrieben. Sie sind immer bis zum angegebenen Datum bei der Leitung einzureichen. Sie werden mithilfe eines externen Lektors und KI korrigiert und dann von Frau Wloka versendet. Die zuständige Fachperson wird in der versendeten E-Mail an den Leistungsbesteller in CC gesetzt. Eigenständig, ohne Genehmigung, werden keine Entwicklungsberichte vom Personal versendet.
+Entwicklungsberichte werden für SPF, UWB und DAF nach dem gleichen Muster geschrieben. Sie sind immer bis zum angegebenen Datum bei der Leitung einzureichen. Sie werden mithilfe eines externen Lektors und KI korrigiert und dann von Frau Wloka versendet. Die zuständige Fachperson wird in der versendeten E-Mail an den Leistungsbesteller in CC gesetzt. Eigenständig, ohne Genehmigung, werden keine Entwicklungsberichte vom Personal versendet. Die zugehörige Vorlage ist im *Anhang I — Formularverzeichnis* als *F-02 Vorlage Entwicklungsberichte* aufgeführt.
 
-Als Orientierung dienen vorhandene ältere Entwicklungsberichte, die als Beispiel herangezogen werden können.
+Als Orientierung dienen vorhandene ältere Entwicklungsberichte, die als Beispiel herangezogen werden können. Für die fachliche Einordnung kann zusätzlich der *Anhang II — ICF-Klassifikation* beigezogen werden.
 
 === Aufbau und Schreibweise
 
@@ -561,7 +563,7 @@ Als Orientierung dienen vorhandene ältere Entwicklungsberichte, die als Beispie
 
 #table(
   columns: (auto, auto, 1fr),
-  [Nr.], [Abschnitt], [Inhalt],
+  [Nummer], [Abschnitt], [Inhalt],
   [1], [Aktuelle Situation], [Ausgangslage, Anlass, Auftrag und Ziele],
   [2], [Familiensituation], [Wohnsituation, Rollenverteilung, Kooperation, Belastungen, Ressourcen],
   [3], [Entwicklung und Wohl des Kindes], [Emotionales, soziales, kognitives, körperliches Wohlbefinden],
@@ -746,8 +748,7 @@ Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich 
   image("assets/bootshaus_brienzersee.jpeg", width: 100%),
   [
     Direkt an der Aare, am östlichen Ende der öffentlichen Bootsplätze in Goldswil, unterhalb der ZB-Eisenbahnbrücke.
-  ],
-  [
+
     #align(center)[
       #image("assets/qr_bootshaus_goldswil.png", width: 3cm)
       #text(size: 7pt, fill: wp-darkgray)[Lage auf \ Google Earth]
@@ -760,7 +761,7 @@ Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich 
 - Via TCS Campingplatz Interlaken der Aare entlang bis zum Bootshaus unterhalb der Eisenbahnbrücke
 - Oder: Via Lanzenstrasse über die Eisenbahnbrücke, nach der Brücke links abbiegen in den Aareweg — das Bootshaus steht gleich links unten an der Aare
 
-*Schlüssel:* Im Schlüsselkasten in Unterseen (Code: #sym.arrow.r Anhang Zugangsdaten). Nach Benutzung zurückbringen und im digitalen Kalender eintragen.
+*Schlüssel:* Im Schlüsselkasten in Unterseen (Code: #sym.arrow.r Anhang Zugangsdaten und Codes). Nach Benutzung zurückbringen und im digitalen Kalender eintragen.
 
 Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Kalender eintragen. Eigene Familie, Verwandte und Freunde sind herzlich willkommen. Die Fachperson der Wegpiraten GmbH muss stets dabei sein. *Es gilt die Schwimmwestenpflicht.* Die Wegpiraten GmbH schliesst bei privater Nutzung des Bootshauses oder darin befindlicher Materialien jede Haftung aus.
 
@@ -778,7 +779,7 @@ Das Bootshaus darf auch für private Zwecke verwendet werden — ebenfalls im Ka
 
 *Transponder Bern:* Für den Zugang nach 20:00 Uhr hängt der Transponder im Schlüsselkasten in Unterseen.
 
-*Sitzungszimmer buchen (Bern):* #sym.arrow.r Anhang Zugangsdaten
+*Sitzungszimmer buchen (Bern):* #sym.arrow.r Anhang Zugangsdaten und Codes
 
 == D.2 Digitale Kalender
 
@@ -809,13 +810,13 @@ Buchungen von Büro, Bootshaus usw. bitte im Kalender eintragen. Urlaub ebenfall
 
 == D.3 IT und digitale Infrastruktur
 
-Zugangsdaten für Computer, W-LAN und alle Tools sind im *Anhang Z — Zugangsdaten und Codes* aufgeführt. Bitte diesen Anhang gesondert und vertraulich behandeln.
+Zugangsdaten für Computer, W-LAN und alle Tools sind im *Anhang Zugangsdaten und Codes* aufgeführt. Bitte diesen Anhang gesondert und vertraulich behandeln.
 
 === Dolmetscher-Service Comprendi
 
 Über www.comprendi.ch können im Kanton Bern Übersetzerinnen und Übersetzer in jeder Sprache gebucht werden. Nach dem Termin die Unterschrift leisten — die Rechnung geht direkt an die Wegpiraten GmbH und wird vom KJA Bern erstattet. Der Dienst wird von der Caritas Bern angeboten.
 
-Zugangsdaten: #sym.arrow.r Anhang Z
+Zugangsdaten: #sym.arrow.r Anhang Zugangsdaten und Codes
 
 == D.4 Büroalltag
 
@@ -839,7 +840,7 @@ Zugangsdaten: #sym.arrow.r Anhang Z
 
 *Geburtstagsgeschenke:* Grusskarten und vorbereitete Kindergeschenke im Büro Unterseen (weisser Schrank).
 
-*Dienstfahrräder:* Stehen im Keller in Unterseen. Immer dort abstellen. Schloss-Code: #sym.arrow.r Anhang Z
+*Dienstfahrräder:* Stehen im Keller in Unterseen. Immer dort abstellen. Schloss-Code: #sym.arrow.r Anhang Zugangsdaten und Codes
 
 == D.5 Benutzung der Büroräume
 
@@ -849,8 +850,8 @@ Die Räumlichkeiten stehen den Mitarbeitenden nach Eintragung im digitalen Kalen
 
 Folgende Regelung gilt für das Öffnen von Briefen:
 
-- Alle an die Firma Wegpiraten GmbH adressierten Briefe dürfen von befugten Mitarbeitenden geöffnet werden (Postbevollmächtigte, Geschäftsführerin, Buchhaltung, stellv. Leitung, Sekretariat).
-- Post, die als «persönlich» oder «vertraulich» gekennzeichnet ist, darf nur von der bzw. dem Empfangenden geöffnet werden. Unbefugtes Öffnen verletzt das Briefgeheimnis und ist strafbar.
+- Alle an die Firma Wegpiraten GmbH adressierten Briefe dürfen von befugten Mitarbeitenden geöffnet werden (Postbevollmächtigte, Geschäftsführerin, Buchhaltung, stellvertretende Leitung, Sekretariat).
+- Post, die als «persönlich» oder «vertraulich» gekennzeichnet ist, darf nur von der empfangenden Person geöffnet werden. Unbefugtes Öffnen verletzt das Briefgeheimnis und ist strafbar.
 
 *Zuordnung:*
 
@@ -867,7 +868,7 @@ Die folgenden Formulare werden als separate Dokumente verwaltet:
 
 #table(
   columns: (auto, 1fr, 1fr),
-  [Nr.], [Formular], [Zweck],
+  [Nummer], [Formular], [Zweck],
   [F-01], [Vorlage Teamsitzung], [Protokollvorlage für regelmässige Teamsitzungen],
   [F-02], [Vorlage Entwicklungsberichte], [Strukturierte Vorlage für sechsmonatliche Berichte],
   [F-03], [Vorlage Aufnahmegespräch], [Personalien, Ressourcen, Auftrag bei Falleröffnung],
@@ -877,7 +878,7 @@ Die folgenden Formulare werden als separate Dokumente verwaltet:
 
 Alle Formulare sind bei Frau Wloka erhältlich oder in der projektinternen Dokumentenverwaltung verfügbar.
 
-= Anhang III — ICF-Klassifikation
+= Anhang II — ICF-Klassifikation
 
 Die Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und Gesundheit (ICF) ist ein bio-psycho-soziales Modell zur ganzheitlichen Erfassung der Lebenssituation.
 
@@ -889,3 +890,39 @@ Die Internationale Klassifikation der Funktionsfähigkeit, Beeinträchtigung und
 - *Spracherwerb und Begriffsbildung* (Aussprache, Wortschatz, Grammatik, Lesen, Schreiben)
 - *Bewegung und Mobilität* (Grob- und Feinmotorik, Räumliche Wahrnehmung, Körperwahrnehmung)
 - *Sozial-emotionales Lernen* (Empathie, Beziehungen gestalten, Selbstwert, Identität)
+
+= Anhang Zugangsdaten und Codes
+
+Dieser Anhang enthält sensible Zugangsdaten und ist vertraulich zu behandeln.
+
+== Dolmetscher-Service Comprendi
+
+- Website: `www.comprendi.ch`
+- Benutzername: `wegGmbH_23`
+- Passwort: `wegpirgmbh2`
+
+== Computer Apple MacBook Air
+
+- Anmeldung: `Wegpiraten GmbH` (schwarzes Flaggenbild)
+- Computer-Passwort: `Wegpiratengmbh`
+- E-Mail-Adresse: `wegpiraten.gmbh@wegpiraten.ch`
+- E-Mail-Passwort: `Bürointerlaken4321!`
+- Apple ID: `Buerointerlaken4321!`
+- Apple-ID-Passwort: `Piratenpower4321!`
+
+== Büro Bern
+
+- Sitzungszimmer-Buchungstool: `https://www.supersaas.de/dashboard/login`
+- Benutzername: `MeetingMaulbeerstrasse`
+- Passwort: `Maulbeerstrasse10`
+- W-LAN Netzwerkname: `Maulbeerstrasse 10`
+- W-LAN Passwort: `projektinterim`
+
+== Büro Unterseen
+
+- W-LAN Netzwerkname (SSID): `EB8B1003A3`
+- W-LAN Passwort: `Wpira@2025`
+
+== Dienstfahrräder
+
+- Schloss-Code: `22222`
