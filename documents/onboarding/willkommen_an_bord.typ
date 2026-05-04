@@ -285,20 +285,20 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 #v(6pt)
 
-- Nutzung sämtlicher Materialien und Arbeitsmittel der Wegpiraten GmbH.
-- Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern.
-- Individuell gestaltbare Arbeitszeitmodelle ab einem Pensum von 30%.
-- Fort- und Weiterbildungsmöglichkeiten sowie gemeinsame Teamtage.
-- Partizipative Teamkultur mit aktiver Einbindung eigener Ideen.
-- Ein multiprofessionelles Team mit kollegialer Zusammenarbeit und gegenseitiger Unterstützung.
-- Klar strukturierte Einsätze, transparente Organisation und verlässliche Kommunikation.
-- Regelmässige pädagogische Begleitung — unter anderem in Form von Monatsgesprächen.
-- Etablierte Feedback-Kultur und eine lösungsorientierte Haltung im Umgang mit Fehlern.
-- Kontinuierliche Weiterentwicklung des pädagogischen Methodenpools.
-- Gute Vernetzung mit regionalen Akteurinnen und Akteuren sowie Kooperationspartnern.
-- Regelmässige Teamsitzungen und Supervisionen.
-- Bei einem 100%-Pensum: 30 Urlaubstage pro Jahr bei einer 40-Stunden-Woche.
-- Zusätzliche betriebliche «Hafentage» zwischen den Feiertagen im Dezember.
+- Nutzung sämtlicher Materialien und Arbeitsmittel der Wegpiraten GmbH
+- Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern
+- Individuell gestaltbare Arbeitszeitmodelle ab einem Pensum von 50%
+- Fort- und Weiterbildungsmöglichkeiten sowie gemeinsame Teamtage
+- Partizipative Teamkultur mit aktiver Einbindung eigener Ideen
+- Ein multiprofessionelles Team mit kollegialer Zusammenarbeit und gegenseitiger Unterstützung
+- Klar strukturierte Einsätze, transparente Organisation und verlässliche Kommunikation
+- Regelmässige pädagogische Begleitung — unter anderem in Form von Monatsgesprächen
+- Etablierte Feedback-Kultur und eine lösungsorientierte Haltung im Umgang mit Fehlern
+- Kontinuierliche Weiterentwicklung des pädagogischen Methodenpools
+- Gute Vernetzung mit regionalen Akteurinnen und Akteuren sowie Kooperationspartnern
+- Regelmässige Teamsitzungen und Supervisionen
+- 30 Urlaubstage pro Jahr
+- Zusätzlich vier *freiwillige* «Hafentage» zwischen den Feiertagen im Dezember
 
 #maybe-section-break-image("assets/default.jpg")
 
@@ -437,6 +437,7 @@ Akten und vertrauliche Unterlagen dürfen ohne Zustimmung der vorgesetzten Stell
 
 Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine ausdrückliche Auskunftsermächtigung erteilt oder wenn eine gesetzliche Offenlegungspflicht besteht. Besteht der begründete Verdacht, dass die körperliche oder seelische Integrität eines Kindes gefährdet ist, besteht eine unverzügliche Informationspflicht gegenüber der vorgesetzten Stelle.
 
+#maybe-section-break-image("assets/default.jpg")
 
 = Abschnitt C — Arbeiten bei den Wegpiraten
 
@@ -721,6 +722,7 @@ Mitarbeitende vertreten die Wegpiraten GmbH nach innen und aussen. Ein gepflegte
 
 Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich in der Schweiz zu nutzen. Anrufe, SMS und Internet sind in der Schweiz kostenlos. *Das Diensthandy ist in keinem Fall im Ausland zu benutzen.* Nimmt jemand das Handy unerlaubt mit ins Ausland und es fallen Gebühren an, zahlt die betreffende Person den Betrag selbst. Bei Bedarf kann eine Rufweiterleitung an die Leitungen in Bern und Unterseen erfolgen (nach vorheriger Absprache).
 
+#maybe-section-break-image("assets/default.jpg")
 
 = Abschnitt D — Organisation und Infrastruktur
 
