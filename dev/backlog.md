@@ -1,5 +1,8 @@
 # Backlog
 
+Stand 05.05.2026: [x] In B.1 Absatz 1 die Leistung DAF (Dauerhafte
+Ausserfamiliaere Platzierung in der Familienpflege) ergaenzt
+
 Stand 04.05.2026: [x] WLAN-QR-Code fuer Buero Unterseen technisch
 verifiziert und bei Bedarf mit `qrencode` korrekt neu erzeugt
 

@@ -1,5 +1,12 @@
 # Tasks Done
 
+## 2026-05-05
+
+- In B.1 Absatz 1 die Leistung DAF (Dauerhafte Ausserfamiliaere
+  Platzierung in der Familienpflege) sowie die Abkuerzung UWB bei der
+  bestehenden Besuchsrechts-Leistung ergaenzt; Formulierung orientiert
+  sich an wegpiraten.ch/leistungen
+
 ## 2026-05-04
 
 - WLAN-QR-Code fuer das Buero Unterseen technisch verifiziert; der zuerst

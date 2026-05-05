@@ -38,16 +38,15 @@
 
 #let maybe-section-break-image(img-path, min-empty-ratio: 50%) = context {
   let pos = here().position()
-  let threshold = body-top + body-height * (100% - min-empty-ratio)
+  let remaining = body-top + body-height - pos.y
+  let threshold = body-height * (min-empty-ratio / 100%)
 
-  if pos != none and pos.y < threshold {
-    [
-      #v(1fr)
-      #align(center)[
-        #image(img-path, width: 70%)
-      ]
-      #v(1fr)
-    ]
+  if remaining > threshold {
+    place(
+      bottom + center,
+      float: true,
+      image(img-path, width: 70%),
+    )
   }
 }
 
@@ -241,7 +240,7 @@ Die Bestimmungen gelten für sämtliche Mitarbeitenden der Wegpiraten GmbH. Als 
   - Ich bin verbindlich und verlässlich — und erwarte das auch vom Gegenüber.
   - Ich arbeite *ressourcenorientiert und systemisch*: alle Player werden involviert.
 ]
-#aside-image("assets/mediation_1.jpg", side: right, img-width: 40%)[
+#aside-image("assets/mediation_5.jpg", side: right, img-width: 40%)[
   - *Allparteilichkeit* — ich schlage mich auf keine Seite.
   - Positive Grundhaltung, Wertschätzung, Menschenfreude. Es darf auch gelacht werden.
   - Authentisch sein — auch mal sagen, wenn etwas gerade schwierig ist.
@@ -266,11 +265,12 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
   - Belastbarkeit, Freude an der Arbeit, Prioritäten setzen können.
   - Interesse an Abenteuer- und Erlebnispädagogik.
   - Spielideen und Methoden für die systemische Familienarbeit.
+]
   - Versierter Umgang mit Office- und iOS-Programmen sowie digitalen Medien.
   - Selbstständiges Arbeiten, Professionalität und Flexibilität.
   - Absolute Zuverlässigkeit und Pünktlichkeit, humorvoll, ehrlich, engagiert.
   - Das Herz sitzt bei dir am richtigen Fleck — du bist jemand, den du selbst gerne treffen würdest.
-]
+
 
 #v(4pt)
 #align(center)[
@@ -287,8 +287,8 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 - Nutzung sämtlicher Materialien und Arbeitsmittel der Wegpiraten GmbH
 - Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern
 - Individuell gestaltbare Arbeitszeitmodelle ab einem Pensum von 50%
-- Fort- und Weiterbildungsmöglichkeiten sowie gemeinsame Teamtage
 ]
+- Fort- und Weiterbildungsmöglichkeiten sowie gemeinsame Teamtage
 - Partizipative Teamkultur mit aktiver Einbindung eigener Ideen
 - Ein multiprofessionelles Team mit kollegialer Zusammenarbeit und gegenseitiger Unterstützung
 - Klar strukturierte Einsätze, transparente Organisation und verlässliche Kommunikation
@@ -306,8 +306,9 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 == B.1 Form und Dauer
 
-Mitarbeitende werden im sozialpädagogischen Bereich der Wegpiraten GmbH angestellt und arbeiten insbesondere in der Sozialpädagogischen Familienbegleitung (SPF) sowie in der Unterstützung bei der Wahrnehmung des Besuchsrechts.
-
+#aside-image("assets/bab_abschied.jpg", side: left, img-width: 40%)[
+Mitarbeitende werden im sozialpädagogischen Bereich der Wegpiraten GmbH angestellt und arbeiten insbesondere in der Sozialpädagogischen Familienbegleitung (SPF), in der Dauerhaften Ausserfamiliären Platzierung in der Familienpflege (DAF) sowie in der Unterstützung bei der Wahrnehmung des Besuchsrechts (UWB).
+]
 Der hauptsächliche Arbeitsort ist in den Büroräumlichkeiten der Wegpiraten GmbH an der Hauptstrasse 47, 3800 Unterseen, oder an der Maulbeerstrasse 10, 3011 Bern. Zusätzlich werden Einsätze im Sozialraum der Klientinnen und Klienten durchgeführt.
 
 Das Arbeitsverhältnis wird durch einen schriftlichen Einzelarbeitsvertrag begründet. Ohne besondere Vereinbarung wird der Arbeitsvertrag auf unbestimmte Dauer abgeschlossen.
@@ -328,11 +329,11 @@ Das Arbeitsverhältnis endet automatisch auf das Ende des Monats, in dem die arb
 
 == B.4 Lohn
 
-Die akzeptierten Leistungen sowie nachgewiesene und bewilligte Spesen werden monatlich vergütet. Die Mitarbeitenden verpflichten sich, jeweils bis spätestens am letzten Tag des Monats um 00:00 Uhr für den vergangenen Monat eine Auflistung der Stunden (Arbeitszeitnachweis) zu erstellen und einzureichen — sowohl bei der Buchhaltung (buchhaltung\@wegpiraten.ch) als auch bei Frau Wloka (info\@wegpiraten.ch). Die Arbeitszeitnachweise werden jeweils am Monatsanfang durch die Arbeitgeberin bereitgestellt und sind verbindlich zu verwenden. Weitere Formulare sind im *Anhang I — Formularverzeichnis* aufgeführt.
+Die akzeptierten Leistungen sowie nachgewiesene und bewilligte Spesen werden monatlich vergütet. Die Mitarbeitenden verpflichten sich, jeweils bis spätestens am letzten Tag des Monats um 00:00 Uhr für den vergangenen Monat eine Auflistung der Stunden (Arbeitszeitnachweis) zu erstellen und einzureichen — sowohl bei der Buchhaltung (buchhaltung\@wegpiraten.ch) als auch bei Frau Wloka (info\@wegpiraten.ch). Die Arbeitszeitnachweise werden jeweils am Monatsanfang durch die Arbeitgeberin bereitgestellt und sind verbindlich zu verwenden. Weitere verbindlich zu benutzende Formulare sind im *Anhang I — Formularverzeichnis* aufgeführt.
 
 === Dreizehnter Monatslohn
 
-Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr ausbezahlt. Bei einem Austritt unter dem Jahr wird er anteilsmässig berechnet und mit dem definitiven Austritt ausbezahlt.
+Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils am Jahresende ausbezahlt. Bei einem Austritt unter dem Jahr wird er anteilsmässig berechnet und mit dem definitiven Austritt ausbezahlt.
 
 == B.5 Urlaub und Hafentage
 
@@ -350,8 +351,10 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
   )
 
   #v(4pt)
-  Die zeitliche Lage des Urlaubs wird in Abstimmung mit der Arbeitgeberin schriftlich in Textform festgelegt und ist erst mit Genehmigung und Unterschrift gültig. Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
-]
+  Die zeitliche Lage des Urlaubs wird in Abstimmung mit der Arbeitgeberin schriftlich in Textform festgelegt und ist erst mit Genehmigung und Unterschrift gültig.
+ ]
+ Urlaub ist selbstständig im digitalen Kalender einzutragen. Eine Abwesenheitsnotiz im E-Mail-Programm ist selbstständig zu schalten und nach Rückkehr wieder zu entfernen.
+
 
 *Übertrag und Verfall:* Die Arbeitnehmenden sollen ihren Urlaub im Kalenderjahr nehmen. In Ausnahmefällen können bis zu *zehn* Urlaubstage in das folgende Kalenderjahr übernommen werden. Diese sind spätestens bis zum *31. März des Folgejahres* zu nehmen. Urlaubstage, die über diesen Übertrag (zeitlich oder in der Menge) hinausgehen, verfallen ohne Kompensation. Eine ausdrückliche Aufforderung zur Urlaubsnahme durch die Arbeitgeberin ist nicht erforderlich.
 
@@ -436,7 +439,7 @@ Akten und vertrauliche Unterlagen dürfen ohne Zustimmung der vorgesetzten Stell
 
 Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine ausdrückliche Auskunftsermächtigung erteilt oder wenn eine gesetzliche Offenlegungspflicht besteht. Besteht der begründete Verdacht, dass die körperliche oder seelische Integrität eines Kindes gefährdet ist, besteht eine *unverzügliche Informationspflicht* gegenüber der vorgesetzten Stelle.
 
-/* #maybe-section-break-image("assets/default.jpg") */
+#maybe-section-break-image("assets/papagei.jpg")
 
 = Abschnitt C — Arbeiten bei den Wegpiraten
 
@@ -722,7 +725,7 @@ Mitarbeitende vertreten die Wegpiraten GmbH nach innen und aussen. Ein gepflegte
 
 Das von den Wegpiraten zur Verfügung gestellte Diensthandy ist ausschliesslich in der Schweiz zu nutzen. Anrufe, SMS und Internet sind in der Schweiz kostenlos. *Das Diensthandy ist in keinem Fall im Ausland zu benutzen.* Nimmt jemand das Handy unerlaubt mit ins Ausland und es fallen Gebühren an, zahlt die betreffende Person den Betrag selbst. Bei Bedarf kann eine Rufweiterleitung an die Leitungen in Bern und Unterseen erfolgen (nach vorheriger Absprache).
 
-#maybe-section-break-image("assets/default.jpg")
+#maybe-section-break-image("assets/outdoor_7.jpg")
 
 = Abschnitt D — Organisation und Infrastruktur
 
