@@ -45,7 +45,7 @@
     place(
       bottom + center,
       float: true,
-      image(img-path, width: 70%),
+      image(img-path, width: 90%),
     )
   }
 }
