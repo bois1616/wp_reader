@@ -281,7 +281,6 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 
 #aside-image("assets/zusammenarbeit_3.jpg", side: left, img-width: 40%)[
   Ein vielseitiger, moderner Arbeitsplatz mit echtem Teamrückhalt — das erwartet dich bei den Wegpiraten.
-]
 
 #v(6pt)
 
@@ -289,6 +288,7 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 - Arbeitsplätze an zentraler Lage in Unterseen/Interlaken oder Bern
 - Individuell gestaltbare Arbeitszeitmodelle ab einem Pensum von 50%
 - Fort- und Weiterbildungsmöglichkeiten sowie gemeinsame Teamtage
+]
 - Partizipative Teamkultur mit aktiver Einbindung eigener Ideen
 - Ein multiprofessionelles Team mit kollegialer Zusammenarbeit und gegenseitiger Unterstützung
 - Klar strukturierte Einsätze, transparente Organisation und verlässliche Kommunikation
@@ -298,7 +298,7 @@ Dabei lassen wir die Schuldfrage aussen vor und halten uns an drei Punkte:
 - Gute Vernetzung mit regionalen Akteurinnen und Akteuren sowie Kooperationspartnern
 - Regelmässige Teamsitzungen und Supervisionen
 - 30 Urlaubstage pro Jahr
-- Zusätzlich vier *freiwillige* «Hafentage» zwischen den Feiertagen im Dezember
+- Zusätzlich vier *freiwillige* «Hafentage» zwischen den Feiertagen im Dezember (24.12. sowie 27.12. bis 31.12.)
 
 #maybe-section-break-image("assets/default.jpg")
 
@@ -337,9 +337,8 @@ Der 13. Monatslohn wird, wenn nicht anders vereinbart, jeweils per Ende Jahr aus
 == B.5 Urlaub und Hafentage
 
 #aside-image("assets/urlaub_planung_hoch.png", side: left, img-width: 38%)[
-  Es besteht Anspruch auf *dreissig* bezahlte Urlaubstage pro Jahr. Eine reguläre Arbeitswoche besteht aus 40 Arbeitsstunden. Ein regulärer Arbeitstag umfasst bei einer Fünf-Tage-Woche mithin *acht* Arbeitsstunden. Bei einer Teilzeitbeschäftigung reduziert sich die zu leistende Stundenzahl je Arbeitstag, nicht aber die Anzahl Arbeitstage. Der individuelle Arbeitsanteil ist im Arbeitsvertrag oder einer entsprechenden schriftlichen Zusatzvereinbarung festgelegt.
+  Es besteht Anspruch auf *dreissig* bezahlte Urlaubstage pro Jahr. Eine reguläre Arbeitswoche besteht aus *fünf* Arbeitstagen (Montag - Freitag) zu je *acht* Arbeitsstunden. Bei einer Teilzeitbeschäftigung reduziert sich die zu leistende Stundenzahl je Arbeitstag, nicht aber die Anzahl Arbeitstage. Der individuelle Arbeitsanteil ist im Arbeitsvertrag oder einer entsprechenden schriftlichen Zusatzvereinbarung festgelegt.
 
-  #v(6pt)
   === Urlaubsstundenberechnung
 
   #table(
@@ -435,9 +434,9 @@ Mitarbeitende unterstehen der beruflichen Schweigepflicht. Es ist untersagt, Inf
 Akten und vertrauliche Unterlagen dürfen ohne Zustimmung der vorgesetzten Stelle grundsätzlich keiner Person zugänglich gemacht werden — auch nicht den betroffenen Kindern oder Jugendlichen. Die Verletzung des Berufsgeheimnisses ist gemäss Art. 321 StGB strafbar.
 ]
 
-Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine ausdrückliche Auskunftsermächtigung erteilt oder wenn eine gesetzliche Offenlegungspflicht besteht. Besteht der begründete Verdacht, dass die körperliche oder seelische Integrität eines Kindes gefährdet ist, besteht eine unverzügliche Informationspflicht gegenüber der vorgesetzten Stelle.
+Die Schweigepflicht entfällt, wenn die gesetzliche Vertretung des Kindes eine ausdrückliche Auskunftsermächtigung erteilt oder wenn eine gesetzliche Offenlegungspflicht besteht. Besteht der begründete Verdacht, dass die körperliche oder seelische Integrität eines Kindes gefährdet ist, besteht eine *unverzügliche Informationspflicht* gegenüber der vorgesetzten Stelle.
 
-#maybe-section-break-image("assets/default.jpg")
+/* #maybe-section-break-image("assets/default.jpg") */
 
 = Abschnitt C — Arbeiten bei den Wegpiraten
 
@@ -474,16 +473,17 @@ Für die Zeitabrechnung werden folgende Anteile erfasst: Direktkontakt, Fahrzeit
 - Fahrzeit
 
 === Überblick Leistungen und Abgeltung
-
-#table(
-  columns: (auto, 1fr, 1.5fr, auto),
-  [Nummer], [Leistung], [Bemerkungen], [Abgeltung],
-  [1], [SPF (Sozialpädagogische Familienbegleitung)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
-  [2], [UWB Ausübung Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit.], [Pro Stunde],
-  [3], [UWB Übergabe Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit. Pro Besuch.], [Pro Stunde],
-  [4], [UWB Begleitung individuell (Unterstützung bei der Wahrnehmung des Besuchsrechts)], [Fahrzeit und indirekte Fallarbeit abgegolten. Maximal 10\u{a0}Stunden Direktkontakt.], [Pro Stunde, 5-Min.-Takt],
-  [5], [DAF (Langzeitunterbringung Familienpflege)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
-)
+#block(breakable: false)[
+  #table(
+    columns: (auto, 1fr, 1.5fr, auto),
+    [Nummer], [Leistung], [Bemerkungen], [Abgeltung],
+    [1], [SPF (Sozialpädagogische Familienbegleitung)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
+    [2], [UWB Ausübung Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit.], [Pro Stunde],
+    [3], [UWB Übergabe Gruppe], [Keine Fahrzeit, keine indirekte Fallarbeit. Pro Besuch.], [Pro Stunde],
+    [4], [UWB Begleitung individuell (Unterstützung bei der Wahrnehmung des Besuchsrechts)], [Fahrzeit und indirekte Fallarbeit abgegolten. Maximal 10\u{a0}Stunden Direktkontakt.], [Pro Stunde, 5-Min.-Takt],
+    [5], [DAF (Langzeitunterbringung Familienpflege)], [Fahrzeit und indirekte Fallarbeit abgegolten.], [Pro Stunde, 5-Min.-Takt],
+  )
+]
 
 === SPF — Detailregeln
 
@@ -526,7 +526,7 @@ Teamsitzungen und Supervisionen finden je viermal pro Jahr statt (in der Regel e
 
 == C.3 Spesen
 
-#aside-image("assets/spesen_hoch.png", side: left, img-width: 40%)[
+#aside-image("assets/spesen_hoch.png", side: left, img-width: 33%)[
   Quittungen und Rechnungen (im Original) sind mit dem Namenskürzel der Klientin/des Klienten und einer kurzen Beschreibung des Verwendungszwecks zu versehen (z.\u{a0}B. «Klient:in HaWu — Zvieri»).
 
   #v(4pt)
@@ -836,7 +836,7 @@ Zugangsdaten: #sym.arrow.r Anhang Zugangsdaten und Codes
 
 *Erste Hilfe:* Alle Mitarbeitenden erhalten ein Erste-Hilfe-Set und eine Pflasterbox für unterwegs. Grosse Erste-Hilfe-Kästen in Unterseen und Bern.
 
-*Arbeitssicherheit:* Es gibt eine Einweisung in die Betriebsstätte; dazu zählt auch Unfallschutz und Arbeitssicherheit. Ein Notfallplan zeigt, wo welche Erste-Hilfe-Kästen stehen.
+*Arbeitssicherheit:* Es gibt eine Einweisung in die Betriebsstätte; dazu zählen auch Unfallschutz und Arbeitssicherheit. Ein Notfallplan zeigt, wo welche Erste-Hilfe-Kästen stehen.
 
 *Kindersicherung:* Steckdosen sind gesichert. Schlüssel zum Öffnen: Schublade des Büroschreibtisches.
 
@@ -846,7 +846,7 @@ Zugangsdaten: #sym.arrow.r Anhang Zugangsdaten und Codes
 
 == D.5 Benutzung der Büroräume
 
-Die Räumlichkeiten stehen den Mitarbeitenden nach Eintragung im digitalen Kalender zur Verfügung. Bei privater Nutzung ist eine vorherige Absprache mit der Leitung notwendig.
+Die Räumlichkeiten stehen den Mitarbeitenden nach Eintragung im digitalen Kalender (siehe auch Abschnitt D.2 Digitale Kalender) zur Verfügung. Bei privater Nutzung ist eine vorherige Absprache mit der Leitung notwendig.
 
 == D.6 Postbehandlung und Briefe
 
